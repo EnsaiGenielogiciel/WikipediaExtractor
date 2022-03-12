@@ -1,10 +1,7 @@
-# WikipediaExtractor
+#### 1. Summary of project
+The application is a table extractor. Concretely it allows to connect to a wikipedia page, then proceeds to the scraping of all the tables that are there. Once the scraping is done, it saves in the folder src/main/resources/csvdata the different scraped tables in a csv format. 
 
-L'application est un extracteur de table. Concrètement elle permet de se connecter à une page wikipedia, puis 
-procède au scraping de toutes les tables qui s'y trouve. Une fois le scraping effectué, elle sauvegarde dans
-le dossier src/main/ressources/csvdata les différents tableaux scrapés sous un format csv. 
-
-Dans la classe principale WikipediaHTMLExtractor, on implémente via un pattern design builder les méthodes pour l'extraction et l'enregistrement des fichiers. La classe TestWikipediaHTMLExtractor implémente quant à elle les tests unitaires des méthodes. Par ailleurs, parmi ces tests, on dispose d'un test testScraper_build_table_sample qui lance l'extracteur sur un échantillon d'urls du fichier wikiurls.txt  présent dans le dossier scraping\WikipediaScraping\src\test\resources. La liste ci-dessous renseigne sur les liens ou nous avons testé l'extracteur
+In the main class WikipediaHTMLExtractor, we implement via a pattern design builder the methods for extracting the tables and saving it. The TestWikipediaHTMLExtractor class implements the unit tests of the methods. Moreover, among these tests, there is a testScraper_build_table_sample which launches the extractor on a sample of urls from the file wikiurls.txt present in the folder scraping\WikipediaScraping\src\test\resources. The list below shows the links where we have tested the extractor : 
 
 - Comparison_of_DOS_operating_systems
 - Comparison_of_programming_languages_(syntax)
@@ -41,6 +38,10 @@ Dans la classe principale WikipediaHTMLExtractor, on implémente via un pattern 
 - Comparison_of_operating_system_kernels
 - Comparison_of_Fukushima_and_Chernobyl_nuclear_accidents
 
-Le test testScraper_build_table_all quant à lui lance l'extracteur sur l'ensemble de tout les urls du fichier. 
+The testScraper_build_table_all test runs the extractor on all the urls of the file wikiurls.txt.
+
+#### 2. LAUNCH THE PROJECT
+To run the project, just clone it, then import the wikipediaScraping project in eclipse. 
+A test *mvn test* will allow to run the unit tests, and to apply the extractor on the links listed above.
 
 
