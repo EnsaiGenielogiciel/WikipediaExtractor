@@ -1,0 +1,8 @@
+"Feature","Android","iOS","Tizen","SailfishOS","UbuntuTouch"
+"Non-intrusiveincomingcalls","5+or3rdpartysoftware","14+","No","No","?"
+"Non-intrusivenotifications","Yes","5+","?","?","?"
+"Moveappstoexternalstorage","2.2+","Externalstoragenotallowedforapps","No","No","No"
+"RemoteFrameBuffer(RFB)protocol","Yes","3rdpartysoftware","?","?","?"
+"Screencastondevice","11+","9+","No","No","Yes"
+"ScreencastoverUSB","4.4+overUSB,forpriorversionsrootrequiredfor3rdpartyapp","8+:onOSX","No","?","No"
+"Screenshare","Onselectdevicesusingvendor'simplementation","3rdpartysoftware","No","No","No"

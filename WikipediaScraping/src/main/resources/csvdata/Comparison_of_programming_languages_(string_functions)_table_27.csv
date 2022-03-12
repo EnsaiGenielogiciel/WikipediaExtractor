@@ -1,0 +1,2 @@
+"Definition","<string>.partition(separator)returnsthesub-stringbeforetheseparator;theseparator;thenthesub-stringaftertheseparator."
+"Description","Splitsthegivenstringbytheseparatorandreturnsthethreesubstringsthattogethermaketheoriginal."

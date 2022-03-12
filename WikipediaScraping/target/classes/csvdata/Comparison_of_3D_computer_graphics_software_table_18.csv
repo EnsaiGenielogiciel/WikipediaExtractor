@@ -1,0 +1,6 @@
+"Application","MIPMAPgeneration","AdaptiveTessellation","Instancing","CameraCulling","DeepPixelRendering","FisheyeStereoforFulldome","OmnidirectionalstereoforHMD","DeformingMotionBlur"
+"V-Ray","img2tiledexr","?","Yes","?","Yes","DomemasterStereoShader","3.2andlater","Yes"
+"RenderMan","txmake","?","Yes","?","Yes","?","Yes","Yes"
+"Arnold","maketx","Yes","Yes","?","Yes","DomemasterStereoShader","5andlater","Yes"
+"HoudiniKarma","icp","?","Yes","?","Yes","?","15.5andlater","Yes"
+"BlenderCycles","No","2.78andlater","Some","CameraCull","No","2.78andlater","2.78andlater","Yes"

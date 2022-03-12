@@ -1,0 +1,8 @@
+"KernelName","Container(noresourcemanagement,nosecurity)","Container(noresourcemanagement)","Container(resourcemanagement)","Paravirtualization","Fullvirtualization","User-spaceexecution","KernelasLibrary","KernelasKernelDriver","Hypervisor-EnforcedKernelPartitioning"
+"Linux","chroot","LXC","LXC","Virtio,Hyper-V(guestonly),Xen(guestonly),VMI(guestonly),kvm-lite,lguest","KVM","UML","(LKL)","(coLinux)","No"
+"DragonFlyBSDkernel","chroot","jail","jail","No","No","vkernel","?","?","No"
+"FreeBSDkernel","chroot","jail","jail","Virtio,Xen(guestonly)","BHyVe(KVM)","?","?","?","No"
+"NetBSDkernel","chroot","(sysjail(discontinued))","No","VirtioandXen","No","?","Rumpkernel","?","No"
+"Solariskernel","chroot","SolarisContainers/Zones","SolarisContainers/Zones","No","No","No","?","?","No"
+"WindowsNTkernel","AppContainers,JobObjects,WindowsServerContainers","Hyper-V","ProjectDrawbridge","AppContainers,JobObjects,WindowsServerContainers","AppContainers,JobObjects,WindowsServerContainers","Hyper-V","ProjectDrawbridge","No","VirtualSecureMode,DeviceGuard,CredentialGuard"
+"XNU","chroot","?","?","?","?","?","?","?","No"

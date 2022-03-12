@@ -1,0 +1,5 @@
+"Feature","Android","iOS","Tizen","SailfishOS","UbuntuTouch"
+"Systemwidebasetextsize","Yes","Yes","?","2.1.0+:Settextsize","3rdpartysoftware"
+"Monauraloutput","Yes","Yes","No","No","No"
+"Alwaysvisiblescrollbar","No","No","No","No","No"
+"ReducedAnimations","Yes","Yes","No","No","No"

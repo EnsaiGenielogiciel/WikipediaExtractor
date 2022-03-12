@@ -1,0 +1,6 @@
+"Model","CodeName","ReleaseDate","ProcessorsSupported","Fab(nm)","HyperTransport(MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"GeForce6100+nForce400","MCP61","2006","Athlon64X2,Athlon64,Sempron64SocketAM2,939","90nm","HT1GHz","1.0a2lanes","No","6Ports","8PortsRev2.0","1PortsUDMA133","2Ports3.0Gbit/s","100Mbit/s","HDA","OnboardGeForce6100",""
+"GeForce6100+nForce405","MCP61","2006","Athlon64X2,Athlon64,Sempron64SocketAM2,939","90nm","HT1GHz","1.0a10lanes","No","6Ports","8PortsRev2.0","1PortsUDMA133","2Ports3.0Gbit/s","100Mbit/s","HDA","OnboardGeForce6100",""
+"GeForce6150+nForce410","C51G+MCP51","2005","Athlon64X2,Athlon64,Sempron64SocketAM2,939,754","90nm","HT1GHz(800MHzs754)","1.0a18lanes","No","6Ports","8PortsRev2.0","2PortsUDMA133","2Ports3.0Gbit/s","100Mbit/s","HDA","OnboardGeForce6150",""
+"GeForce6150+nForce430rev.1","C51G+MCP51","2005","Athlon64X2,Athlon64,Sempron64SocketAM2,939","90nm","HT1GHz","2PortsUDMA133","OnboardGeForce6150","1.0a18lanes","No","6Ports","8PortsRev2.0","4Ports3.0Gbit/s","1000Mbit/s","","HDA"
+"GeForce6150+nForce430rev.2","MCP61","?","Athlon64X2,Athlon64,Sempron64SocketAM2,939","HT1GHz","90nm","4Ports3.0Gbit/s","1.0a10lanes","2PortsUDMA133","OnboardGeForce6150","100Mbit/s","No","6Ports","8PortsRev2.0","","HDA"

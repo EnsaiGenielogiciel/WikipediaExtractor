@@ -1,0 +1,6 @@
+"Name","Runby","AccessAPI"
+"AmazonS3","Amazon.com","HTTP(REST/SOAP)"
+"GoogleCloudStorage","Google","HTTP(REST)"
+"SWIFT(partofOpenStack)","Rackspace,Hewlett-Packard,others","HTTP(REST)"
+"MicrosoftAzure","Microsoft","HTTP(REST)"
+"IBMCloudObjectStorage","IBM(formerlyCleversafe)","HTTP(REST)"

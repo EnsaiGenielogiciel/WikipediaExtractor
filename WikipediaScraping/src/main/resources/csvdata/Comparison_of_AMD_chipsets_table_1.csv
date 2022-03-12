@@ -1,0 +1,7 @@
+"Model","Codename","Released","CPUsupport","Fab(nm)","FSB/HT(MHz)","Southbridge","Features/Notes"
+"AMD-640chipset","AMD-640","1997","K6,Cyrix6x86","?","66(FSB)","AMD-645","AMDlicensedVIATechnologies'ApolloVP2/97"
+"AMD-750chipset","AMD-751","1999","Athlon,Duron(SlotA,SocketA),Alpha21264","?","100(FSB)","AMD-756,VIA-VT82C686A","AGP2×,SDRAMIrongatechipsetfamily;earlysteppingshadissueswithAGP2×;driversoftenlimitedsupporttoAGP1×;laterfixedwith""superbypass""memoryaccessadjustment."
+"AMD-760chipset","AMD-761","Nov2000","Athlon,AthlonXP,Duron(SocketA),Alpha21264","?","133(FSB)","AMD-766,VIA-T82C686B","AGP4×,DDRSDRAM"
+"AMD-760MPchipset","AMD-762","May2001","AthlonMP","133(FSB)","?","AMD-766","AGP4×"
+"AMD-760MPXchipset","AMD-762","May2001","AthlonMP","AMD-768","AGP4×,HardwareRNGMostinitialboardsshippedwithoutUSBheadersduetoafaultwiththeintegratedUSBcontroller.ManufacturersincludedPCIUSBcardstocoverthisshortcoming.AlaterrefreshofthechipsethadtheUSBproblemremedied.","?","133(FSB)"
+"AMD-8000serieschipset","AMD-8111","Apr2004","Opteron","?","800(HT1.x)","AMD-8131AMD-8132","HardwareRNG"

@@ -1,0 +1,8 @@
+"Operatingsystem","Mandatoryaccesscontrol","Softwareexecutablespaceprotection","Operatingsystem-levelvirtualization","Virtualisation","Userspaceprotection","Others"
+"Linux","SELinux,AppArmor","ExecShield,PaX","Chroot,namespaceandcgroups,Linux-VServer,OpenVZ","KVM","IPFilter,Iptables","grsecurity,RSBAC"
+"FreeBSD","SeBSD,TrustedBSD","ProPolice/SSP","jail","bhyve","IPFW,PF,IPFilter",""
+"Darwin","SEDarwin,TrustedBSD","","jail","","IPFW",""
+"OpenBSD","","W^X,ProPolice/SSP","","vmm","PF",""
+"OpenSolaris,illumos","TrustedBSD","","SolarisContainers","KVM","IPFilter","RBAC"
+"Plan9","No","No","per-processnamespaces","","",""
+"Inferno","No","No","per-processnamespaces","","",""

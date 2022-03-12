@@ -1,0 +1,7 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"EnronEmailDataset","EmailsfromemployeesatEnronorganizedintofolders.","Attachmentsremoved,invalidemailaddressesconvertedtouser@enron.comorno_address@enron.com.","~500,000","Text","Networkanalysis,sentimentanalysis","2004(2015)","","Klimt,B.andY.Yang"
+"Ling-SpamDataset","Corpuscontainingbothlegitimateandspamemails.","Fourversionofthecorpusinvolvingwhetherornotalemmatiserorstop-listwasenabled.","2,412Ham481Spam","Text","Classification","2000","","Androutsopoulos,J.etal."
+"SMSSpamCollectionDataset","CollectedSMSspammessages.","None.","5,574","Text","Classification","2011","","T.Almeidaetal."
+"TwentyNewsgroupsDataset","Messagesfrom20differentnewsgroups.","None.","20,000","Text","Naturallanguageprocessing","1999","","T.Mitchelletal."
+"SpambaseDataset","Spamemails.","Manytextfeaturesextracted.","4,601","Text","Spamdetection,classification","1999","","M.Hopkinsetal."
+"ColBERTDataset","Shortjokes.","Outliersremoved.","200,000","Text","Humordetection,classification","2020","","I.Annamoradnejad."

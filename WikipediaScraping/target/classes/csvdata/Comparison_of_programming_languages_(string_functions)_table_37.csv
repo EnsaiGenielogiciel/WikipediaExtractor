@@ -1,0 +1,2 @@
+"Definition","<string>.rpartition(separator)Searchesfortheseparatorfromright-to-leftwithinthestringthenreturnsthesub-stringbeforetheseparator;theseparator;thenthesub-stringaftertheseparator."
+"Description","Splitsthegivenstringbytheright-mostseparatorandreturnsthethreesubstringsthattogethermaketheoriginal."

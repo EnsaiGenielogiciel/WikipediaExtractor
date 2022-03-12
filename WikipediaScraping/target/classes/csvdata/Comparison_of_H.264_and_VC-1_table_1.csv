@@ -1,0 +1,5 @@
+"","VC-1","H.264"
+"Goals","Designedtoofferveryhighimagequalitywithexcellentcompressionefficiency","Designedtomeetavarietyofindustryneedswithmanyprofilesandlevels,allowingforvaryingcompression,qualityandCPUusagelevels,wherethelowestlevelisforportabledevices,designedwithlowCPUusageinmind,whilethehighlevelsaredesignedwithveryhighqualityandcompressionefficiencyinmind"
+"Exampleindustryuse","Supports4:2:0compression/colorspace","Supportsstudioarchivingrequirementswith4:4:4colorspace;separateblackandwhite(BW)videomode"
+"Licensingcosts","Similar","Similar"
+"Documentation","Notfree.Referencedecoder,comeswithexternaldocumentation.","?AVC/H264LicensingcostsandtermsfromMPEGLA.Referenceencoderanddecoderfreeaswell.Additionally,JVT&M4IFmailinglistsareavailablewhereonemayreceiveanswersonAVCrelatedquestions."

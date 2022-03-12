@@ -1,0 +1,4 @@
+"Name","Architecture","Integratedfirewall","SMPsupport","USBsupport","UDMAsupport","Packagemanagement","APIs"
+"WindowsPhone8","ARMv7","Yes","Yes","Yes(USB2.0)","Yes","WindowsPhoneStore","Silverlight"
+"WindowsPhone8.1","ARMv7","Yes","Yes","Yes","Yes","WindowsPhoneStore","SilverlightWinRT"
+"Windows10Mobile","ARMv7","Yes","Yes","Yes","Yes","MicrosoftStore","SilverlightWinRT"

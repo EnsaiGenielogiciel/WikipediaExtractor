@@ -1,0 +1,8 @@
+"Model","Launch","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","SupportedAPIversion","SupportedAPIversion","Memory","Memory","Fillrate","Memory","SupportedAPIversion","TDP(Watts)"
+"Model","Launch","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","OpenGL","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","TDP(Watts)","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","OpenGL"
+"Pixel(GP/s)","Texture(GT/s)","Size(MB)","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","Model","Launch","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Hardware","Drivers(Software)","TDP(Watts)"
+"GeForceFXGo5100","March2003","NV34M","150","AGP8x","200","400","4:2:4:4","0.8","0.8","64","3.2","DDR","64","9.0","1.5","2.1**","Unknown"
+"GeForceFXGo5500","March2003","NV34M","150","AGP8x","300","600","4:2:4:4","1.2","1.2","3264","9.6","DDR","128","9.0","1.5","2.1**","Unknown"
+"GeForceFXGo5600","March2003","600","NV31M","130","AGP8x","9.6","128","350","1.4","4:2:4:4","1.4","32","Unknown","DDR","9.0","1.5","2.1**"
+"GeForceFXGo5650","NV31M","130","March2003","1.4","1.4","32","600","350","Unknown","AGP8x","9.6","128","4:2:4:4","DDR","9.0","1.5","2.1**"
+"GeForceFXGo5700","February1,2005","130","NV36M","450","AGP8x","32","550","4:3:4:4","128","1.8","1.8","8.8","Unknown","DDR","9.0","1.5","2.1**"

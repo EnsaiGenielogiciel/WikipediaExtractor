@@ -1,0 +1,5 @@
+"Model","ReleaseDate","ProcessorsSupported","Fabricationprocess(nm)","FSB/HTFrequency(MHz)","Memory","Max.memory","AGP","Southbridge","Features","Notes"
+"nForce2SPP","2002","AthlonXP,Athlon,Sempron,Duron","","333MHz,266MHz,200MHz","DDR266/333dualchannel","3GB","AGP8×","MCP2MCP2-T","",""
+"nForce2IGP","2002","AthlonXP,Athlon,Sempron,Duron","","333MHz,266MHz,200MHz","DDR266/333dualchannel","3GB","AGP8×","MCP2MCP2-T","GeForce4MXIGP",""
+"nForce2400","2003","AthlonXP,Athlon,Sempron,Duron","","400MHz,333MHz,266MHz,200MHz","DDR266/333/400singlechannel","3GB","AGP8×","MCP2MCP2-TMCP2-S/R/GB","",""
+"nForce2Ultra400","2003","AthlonXP,Athlon,Sempron,Duron","","400MHz,333MHz,266MHz,200MHz","DDR266/333/400dualchannel","3GB","AGP8×","MCP2MCP2-TMCP2-S/R/GB","",""

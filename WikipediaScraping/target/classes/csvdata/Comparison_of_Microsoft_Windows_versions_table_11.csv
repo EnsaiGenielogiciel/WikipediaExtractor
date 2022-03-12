@@ -1,0 +1,4 @@
+"","FAT12","FAT16","FAT32","HPFS","ISO9660","NTFS","UDF"
+"Windows95","Yes","Yes","Yes(OSR2orabove)","NetworkDrive","Yes","NetworkDrive","No"
+"Windows98","Yes","Yes","Yes","NetworkDrive","Yes","NetworkDrive","Yes(1.5,read)"
+"WindowsMe","Yes","Yes","Yes","NetworkDrive","Yes","NetworkDrive","Yes(1.5,read)"

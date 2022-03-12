@@ -1,0 +1,6 @@
+"Model","Archi-tecture","Chips","Threadprocessors(total)","Businterface","Memory","Memory","TDP(Watts)"
+"Model","Archi-tecture","Chips","Threadprocessors(total)","Businterface","Bustype","TDP(Watts)","Size(GB)"
+"GRIDK1","Kepler","4xGK107","4x192","PCIe3.0x16","DDR3","4x4GB","130"
+"GRIDK2","Kepler","2xGK104-895","2x1536","PCIe3.0x16","GDDR5","2x4GB","225"
+"GRIDK340","Kepler","4xGK107","GDDR5","4x384","225","PCIe3.0x16","4x1GB"
+"GRIDK520","Kepler","2xGK104","GDDR5","2x1536","225","PCIe3.0x16","2x4GB"

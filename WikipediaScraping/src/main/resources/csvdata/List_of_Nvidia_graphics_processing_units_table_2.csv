@@ -1,0 +1,4 @@
+"Model","Launch","Codename","Fab(nm)","Transistors(million)","Diesize(mm²)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","Memory","Fillrate","Fillrate","Fillrate","Memory","SingleprecisionProcessingpower(GFLOPS)"
+"Model","Launch","Codename","Fab(nm)","Transistors(million)","Diesize(mm²)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","MOperations/s","MPixels/s","SingleprecisionProcessingpower(GFLOPS)","MTexels/s","MVertices/s","Size(MB)","Bandwidth(GB/s)","Bustype","Buswidth(bit)"
+"GeForce256SDR","October11,1999","NV10","TSMC220nm","17","139","AGP4x,PCI","120","166","4:4:4","480","480","480","0","3264","2.656","SDR","128","50"
+"GeForce256DDR","December13,1999","NV10","TSMC220nm","17","139","AGP4x,PCI","120","150","4:4:4","480","480","480","0","3264","4.8","DDR","128","50"

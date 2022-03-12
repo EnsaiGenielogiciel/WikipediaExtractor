@@ -1,0 +1,6 @@
+"Software","Windows","MacOSX","Linux","BSD","Unix","IIS","Apache","Notes"
+"Connectbeam","Yes","No","No","No","No","Yes","No","none"
+"Dogear","Yes","Yes","Yes","No","Yes","No","No","requiresIBMWebSphereApplicationServer6.1.0.13forthewebserver"
+"Jumper2.0","Yes","Yes","Yes","Yes","Yes","Yes","Yes","none"
+"KnowledgePlaza","No","No","Yes","No","No","No","No","NoOSmanagementrequired.Infrastructure-as-a-Serviceforon-premisesinstallation."
+"Scuttle","Yes","Yes","Yes","Yes","Yes","Yes","Yes","none"

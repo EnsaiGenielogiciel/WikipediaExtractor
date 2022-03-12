@@ -1,0 +1,3 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"UCIMushroomDataset","Mushroomattributesandclassification.","Manypropertiesofeachmushroomaregiven.","8124","Text","Classification","1987","","J.Schlimmer"
+"SecondaryMushroomDataset","Mushroomattributesandclassification","Simulateddatafromlargerandmorerealisticprimarymushroomentries.Fullyreproducible.","61069","Text","Classification","2020","","D.Wagneretal."

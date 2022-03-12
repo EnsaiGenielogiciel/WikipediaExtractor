@@ -1,0 +1,5 @@
+"Program","Operatingsystems","License","Protocols,basedon,compatiblewith","Encryption","Otherabilities","Keyandtargetmarkets","Latestrelease"
+"Tapioca","Linux","GPL","Telepathy(software)","No","","","0.3.9;June12,2006;15yearsago(2006-06-12)"
+"Telepathy,Farstream","Linux,macOS,Windows","LGPL","SIP,XMPP(Jingle),ICE(STUN/TURN),UPnP","No","Multi-userA/Vconferencing,IM,collaborativeapplications","Mobiledevices(Maemo,Meego),Linuxdesktoporembedded","spec0.27.2;September24,2013;8yearsago(2013-09-24)"
+"OPAL","Windows,Linux(includingembeddedvariants),macOS","MPL","SIP,H.323,IAX2,CAPI,VXML","Unknown","Multi-userA/Vconferencing,IM,IVR","Softphones,softswitches,telephonyapplicationservers","3.14.3;October10,2014;7yearsago(2014-10-10)"
+"GNUoSIP","Linux,Windows,macOS,Android,iPhone,BlackBerry","LGPL","SIP,SDP","Unknown","Multi-userA/Vconferencing,IM,IVR","Softphones,embeddedandmobiledevices,telephonyapplicationservers","4.1.0;December18,2013;8yearsago(2013-12-18)"

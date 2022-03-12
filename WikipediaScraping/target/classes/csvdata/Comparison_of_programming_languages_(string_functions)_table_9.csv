@@ -1,0 +1,3 @@
+"Definition","contains(string,substring)returnsboolean"
+"Description","Returnswhetherstringcontainssubstringasasubstring.ThisisequivalenttousingFindandthendetectingthatitdoesnotresultinthefailureconditionlistedinthethirdcolumnoftheFindsection.However,somelanguageshaveasimplerwayofexpressingthistest."
+"Related","Find"

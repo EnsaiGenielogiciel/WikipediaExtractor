@@ -1,0 +1,6 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"BikeSharingDataset","Hourlyanddailycountofrentalbikesinalargecity.","Manyfeatures,includingweather,lengthoftrip,etc.,aregiven.","17,389","Text","Regression","2013","","H.Fanaee-T"
+"NewYorkCityTaxiTripData","TripdataforyellowandgreentaxisinNewYorkCity.","Givespickupanddropofflocations,fares,andotherdetailsoftrips.","6years","Text","Classification,clustering","2015","","NewYorkCityTaxiandLimousineCommission"
+"TaxiServiceTrajectoryECMLPKDD","Trajectoriesofalltaxisinalargecity.","Manyfeaturesgiven,includingstartandstoppoints.","1,710,671","Text","Clustering,causal-discovery","2015","","M.Ferreiraetal."
+"METR-LA","SpeedfromloopdetectorsinthehighwayofLosAngelesCounty.","Averagespeedin5minutestimesteps.","7,094,304from207sensorsand34,272timesteps","Commaseparatedvalues","Regression,Forecasting","2014","","Jagadishetal."
+"PeMS","Speed,flow,occupancyandothermetricsfromloopdetectorsandothersensorsinthefreewayoftheStateofCalifornia,U.S.A..","MetricusuallyaggregatedviaAverageinto5minutestimesteps.","39,000individualdetectors,eachcontainingyearsoftimeseries","Commaseparatedvalues","Regression,Forecasting,Nowcasting,Interpolation","(updatedrealtime)","","CaliforniaDepartmentofTransportation"

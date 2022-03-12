@@ -1,0 +1,6 @@
+"IDE","Developer","License","Windows","Linux","macOS","Otherplatforms","Debugger","GUIbuilder"
+"DolphinSmalltalk","ObjectArts","MITLicense","Yes","No","No","No","Yes","Yes"
+"Pharo","INRIA","MITLicense","Yes","Yes","Yes","various","Yes","Yes"
+"Squeak","squeak.org","MITLicense","Yes","Yes","Yes","various","Yes","Yes"
+"VisualAge","IBM","Proprietary","Yes","Yes","Yes","various","Yes","Yes"
+"VisualWorks","Cincom","Proprietary","Yes","Yes","Yes","various","Yes","Yes"

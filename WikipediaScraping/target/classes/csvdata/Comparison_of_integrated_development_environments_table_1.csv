@@ -1,0 +1,6 @@
+"IDE","License","Windows","Linux","macOS","Otherplatforms","Debugger","GUIbuilder","Profiler","Staticcodeanalysis","MXML","ExporttoMobile"
+"AdobeAnimateFormerlyAdobeFlashProfessional","Proprietary","Yes","No","Yes","JVM","Yes","Yes","Yes","Yes","Yes","Yes"
+"FlashBuilder","Proprietary","Yes","No","Yes","JVM","Yes","Yes","Yes","Yes","Yes","Yes"
+"FlashDevelop","MITLicense","Yes","No","No","","Yes","No","Yes","No","Yes","Yes"
+"IntelliJIDEA","Proprietary","Yes","Yes","Yes","FreeBSD,OpenBSD,Solaris","Yes","No","Yes","Yes","Yes","Yes"
+"PowerflasherFDT","Proprietary","Yes","Yes","Yes","JVM","Yes","No","Yes","Yes","Yes","Yes"

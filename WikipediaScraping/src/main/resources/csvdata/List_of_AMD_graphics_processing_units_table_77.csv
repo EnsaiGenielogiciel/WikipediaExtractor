@@ -1,0 +1,5 @@
+"Model(Codename)","ReleaseDate","Architecture&Fab","Transistors&DieSize","Core","Fillrate","Processingpower(TFLOPS)","Memory","Memory","Memory","Core","Fillrate","Processingpower(TFLOPS)","Memory","TDP","Businterface"
+"Model(Codename)","ReleaseDate","Architecture&Fab","Transistors&DieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TDP","Businterface","Single","Double","Bustype&width","Size(GiB)","Clock(MT/s)","Band-width(GB/s)"
+"RadeonPro5300M(Navi14)","November2019","RDNA7nm","6.4×10155mm","1280:80:3220CU","10001250","100","40","3.2","1/16SP","GDDR6128-bit","4","12000","192.0","50W","PCIe4.0×16"
+"RadeonPro5500M(Navi14)","November2019","RDNA7nm","6.4×10155mm","1536:96:3224CU","10001300","124.8","41.6","4.0","1/16SP","GDDR6128-bit","4or8","12000","192.0","50W","PCIe4.0×16"
+"RadeonPro5600M(Navi12)","June2020","RDNA7nm","10.3×10251mm","2560:160:6440CU","10001030","164.8","65.9","5.3","1/16SP","HBM22048-bit","8","1540","394.0","50W","PCIe4.0×16"

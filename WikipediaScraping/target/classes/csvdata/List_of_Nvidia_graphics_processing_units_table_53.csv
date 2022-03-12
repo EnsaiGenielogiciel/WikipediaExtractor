@@ -1,0 +1,7 @@
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","SupportedAPIversion","Memory","Memory","Fillrate","Memory","SupportedAPIversion","TDP(Watts)","Notes"
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","TDP(Watts)","Notes","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","OpenGL"
+"QuadroFX540","NV43GL","90","PCIex16","300","550","4:8:8:8","2.4","2.4","128","8.8","GDDR3","128","9.0c","2.1","35",""
+"QuadroFX1400","NV41","130","PCIex16","350","600","5:8:8:8","2.8","2.8","128","19.2","DDR","256","9.0c","2.1","75","Stereodisplay,SLI"
+"QuadroFX3400","NV45GL/NV40","130","350","900","PCIex16","5:12:12:12","4.2","4.2","256","256","28.8","Stereodisplay,SLI","GDDR3","101","9.0c","2.1"
+"QuadroFX3450","NV41","110","5:12:12:12","PCIex16","425","256","1000","GDDR3","5.1","5.1","32.0","83","256","9.0c","Stereodisplay,SLI","2.1"
+"QuadroFX4400","NV45GLA3/NV40","130","PCIex16","400","1050","6:16:16:16","6.4","GDDR3","6.4","512","256","33.7","Stereodisplay,SLI","110","9.0c","2.1"

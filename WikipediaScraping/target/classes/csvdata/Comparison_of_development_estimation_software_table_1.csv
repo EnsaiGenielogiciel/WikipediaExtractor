@@ -1,0 +1,8 @@
+"Estimationapproach","Category","Examplesofsupportofimplementationofestimationapproach"
+"Analogy-basedestimation","Formalestimationmodel","ANGEL,WeightedMicroFunctionPoints"
+"WBS-based(bottomup)estimation","Expertestimation","Projectmanagementsoftware,companyspecificactivitytemplates"
+"Parametricmodels","Formalestimationmodel","COCOMO,SLIM,SEER-SEM,TruePlanningforSoftware"
+"Size-basedestimationmodels","Formalestimationmodel","FunctionPointAnalysis,UseCaseAnalysis,UseCasePoints,SSU(SoftwareSizeUnit),Storypoints-basedestimationinAgilesoftwaredevelopment,ObjectPoints"
+"Groupestimation","Expertestimation","Planningpoker,Widebanddelphi"
+"Mechanicalcombination","Combination-basedestimation","Averageofananalogy-basedandaWorkbreakdownstructure-basedeffortestimate"
+"Judgmentalcombination","Combination-basedestimation","Expertjudgmentbasedonestimatesfromaparametricmodelandgroupestimation"

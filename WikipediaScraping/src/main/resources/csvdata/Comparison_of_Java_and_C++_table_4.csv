@@ -1,0 +1,2 @@
+"C++","Java"
+"C++iscompileddirectlytomachinecodewhichisthenexecuteddirectlybythecentralprocessingunit.","Javaiscompiledtobyte-codewhichtheJavavirtualmachine(JVM)theninterpretsatruntime.ActualJavaimplementationsdojust-in-timecompilationtonativemachinecode.Alternatively,theGNUCompilerforJavacancompiledirectlytomachinecode."

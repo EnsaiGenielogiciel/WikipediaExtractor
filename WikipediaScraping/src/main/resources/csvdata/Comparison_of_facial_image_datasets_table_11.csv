@@ -1,0 +1,8 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"NPSChatCorpus","Postsfromage-specificonlinechatrooms.","Handprivacymasked,taggedforpartofspeechanddialogue-act.","~500,000","XML","NLP,programming,linguistics","2007","","Forsyth,E.,Lin,J.,&Martell,C."
+"TwitterTripleCorpus","A-B-AtriplesextractedfromTwitter.","","4,232","Text","NLP","2016","","Sordini,A.etal."
+"UseNetCorpus","UseNetforumpostings.","Anonymizede-mailsandURLs.Omitteddocumentswithlengths<500wordsor>500,000words,orthatwere<90%English.","7billion","Text","","2011","","Shaoul,C.,&WestburyC."
+"NUSSMSCorpus","SMSmessagescollectedbetweentwousers,withtiminganalysis.","","~10,000","XML","NLP","2011","","KAN,M"
+"RedditAllCommentsCorpus","AllRedditcomments(asof2015).","","~1.7billion","JSON","NLP,research","2015","","Stuck_In_the_Matrix"
+"UbuntuDialogueCorpus","DialoguesextractedfromUbuntuchatstreamonIRC.","","","CSV","DialogueSystemsResearch","2015","","Lowe,R.etal."
+"DialogStateTrackingChallenge","TheDialogStateTrackingChallenges2&3(DSTC2&3)wereresearchchallengefocusedonimprovingthestateoftheartintrackingthestateofspokendialogsystems.","Transcriptionofspokendialogswithlabelling","DSTC2contains~3.2kcalls–DSTC3contains~2.3kcalls","Json","Dialoguestatetracking","2014","","Henderson,MatthewandThomson,BlaiseandWilliams,JasonD"

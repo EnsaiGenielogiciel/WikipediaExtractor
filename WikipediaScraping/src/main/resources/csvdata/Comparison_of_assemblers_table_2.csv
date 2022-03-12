@@ -1,0 +1,5 @@
+"Assembler","Developer","FOSS","License","Instructionset","Hostplatform","Developmentactive"
+"ASM-OneMacroAssembler","RuneGram-Madsen","No","Free","Motorola680x0","CommodoreAmiga","No"
+"GNUAssembler","GNUProject","Yes","Free","Motorola680x0","various",""
+"vasm","VolkerBarthelmann,FrankWille","No","Proprietary","Motorola680x0","various","Yes"
+"rmac","JamesHammons,GeorgeNakos,LandonDyer","Yes","Free","MOSTechnology6502","Linux,Windows,macOS","Yes"

@@ -1,0 +1,6 @@
+"Model","CodeName","ReleaseDate","ProcessorsSupported","Fabricationprocess(nm)","FSB/HTFrequency(MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce4-4x","CK8-04","October,2004","Athlon64FX,Athlon64X2,Athlon64,Sempron64SocketAM2,939,754","","HT800MHz","1.0a20lanes","No","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports1.5Gbit/s","1000Mbit/s","AC'972.3","",""
+"nForce4","CK8-04","October,2004","Athlon64FX,Athlon64X2,Athlon64,Sempron64SocketAM2,939,754","","HT1GHz","1.0a20lanes","No","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports1.5Gbit/s","1000Mbit/s","AC'972.3","",""
+"nForce4Ultra","CK8-04","October,2004","Athlon64FX,Athlon64X2,Athlon64,Sempron64SocketAM2,939,754","","HT1GHz","1.0a20lanes","No","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","AC'972.3","","SamechipsetasnForce4SLIbutwithsomeresistorsremovedthusdisablingSLI"
+"nForce4SLI","CK8-04","October,2004","Athlon64FX,Athlon64X2,Athlon64,Sempron64SocketAM2,939,754","","HT1GHz","1.0a20lanes","x8+x8","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","AC'972.3","",""
+"nForce4SLIX16","Crush51+CK8-04","November,2005","Athlon64FX,Athlon64X2,Athlon64,Sempron64Socket939","","HT1GHz","1.0a38lanes","x16+x16","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","AC'972.3","",""

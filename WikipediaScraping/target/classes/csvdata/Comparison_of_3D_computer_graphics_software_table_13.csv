@@ -1,0 +1,8 @@
+"Application","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Bone","Text","Camera","Light","Speaker"
+"Application","Linear","Bone","Text","Camera","Light","Speaker","QuadraticBézier","CubicBézier","B-spline","Cardinalspline","Hermitespline","TCBspline","Smooth-step","Akimaspline","NURBS"
+"Blender","Béziercurvewithoutsubdivision","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"Maya","Yes","?","?","?","?","?","No","No","No","Yes","Yes","Yes","Yes","Yes","No"
+"3dsMax","Yes","?","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No"
+"Cinema4D","Yes","No","Yes","Yes","No","?","No","No","Yes","?","Yes","Yes","Yes","Yes","droppedinR23"
+"LightWave","?","?","?","Yes","?","onlyinGraphEditor","onlyinGraphEditor","?","No","?","Yes","Yes","Yes","Yes","?"
+"Shade3D","?","?","Yes","?","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","SoundObject"

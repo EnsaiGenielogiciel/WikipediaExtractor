@@ -1,0 +1,6 @@
+"Name","Architecture","Integratedfirewall","SMPsupport","USBsupport","UDMAsupport","LFNsupport","Updatemanagement","APIs","SafeMode"
+"Windows1.0","x8616-bit","No","No","No","No","No","No","Win16","No"
+"Windows2.0","x8616-bit","No","No","No","No","No","No","Win16","No"
+"Windows2.1x","x8616-bit","No","No","No","No","No","No","Win16","No"
+"Windows3.0","x8616-bit","No","No","No","No","No","No","Win16","No"
+"Windows3.1x","x8616-bit(partial32-bitcompatibilitythroughWin32s)","No","No","No","No","No","No","Win16,Win32s","No"

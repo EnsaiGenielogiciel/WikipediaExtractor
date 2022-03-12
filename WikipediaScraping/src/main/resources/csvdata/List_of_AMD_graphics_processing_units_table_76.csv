@@ -1,0 +1,4 @@
+"Model(Codename)","ReleaseDate","Architecture&Fab","Transistors&DieSize","Core","Fillrate","Processingpower(GFLOPS)","Memory","Memory","Memory","Processingpower(GFLOPS)","Core","Fillrate","Processingpower(GFLOPS)","Memory","TDP","Businterface"
+"Model(Codename)","ReleaseDate","Architecture&Fab","Transistors&DieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TDP","Businterface","Half","Single","Double","Bustype&width","Size(GiB)","Clock(MT/s)","Band-width(GB/s)"
+"RadeonVegaPro16(Vega12XLA)","November2018","GCN5gen14nm","Unknown","1024:64:3216CU","3001190","76.16","38.08","?","2437","152.3","HBM21024-bit","4","2400","307.2","50W","PCIe3.0×16"
+"RadeonVegaPro20(Vega12XTA)","November2018","GCN5gen14nm","Unknown","1280:80:3220CU","3081190","95.20","38.08","?","3047","190.4","HBM21024-bit","4","2400","307.2","50W","PCIe3.0×16"

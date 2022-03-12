@@ -1,0 +1,5 @@
+"BitTorrentlibrary","Protocolversion","Super-seeding","Tracker","UPnP","NATPortMappingProtocol","NATtraversal","DHT","Peerexchange","Encryption","UDPtracker","LPD","Fastextensions","MagnetURI","?TP"
+"libtorrent(Rasterbar)","1,2","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"MonoTorrent","1","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"rTorrent(libTorrentRakshasa)","1","Yes","Yes","No","?","?","Yes","Yes","Yes","Yes","?","No","Yes","No"
+"BitTorrentlibrary","Protocolversion","Super-seeding","Tracker","UPnP","NATPortMappingProtocol","NATtraversal","DHT","Peerexchange","Encryption","UDPtracker","LPD","Fastextensions","MagnetURI","?TP"

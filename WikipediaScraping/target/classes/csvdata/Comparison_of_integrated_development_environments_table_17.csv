@@ -1,0 +1,4 @@
+"IDE","License","Windows","Linux","macOS","Otherplatforms","Debugger","Profiler","Notes"
+"Atom(withJunoextension)","MITLicense","Yes","Yes","Yes","?","Yes","Yes","Hasaplottingpane.JunoteammergedwithVSCodeextensionteam(seebelow);Junonowinmaintenancemode."
+"Emacs/spacemacs","portionsinGPLv2,LGPL,BSDandpublicdomain","Yes","Yes","Yes","FreeBSD","Yes","Yes","ESSextensionsupportforemacs.visupportalsoavailable,e.g.inspacemacs(usefulforpairprogramming)."
+"VisualStudioCode(usingtheJuliaextension)","MITLicense","Yes","Yes","Yes","FreeBSD","Yes","Yes(i.e.flamegraphviewingsupport)","Hasaplottingpane.Licenseisfortheextension;andMicrosoft'ssourcecode(only)."
