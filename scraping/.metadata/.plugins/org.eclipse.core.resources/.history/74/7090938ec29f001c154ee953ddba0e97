@@ -1,0 +1,40 @@
+package wikipediaScraping;
+
+import static org.junit.Assert.*;
+
+import java.io.IOException;
+
+import org.junit.Test;
+
+//import wikipediaScraping.WikipediaHTMLExtractor;
+
+public class TestWikipediaHTMLExtractor {
+
+	@Test
+	public void testIsNumeric() {
+		
+		WikipediaHTMLExtractor testa = new WikipediaHTMLExtractor("lf","ldf");
+		
+		assertEquals(true, testa.isNumeric("4"));
+	}
+	
+	@Test
+	public void testHtmlParser_null() throws IOException {
+		
+		WikipediaHTMLExtractor wikiExtractor = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_World_War_I_tank");
+		wikiExtractor.htmlParser();
+		assertNull(wikiExtractor.getTables());
+	}
+	
+	@Test
+	public void testHtmlParser_notnull() throws IOException {
+		
+		WikipediaHTMLExtractor wikiExtractor = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_DOS_operating_systems");
+		wikiExtractor.htmlParser();
+		assertNull(wikiExtractor.getTables());
+	}
+
+}
+
+
+//https://mkyong.com/maven/how-to-run-unit-test-with-maven/

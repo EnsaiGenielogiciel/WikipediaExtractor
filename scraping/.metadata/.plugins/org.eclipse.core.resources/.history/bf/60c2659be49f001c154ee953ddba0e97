@@ -1,0 +1,38 @@
+package wikipediaScraping;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
+
+//import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
+
+public class MainExtractor {
+	
+	private static final String LOG_FILE = "log4j.properties";
+	
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		//Logger logger = Logger.getLogger(MainExtractor.class);
+		Properties properties = new Properties();
+		properties.load(new FileInputStream(LOG_FILE));
+		PropertyConfigurator.configure(properties);
+		
+		
+		List<String> lien = new ArrayList<String>();
+		lien.add("Comparison_of_DOS_operating_systems");
+		lien.add("Comparison_of_programming_languages_(syntax)");
+		lien.add("Comparison_of_domestic_robots");
+		lien.add("Comparison_of_HP_graphing_calculators");  //with image in cell
+		lien.add("Comparison_of_World_War_I_tank");     //unavailable page
+		
+		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_DOS_operating_systems");
+		scrap.htmlParser();
+
+		scrap.Scraper(true);
+	}
+}

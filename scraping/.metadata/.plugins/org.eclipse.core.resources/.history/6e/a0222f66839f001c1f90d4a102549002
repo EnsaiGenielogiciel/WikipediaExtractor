@@ -1,0 +1,5 @@
+package wikipediaScraping;
+
+public class WikipediaHTMLExtractor {
+
+}

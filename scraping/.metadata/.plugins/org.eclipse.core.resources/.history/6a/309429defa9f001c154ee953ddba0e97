@@ -1,0 +1,116 @@
+package wikipediaScraping;
+
+import static org.junit.Assert.*;
+
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVRecord;
+import org.junit.Test;
+
+//import wikipediaScraping.WikipediaHTMLExtractor;
+
+public class TestWikipediaHTMLExtractor {
+
+	@Test
+	public void testIsNumeric() {
+		
+		WikipediaHTMLExtractor testa = new WikipediaHTMLExtractor("lf","ldf");
+		
+		assertEquals(true, testa.isNumeric("4"));
+	}
+	
+	@Test
+	public void testHtmlParser_null() throws IOException {
+		
+		WikipediaHTMLExtractor wikiExtractor = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_World_War_I_tank");
+		wikiExtractor.htmlParser();
+		assertNull(wikiExtractor.getTables());
+	}
+	
+	@Test
+	public void testHtmlParser_notnull() throws IOException {
+		
+		WikipediaHTMLExtractor wikiExtractor = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_DOS_operating_systems");
+		wikiExtractor.htmlParser();
+		assertNotNull(wikiExtractor.getTables());
+	}
+	
+	
+	@Test
+	public void testScraper_number_table() throws IOException{
+		//Test number of table in wikipedia page
+		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_programming_languages_(syntax)");
+		scrap.htmlParser();
+		int number_of_table = scrap.Scraper(true);	
+		assertEquals(4, number_of_table);
+	}
+	
+	@Test
+	public void testCSVColumnsNumber() throws IOException {
+		// Test number of columns of one table
+		Path resourceDirectory = Paths.get("src","main","resources","csvdata");
+		String absolutePath = resourceDirectory.toFile().getAbsolutePath();
+		String filepath = absolutePath + "\\Comparison_of_programming_languages_(syntax)_table_2.csv";
+			
+		Reader in  = new FileReader(filepath);
+		Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+	
+
+		int row = 0;
+		for (CSVRecord record : records) {
+			row = record.size();
+			break;
+		}
+		
+		assertEquals(2, row);
+	}
+	
+	
+	@Test
+	public void testCSVRowssNumber() throws IOException {
+		// Test number of rows of one table
+		Path resourceDirectory = Paths.get("src","main","resources","csvdata");
+		String absolutePath = resourceDirectory.toFile().getAbsolutePath();
+		String filepath = absolutePath + "\\Comparison_of_programming_languages_(syntax)_table_2.csv";
+			
+		Reader in  = new FileReader(filepath);
+		Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+	
+		int row = 0;
+		for (CSVRecord record : records) {
+			row++;
+		}
+		
+		assertEquals(18, row);
+	}	
+	
+	
+	@Test
+	public void testScraper_build_table() throws IOException{
+		
+		List<String> lien = new ArrayList<String>();
+		lien.add("Comparison_of_DOS_operating_systems");
+		lien.add("Comparison_of_programming_languages_(syntax)");
+		lien.add("Comparison_of_domestic_robots");
+		lien.add("Comparison_of_HP_graphing_calculators");  
+		lien.add("Comparison_of_World_War_I_tank");    
+		
+		for(int i=0 ; i<lien.size(); i++) {
+			WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/",lien.get(i));
+			scrap.htmlParser();
+			int total_table = scrap.Scraper(true);
+		}
+		
+	}
+
+}
+
+
+//https://mkyong.com/maven/how-to-run-unit-test-with-maven/

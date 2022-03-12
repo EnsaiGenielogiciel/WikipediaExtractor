@@ -1,0 +1,88 @@
+package wikipediaScraping;
+
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
+
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVRecord;
+//import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
+import com.opencsv.CSVParser;
+
+
+public class MainExtractor {
+	
+	private static final String LOG_FILE = "log4j.properties";
+	
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		//Logger logger = Logger.getLogger(MainExtractor.class);
+		Properties properties = new Properties();
+		properties.load(new FileInputStream(LOG_FILE));
+		PropertyConfigurator.configure(properties);
+		
+		
+		List<String> lien = new ArrayList<String>();
+		lien.add("Comparison_of_DOS_operating_systems");
+		lien.add("Comparison_of_programming_languages_(syntax)");
+		lien.add("Comparison_of_domestic_robots");
+		lien.add("Comparison_of_HP_graphing_calculators");  //with image in cell
+		lien.add("Comparison_of_World_War_I_tank");     //unavailable page
+		
+		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_programming_languages_(syntax)");
+		scrap.htmlParser();
+		int i = scrap.Scraper(true);
+		
+		/*Path resourceDirectory = Paths.get("src","main","resources","csvdata");
+		String filename = "Comparison_of_programming_languages_(syntax)_table_2.csv";
+		String absolutePath = resourceDirectory.toFile().getAbsolutePath();
+		
+		String filepa = absolutePath + "\\Comparison_of_programming_languages_(syntax)_table_2.csv";
+		Reader in  = new FileReader(filepa);
+		Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+		
+		//System.out.println(records.size());
+		for (CSVRecord record : records) {
+		    System.out.println(record.size());
+		    break;
+		}*/
+		
+		// Test number of rows and columns of one table
+		Path resourceDirectory = Paths.get("src","main","resources","csvdata");
+		String absolutePath = resourceDirectory.toFile().getAbsolutePath();
+		String filepath = absolutePath + "\\Comparison_of_programming_languages_(syntax)_table_2.csv";
+			
+		Reader in  = new FileReader(filepath);
+		Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
+		
+		ArrayList<String> column_name = new ArrayList<String>();
+		for(CSVRecord record : records) {
+			System.out.println(String.valueOf(record.get(0)));
+			column_name.add(record.get(0));
+			column_name.add(record.get(1));
+			break;
+		}
+		
+		System.out.println(column_name.get(1)=="Languages");
+		/*Path csvPath = resourceDirectory.resolve(filename);
+		
+		
+		CSVParser csvParser = CSVParser.parse(csvPath, Charset.defaultCharset(), CSVFormat.DEFAULT.withHeader("ID"));
+		
+		Reader reader = Files.newBufferedReader(Paths.get(absolutePath));
+		CSVParser csvParser = new CSVParser();
+		
+		System.out.println(absolutePath);*/
+	}
+}

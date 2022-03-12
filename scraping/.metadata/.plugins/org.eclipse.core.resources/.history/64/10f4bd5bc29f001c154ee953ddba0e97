@@ -1,0 +1,22 @@
+package wikipediaScraping;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+//import wikipediaScraping.WikipediaHTMLExtractor;
+
+public class TestWikipediaHTMLExtractor {
+
+	@Test
+	public void testIsNumeric() {
+		
+		WikipediaHTMLExtractor testa = new WikipediaHTMLExtractor("lf","ldf");
+		
+		assertEquals(true, testa.isNumeric("4"));
+	}
+
+}
+
+
+//https://mkyong.com/maven/how-to-run-unit-test-with-maven/

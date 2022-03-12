@@ -1,0 +1,233 @@
+package wikipediaScraping;
+import org.apache.log4j.Logger;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import com.opencsv.CSVWriter;
+import java.io.FileWriter;
+
+public class WikipediaHTMLExtractor {
+
+	
+	Logger logger = Logger.getLogger(MainExtractor.class);
+	
+	private final String root_url; 
+	private String link;
+	private Elements tables;
+	
+	public WikipediaHTMLExtractor(String root_url, String page_name) {
+		
+		this.root_url = root_url;
+		this.link = page_name;
+		this.tables = null;
+	}
+	
+	// Getters and setters	
+	public String getLink() {
+		return link;
+	}
+
+	public void setLink(String link) {
+		this.link = link;
+	}
+
+	public Elements getTables() {
+		return tables;
+	}
+
+	public void setTables(Elements tables) {
+		this.tables = tables;
+	}
+	//
+
+	// check if the cast of string allow to obtain and integer
+    public boolean isNumeric(String str) { 
+		  try {  
+		    Integer.parseInt(str);  
+		    return true;
+		  } catch(NumberFormatException e){  
+		    return false;  
+		  }  
+		}
+   
+    
+    // requests the webpage, parse it and select <table> which attributes class contains "wikitable" element
+    public void htmlParser() throws IOException{
+    	
+    	try {
+    		String url = this.root_url + this.link;
+    		Document response = Jsoup.connect(url).get();
+    		Elements tables = response.select("table[class *= wikitable]");  // select table which attribute 'class' contain "wikitable"	
+    		this.tables = tables.size()>0 ? tables : null;
+    		logger.info("Successful parsing");
+    	
+    	}catch(Exception ex){
+    		logger.error("The web page is probably unavailable");
+    	}
+    }
+    
+    
+    // Build and save the csv file in a /src/main/ressources directory
+    public void createCSVFile(List<ArrayList<String>> row, String name_file) throws IOException {
+	   
+		List<String[]> list = new ArrayList<>();
+		for (ArrayList<String> elt : row) {
+			
+			String[] array = new String[elt.size()];
+			
+			for(int i=0 ; i<elt.size(); i++) {
+				array[i] = elt.get(i);
+			}
+			list.add(array);
+		}
+		
+		//absolute path of the folder where the files will be save
+		Path resourceDirectory = Paths.get("src","main","resources","csvdata");
+		String absolutePath = resourceDirectory.toFile().getAbsolutePath()+"\\"+name_file+".csv";
+		
+		try (CSVWriter writer = new CSVWriter(new FileWriter(absolutePath))) {
+            writer.writeAll(list);
+            logger.info("The file has been successfully saved : "+absolutePath);
+        }catch(IOException e) {
+        	logger.error("Error in saving the file");
+        	
+        }
+    }
+    
+    
+    // Create row list for each <tr> tag
+    public List<ArrayList<String>> createRow(Elements soup_tr) {
+    	
+    	List<ArrayList<String>> row_data = new ArrayList<ArrayList<String>>();
+    	
+		// Create a row for each <tr> of the soup
+		for(int row_num=0; row_num<soup_tr.size(); row_num++) {
+			
+			ArrayList<String> table_row = new ArrayList<String>();
+			
+			for(Element cell : soup_tr.get(row_num).select("th , td")) {
+				
+				//if a cell contain one or more <sup> tags, we remove it all
+				cell.select("sup").remove();
+			
+				// fill the table row and remove "\n" at the end of each text
+				table_row.add(cell.text().replaceAll("[\\n\\t ]", ""));  
+			}
+			
+			row_data.add(table_row);			
+		}
+		
+		return row_data;
+    }
+    
+    
+    // manage colspan
+    public List<ArrayList<String>> fillCellColspan(List<ArrayList<String>> row_data, int row_num, Element cell, int cell_num, boolean fillspan) {
+    	
+		if(cell.hasAttr("colspan") && isNumeric(cell.attr("colspan"))) {
+			
+			int colspan = Integer.parseInt(cell.attr("colspan"));
+			
+			for (int k=1; k<colspan; k++) {
+				
+				// add the "text" inside the list if size<cell_num else add at the end of the list
+				if(row_data.get(row_num).size()>=cell_num){
+					row_data.get(row_num).add(cell_num, fillspan ? cell.text().replaceAll("[\\n\\t ]", "") : "");
+				}else {
+					row_data.get(row_num).add(fillspan ? cell.text().replaceAll("[\\n\\t ]", "") : "");
+				}
+			}
+		}
+		
+		return row_data;
+
+    }
+    
+    // manage rowspan
+    public List<ArrayList<String>> fillCellRowspan(List<ArrayList<String>> row_data, Elements soup_tr, int row_num, Element cell, int cell_num, boolean fillspan){
+    	
+		if(cell.hasAttr("rowspan") && isNumeric(cell.attr("rowspan"))) {
+			
+			int rowspan = Integer.parseInt(cell.attr("rowspan"));
+			
+			for (int k=1; k<rowspan; k++) {	
+				
+				if(row_num+k < soup_tr.size()) {
+					// add the "text" inside the list if size<cell_num else add at the end of the list
+					if (row_data.get(row_num+k).size()>=cell_num) {
+						row_data.get(row_num+k).add(cell_num, fillspan ? cell.text().replaceAll("[\\n\\t ]", "") : "");
+					}else {
+						row_data.get(row_num+k).add(fillspan ? cell.text().replaceAll("[\\n\\t ]", "") : "");
+					}
+				}
+			}
+			
+		}
+		
+		return row_data;
+
+    }
+    
+    
+    //build the data with the soup (main function)
+	public int scraper(boolean fillspan) throws IOException {
+		
+		// if fillspan = True, we fill all the cell involve in rowspan or colspan
+		int table_index = 0;
+		
+		if (this.tables != null) {
+			
+			for(Element tab: this.tables) {
+				
+				table_index++;
+				
+				List<ArrayList<String>> row_data = new ArrayList<ArrayList<String>>();
+				
+				// Select all the <tr> of tbody
+				Elements soup_tr = tab.select("tbody tr"); 
+				
+				if (soup_tr.size()!=0) {
+					
+					// Create a row for each <tr> of the soup
+					row_data = createRow(soup_tr);
+						
+					// manage cell that contain colspan or rowspan attributes 
+					for(int row_num=0; row_num<soup_tr.size(); row_num++) {
+						
+						int cell_num =-1;
+						
+						for(Element cell : soup_tr.get(row_num).select("th , td")) {
+							
+							cell.select("sup").remove();
+							
+							cell_num++;    
+   							
+							// manage colspan and update row_data
+							row_data = fillCellColspan(row_data, row_num, cell, cell_num, fillspan) ;
+							
+							//manage rowspan				
+							row_data=fillCellRowspan(row_data, soup_tr, row_num, cell, cell_num, fillspan) ;
+							
+						}
+							
+					}
+				}
+				//save file
+				createCSVFile(row_data, this.link+"_table_"+String.valueOf(table_index));
+			}
+		
+		}else{
+			logger.warn("The soup is empty : there isn't table on the webpage !!!");
+		}
+		
+		return table_index;
+			
+	 }
+	
+}
