@@ -1,0 +1,6 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"PokerHandDataset","5cardhandsfromastandard52carddeck.","Attributesofeachhandaregiven,includingthePokerhandsformedbythecardsitcontains.","1,025,010","Text","Regression,classification","2007","","R.Cattral"
+"Connect-4Dataset","Containsalllegal8-plypositionsinthegameofconnect-4inwhichneitherplayerhaswonyet,andinwhichthenextmoveisnotforced.","None.","67,557","Text","Classification","1995","","J.Tromp"
+"Chess(King-Rookvs.King)Dataset","EndgameDatabaseforWhiteKingandRookagainstBlackKing.","None.","28,056","Text","Classification","1994","","M.Bainetal."
+"Chess(King-Rookvs.King-Pawn)Dataset","King+RookversusKing+Pawnona7.","None.","3196","Text","Classification","1989","","R.Holte"
+"Tic-Tac-ToeEndgameDataset","Binaryclassificationforwinconditionsintic-tac-toe.","None.","958","Text","Classification","1991","","D.Aha"

@@ -1,0 +1,5 @@
+"Format","Languages","Comments"
+"string.partition(separator)","Python,Ruby(1.9+)",""
+"lists:partition(pred,string)","Erlang",""
+"split/(separator)/,string,2","Perl5",""
+"splitseparator,string,2string.split(separator,2)","Raku","Separatordoesnothavetobearegularexpression"

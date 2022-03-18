@@ -1,0 +1,2 @@
+"Java","C#"
+"publicintaddOne(finalintx){x++;//ERROR:afinalvariablecannotbereassignedreturnx;}publicListaddOne(finalList<Integer>list){list.add(1);//OK:itisstillpossibletomodifya//final(referencetype)variablereturnlist;}","publicintAddOne(inintx){x++;//ERROR:areadonlyparametercannotbereassignedreturnx;}publicList<int>AddOne(inList<int>list){list.Add(1);//OK:itisstillpossibletomodifya//readonly(referencetype)parameterreturnlist;}"

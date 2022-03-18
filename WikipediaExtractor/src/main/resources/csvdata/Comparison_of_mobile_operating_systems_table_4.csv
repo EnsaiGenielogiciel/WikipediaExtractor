@@ -1,0 +1,7 @@
+"Feature","Android","iOS","Tizen","SailfishOS","UbuntuTouch"
+"Officialappstore","GooglePlay","AppStore","TizenStore","JollaStore","OpenStore"
+"Non-discriminatorystores","No,SomeappslikeAdblockersarecensoredonGooglePlaybutdeveloperscandistributeappsfromtheirownsources","No,ApplediscriminatesbasedoncountryandownApplepolicies","?","Openrepos.Developerscandistributeappsfromtheirownsources,supportsmultipleappstores","Yes"
+"CommonAPIsforsmartphones,tablets,andPCs","Yes","Smartphoneandtabletonly","No","Yes","Yes"
+"OfficialSDKplatform(s)","Linux,macOSandWindows","macOSusingiOSSDK","Linux,Windows,macOS","Windows,macOSandLinux","Yes"
+"CosttodevelopforthemobileOS","Free","No,RequiresApplehardware.","Free","Free","Free"
+"Costtopublishapptoofficialstore","US$25oncetoofferitonGooglePlay","US$99/year","Free","Free","Free"

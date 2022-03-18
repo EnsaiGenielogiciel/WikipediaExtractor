@@ -1,0 +1,6 @@
+"Model(codename)","Launch","Architecture&Fab","Core","Fillrate","Core","Memory","Memory","Memory","Fillrate","Processingpower(GFLOPS)","Memory","TypicalTDP"
+"Model(codename)","Launch","Architecture&Fab","Config","Clock(MHz)","Processingpower(GFLOPS)","Texture(GT/s)","TypicalTDP","Pixel(GP/s)","Size","Bandwidth(GB/s)","Bustype&width","Clock(MT/s)"
+"RadeonRX5300M(Navi14)","13November2019","RDNA7nm","1408:88:3222CU","11811445","127.2","46.2","4069","3GB","168","GDDR696-bit","14000","60W"
+"RadeonRX5500M(Navi14)","7October2019","RDNA7nm","1408:88:3222CU","14481645","144.8","52.6","4632","4GB","224","GDDR6128-bit","14000","80W"
+"RadeonRX5600M(Navi10)","7July2020","RDNA7nm","2304:144:6436CU","11901265","182.2","81","5829","6GB","288","GDDR6192-bit","12000","80W"
+"RadeonRX5700M(Navi10)","2020","2304:144:6436CU","RDNA7nm","16201720","247.7","110.1","7926","8GB","384","GDDR6256-bit","14000","120W"

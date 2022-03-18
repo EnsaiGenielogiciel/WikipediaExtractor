@@ -1,0 +1,4 @@
+"Manufacturer","Module","TransceiverChip","Antenna","Sleep","TX","RX","TXPower","Sensitivity","PCBSize","Released","Interfacing","Protocolstacks"
+"FlexiPanelLtd","EasyBeesummarydatasheet","TexasInstrumentsCC2420datasheeterrata","integral","","18mA","20mA","0dBm","","26mm×20mm","Mar,2008","?","ZigBeestack"
+"Embit","EMB-TRX169PA,169MHzwebpage","CC1120datasheet","U.FLconnector","<1?A","400mA@+27dBm","27mA(fullsens.)","27dBm","-122dBm","16mm×26mm","2013","UART,SPI,JTAG","WirelessM-Busstack"
+"MicrochipTechnology","MRF24J40MAdatasheet","MRF24J40datasheet","PCBtrace","2?A","23mA","19mA","0dBm","–94dBm","17.8mm×27.9mm","Jun,2008","SPI","MicrochipZigBeeMiWiMiWiP2P"

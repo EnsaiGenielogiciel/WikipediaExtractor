@@ -1,0 +1,7 @@
+"Model","Launch","ModelNumber","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","APIcompliance(version)","Memory","Memory","Fillrate","Memory","APIcompliance(version)","Notes"
+"Model","Launch","ModelNumber","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","Notes","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","OpenGL"
+"MobilityRadeonX300","Nov2005","M22","RV370","110","PCI-Ex16","350","250","2:4:4:4","1.4","1.4","128","4","DDR","64","9.0b","2.0","Powerplay5.0"
+"MobilityRadeonX600","Jun2004","M24","RV380","130","PCI-Ex16","400","250","2:4:4:4","1.6","1.6","64,128","8","DDR","128","9.0b","2.0",""
+"MobilityRadeonX700","Mar2005","M26","RV410","110","PCI-Ex16","400-100(PowerPlay)","350-200","6:8:8:4","1.4","128","2.8","Shared-128?64,128","11.2","DDR,GDDR3","3DC,DynamicLaneCountSwitching,","9.0b","2.0"
+"MobilityRadeonX800","Nov2004","M28","R423","130","PCI-Ex16","400","400","6:12:12:12","4.8","4.8","256","25.6","GDDR3","256","9.0b","2.0","3DC,DLCS,ClockGating"
+"MobilityRadeonX800XT","Jun2005","M28PRO","R423","130","PCI-Ex16","480","550","6:16:16:16","7.68","256","7.68","GDDR3","256","3DC,DLCS,ClockGating","35.2","9.0b","2.0"

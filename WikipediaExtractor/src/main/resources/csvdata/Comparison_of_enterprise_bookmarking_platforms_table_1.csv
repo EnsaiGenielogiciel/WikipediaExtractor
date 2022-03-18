@@ -1,0 +1,6 @@
+"Software","Developedby","Lateststablerelease","Cost(USD)","Contractsupportoffered","Communitywebsitesupport","Opensource","Multilingual","Programminglanguage","UserInterface","Notes"
+"Connectbeam","Connectbeam","Spotlight3.1(2008-6)","perinstance","Yes","No","No","No","binaryonly","browser","none"
+"Dogear","IBMCorporation","2.0.1(2009-3)","perinstance","Yes","Yes","No","Yes","binaryonly","browser","doesnotrunonmySQL,requiresIBMDB29.1FP5,OracleDatabase10g10.2.0.3,MicrosoftSQLServer2005EnterpriseEdition"
+"Jumper2.0","JumperNetworks","2.0.1.7(2010-7)","Free","Yes","Yes","Yes-GPL","Yes","JavaScript&PHP","browser","runsonmySQLdatabaseforstoringtagprofiles.CanalsobeconfiguredtorunonOracleDatabase10gorMicrosoftSQLServer2005EnterpriseEdition"
+"KnowledgePlaza","KnowledgePlaza","2.3.18","freetrial,startsat€35/month/instance","Yes","Yes","No","Yes","JavaScriptandPython(programminglanguage)","browser","Software-as-a-Service"
+"Scuttle","Scuttle","0.9.0(2013-04)","Free","No","No","Yes-GPL","No","JavaScript&PHP","browser","stillinalphastage"

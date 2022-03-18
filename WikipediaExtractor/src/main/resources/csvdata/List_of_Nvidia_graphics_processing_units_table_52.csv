@@ -1,0 +1,4 @@
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","SupportedAPIversion","Memory","Memory","Fillrate","Memory","SupportedAPIversion","TDP(Watts)"
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","TDP(Watts)","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","OpenGL"
+"QuadroFX330","NV37GL","150","PCIex16","250","400","2:4:4:4","1","1","64","3.2","DDR","128","9.0","2.0","21"
+"QuadroFX1300","NV38","130","PCIex16","350","550","3:4:8:4","1.4","2.8","128","17.6","DDR","256","9.0","2.1","55"

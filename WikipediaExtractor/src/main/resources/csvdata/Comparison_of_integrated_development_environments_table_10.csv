@@ -1,0 +1,2 @@
+"IDE","License","Windows","Linux","macOS","Otherplatforms","Debugger","GUIbuilder","Toolchain","Profiler","Codecoverage","Autocomplete","Staticcodeanalysis","GUI-baseddesign","Classbrowser","Lateststablerelease"
+"EiffelStudio","GPLandcommercial","Yes","Yes","Yes","FreeBSD,OpenVMS,Solaris,VxWorks,otherUnix","Yes","Yes","Yes","Yes","Automatictestingframework","Yes","Typechecking,Void-safety,Metricstool","BON/UMLclassdiagramming","Multi-view","20.05,2020"

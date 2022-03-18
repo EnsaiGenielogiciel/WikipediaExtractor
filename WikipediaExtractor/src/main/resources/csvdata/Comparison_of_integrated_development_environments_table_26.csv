@@ -1,0 +1,4 @@
+"IDE","License","Windows","Linux","macOS","Otherplatforms"
+"EclipseJDT","EPL","Yes","Yes","Yes","FreeBSD,JVM,Solaris"
+"IntelliJIDEA","ASLv2,proprietary","Yes","Yes","Yes","FreeBSD,OpenBSD,Solaris"
+"NetBeans","ApacheLicense","Yes","Yes","Yes","Solaris"

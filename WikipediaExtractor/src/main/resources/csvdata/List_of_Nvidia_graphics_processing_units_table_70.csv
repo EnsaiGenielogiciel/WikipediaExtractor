@@ -1,0 +1,6 @@
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","SupportedAPIversion","Memory","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","TDP(Watts)","Notes"
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","Bandwidth(GB/s)","TDP(Watts)","Notes","Bustype","Buswidth(bit)","Singleprecision","Direct3D","OpenGL"
+"QuadroFX360M","G86M","80","PCIe1.0x16","400","800","1200","16:8:4","1.6","3.2","256","9.6","DDR2","64","38.4","10.0","3.3","17","BasedontheGeForce8400MGS"
+"QuadroFX560M","G73GLM","90","PCIe1.0x16","500","500","1200","5:12:12:8","4","6","512","19.2","GDDR3","128","","9.0c","2.1","35?","7600GSbased?"
+"QuadroFX1600M","G84M","80","PCIe1.0x16","625","1250","1600","32:16:8","512","5","GDDR3","128","10","25.6","120","10.0","3.3","50?",""
+"QuadroFX3600M","G92M","65","PCIe1.0x16","1250","1600","500","64:32:1696:48:16","88","1624","512","10.0","3.3","51.2","GDDR3","256","240360","70","BasedontheGeForce8800MGTX.DellPrecisionM6300uses64shaderversionoftheFX3600M"
