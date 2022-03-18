@@ -1,0 +1,8 @@
+"Model(Codename)","Launch","Architecture(Fab)","TransistorsDieSize","Core","Fillrate","Processingpower(GFLOPS)","Memory","Memory","Memory","Core","Fillrate","Processingpower(GFLOPS)","Memory","TDP(W)","Businterface","ReleasePrice(USD)"
+"Model(Codename)","Launch","Architecture(Fab)","TransistorsDieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TDP(W)","Businterface","ReleasePrice(USD)","Single","Double","Bustype&width(bit)","Size(GiB)","Clock(MT/s)","Band-width(GB/s)"
+"RadeonProWX2100(Mobile)(Polaris12)","March2017","GCN4thgen(14nm)","2.2×10101mm","512:32:16:8","?","?","?","1250","781/16SP","GDDR564-bit","2","6000","48","35","PCIe3.0×16","$149"
+"RadeonProWX3100(Mobile)(Polaris12)","March2017","GCN4thgen(14nm)","2.2×10101mm","512:32:16:8","?","?","?","1250","781/16SP","GDDR5128-bit","4","6000","96","50","PCIe3.0×16","$199"
+"RadeonProWX4130Mobile(Polaris11)","March2017","GCN4thgen(14nm)","3.0×10123mm","640:40:16:10","10001050","16.85","42.12","1348","84.241/16SP","GDDR5128-bit","4","6000","96","50","PCIe3.0×16","Unknown"
+"RadeonProWX4150Mobile(Polaris11)","March2017","3.0×10123mm","GCN4thgen(14nm)","896:56:16:14","10001050","16.85","58.97","1887","1181/16SP","GDDR5128-bit","4","6000","96","50","Unknown","PCIe3.0×16"
+"RadeonProWX4170Mobile(Polaris11)","March2017","3.0×10123mm","GCN4thgen(14nm)","1024:64:16:16","10001050","16.85","67.39","2157","1351/16SP","GDDR5128-bit","4","7000","112","50","$399","PCIe3.0×16"
+"RadeonProWX7100Mobile(Polaris10)","March2017","GCN4thgen(14nm)","5.7×10232mm","2304:144:32:36","1188","39.78","179.0","5728","3581/16SP","GDDR5256-bit","8","5000","160","130","PCIe3.0×16","$799"

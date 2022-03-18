@@ -1,0 +1,4 @@
+"Model","CodeName","ReleaseDate","CPUSocket","ProcessorsSupported","Fabricationprocess(nm)","FSB/HTFrequency(MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features"
+"GeForce8100","MCP78","2008","SocketAM2+","Athlon64Athlon64X2Athlon64FXOpteronSempronPhenomPhenomII","","HT3.02.6GHz","2.019lanes","No","5Ports","12PortsRev2.0","1PortsUDMA133","6Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce8100"
+"GeForce8200","MCP78","2008","SocketAM2+","Athlon64Athlon64X2Athlon64FXOpteronSempronPhenomPhenomII","","HT3.02.6GHz","2.019lanes","No","5Ports","12PortsRev2.0","1PortsUDMA133","6Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce8200"
+"GeForce8300","MCP78","2008","SocketAM2+","Athlon64Athlon64X2Athlon64FXOpteronSempronPhenomPhenomII","","HT3.02.6GHz","2.019lanes","No","5Ports","12PortsRev2.0","1PortsUDMA133","6Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce8300"

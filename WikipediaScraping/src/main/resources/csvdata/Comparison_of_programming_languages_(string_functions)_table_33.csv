@@ -1,0 +1,3 @@
+"Definition","rfind(string,substring)returnsinteger"
+"Description","Returnsthepositionofthestartofthelastoccurrenceofsubstringinstring.Ifthesubstringisnotfoundmostoftheseroutinesreturnaninvalidindexvalue–-1whereindexesare0-based,0wheretheyare1-based–orsomevaluetobeinterpretedasBooleanFALSE."
+"Related","instr"

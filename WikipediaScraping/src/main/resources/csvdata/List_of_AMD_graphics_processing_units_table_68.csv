@@ -1,0 +1,4 @@
+"Model(Codename)","Launch","Architecture(Fab)","TransistorsDieSize","Core","Fillrate","Processingpower(GFLOPS)","Memory","Memory","Memory","Processingpower(GFLOPS)","Core","Fillrate","Processingpower(GFLOPS)","Memory","TBP","Businterface","ReleasePrice(USD)"
+"Model(Codename)","Launch","Architecture(Fab)","TransistorsDieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TBP","Businterface","ReleasePrice(USD)","Half","Single","Double","Bustype&width","Size(GiB)","Clock(MT/s)","Band-width(GB/s)"
+"RadeonVegaFrontierEdition(AirCooled)","27June2017","GCN5gen(14nm)","12.5×10484mm","4096:256:64","1382","409.6","102.4","22643","11321","707.6","HBM22048-bit","16","1890","483.8","300W","PCIe3.0×16","$999"
+"RadeonVegaFrontierEdition(LiquidCooled)","27June2017","GCN5gen(14nm)","12.5×10484mm","4096:256:64","1600","409.6","102.4","26214","13107","819.2","HBM22048-bit","16","1890","483.8","350W","PCIe3.0×16","$1499"

@@ -1,0 +1,5 @@
+"Model(Codename)","ReleaseDate&Price","Architecture&Fab","Transistors&DieSize","Core","Fillrate","Processingpower(GFLOPS)","Memory","Memory","Memory","Core","Fillrate","Processingpower(GFLOPS)","Memory","TDP","Businterface","Graphicoutputports"
+"Model(Codename)","ReleaseDate&Price","Architecture&Fab","Transistors&DieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TDP","Businterface","Graphicoutputports","Single","Double","Bustype&width","Size(GiB)","Clock(MT/s)","Band-width(GB/s)"
+"RadeonProVegaII(Vega20)","November2019$2,800USD","GCN5gen7FF","0.0×10?mm","4096:256:6464CU","1700","435","109","14200","880","HBM24096-bit","32","2000","1000","Unknown","PCIe3.0×16","4×Thunderbolt31×HDMI2.0"
+"RadeonProVegaIIDuo(Vega20)","November2019$5,600USD","GCN5gen7FF","0.0×10?mm","2×4096:256:6464CU","2×","4096:256:6464CU","1700","2×435","2×109","2×14200","2×880","HBM24096-bit","2×32","Unknown","PCIe3.0×16","4×Thunderbolt31×HDMI2.0","2000","1000"
+"2×","4096:256:6464CU"

@@ -1,0 +1,8 @@
+"Generation","Technology","Feature","Encoding","YearofFirstUse","Roaming","Handsetinteroperability","CommonInterference","Signalquality/coveragearea","Frequencyutilization/Calldensity","Handoff","VoiceandDataatthesametime"
+"1G","FDMA","NMT","Analog","1981","NordicsandseveralotherEuropeancountries","None","None","Goodcoverageduetolowfrequencies","Verylowdensity","Hard","No"
+"2G","TDMAandFDMA","GSM","Digital","1991","Worldwide,allcountriesexceptJapanandSouthKorea","SIMcard","Someelectronics,e.g.amplifiers","Goodcoverageindoorson850/900MHz.Repeaterspossible.35kmhardlimit.","Verylowdensity","Hard","YesGPRSClassA"
+"2G","CDMA","IS-95(CDMAone)","Digital","1995","Limited","None","None","Unlimitedcellsize,lowtransmitterpowerpermitslargecells","Verylowdensity","Soft","No"
+"3G","CDMA","IS-2000(CDMA2000)","Digital","2000/2002","Limited","RUIM(rarelyused)","None","Unlimitedcellsize,lowtransmitterpowerpermitslargecells","Verylowdensity","Soft","NoEVDO/YesSVDO"
+"3G","W-CDMA","UMTS(3GSM)","Digital","2001","Worldwide","SIMcard","None","Smallercellsandlowerindoorscoverageon2100MHz;equivalentcoverageindoorsandsuperiorrangetoGSMon850/900MHz.","Verylowdensity","Soft","Yes"
+"4G","OFDMA","LTE","Digital","2009","Worldwide","SIMcard","None","SmallercellsandlowercoverageontheSband.","Verylowdensity","Hard","No(dataonly)VoicepossiblethroughVoLTEorfallbackto2G/3G"
+"5G","OFDMA","NR","Digital","2018","Limited","SIMcard","None","Densecellsonmillimeterwaves.","Verylowdensity","Hard","No(dataonly)VoicepossiblethroughVoNR"

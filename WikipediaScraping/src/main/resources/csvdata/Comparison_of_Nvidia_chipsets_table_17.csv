@@ -1,0 +1,2 @@
+"Model","CodeName","ReleaseDate","CPUSockets","ProcessorsSupported","Fabricationprocess(nm)","HyperTransport(MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce980aSLI","MCP72+nForce200","2009","SocketAM3","Phenom,AthlonII,PhenomII,Athlon64X2,Athlon64,Sempron64","","HT3.02.6GHz","2.051lanes","x16+x16x16+x16+x8x8+x8+x8","5Ports","12PortsRev2.0","1PortsUDMA133","6Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce8200PureVideoHD,GeForceBoost,HybridPower,SLI-MemoryReady,FirstPacket","RebrandednForce780aSLI"

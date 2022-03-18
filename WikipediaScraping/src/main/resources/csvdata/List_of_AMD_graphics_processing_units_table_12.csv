@@ -1,0 +1,5 @@
+"Model","Launch","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","Memory","Fillrate","Fillrate","Fillrate","Memory"
+"Model","Launch","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Size(MiB)","Bandwidth(GB/s)","Bustype","Buswidth(bit)"
+"RadeonXpressX200","Nov.8,2004","RS480(metallo)","130","HT","300","200-400(DDR),200(sideport)","4:2:2:2","600","600","600","0","16-128system+16sideport","1.6-6.4system+0.8sideport","DDR","64,128"
+"RadeonXpress1100(originallyXpress200)","2005","RS482(grayskull)","110","HT","300","200-400(DDR),400-800(DDR2)","4:2:2:2","600","600","600","0","16-128system","1.6-12.8system","DDR,DDR2","64,128"
+"RadeonXpress1150(originallyXpress200forIntel)","March11,2005(Intel),May23,2006(AMD)","RC400,RC410,RS400,RS415,RS485","110","HT,FSB","400","200-400(DDR),400-800(DDR2)","16-128system","800","DDR,DDR2","800","4:2:2:2","800","1.6-12.8","0","64,128"

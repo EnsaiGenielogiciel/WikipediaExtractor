@@ -1,0 +1,7 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"CloudDataSet","Dataabout1024differentclouds.","Imagefeaturesextracted.","1024","Text","Classification,clustering","1989","","P.Collard"
+"ElNinoDataset","OceanographicandsurfacemeteorologicalreadingstakenfromaseriesofbuoyspositionedthroughouttheequatorialPacific.","12weatherattributesaremeasuredateachbuoy.","178080","Text","Regression","1999","","PacificMarineEnvironmentalLaboratory"
+"GreenhouseGasObservingNetworkDataset","Time-seriesofgreenhousegasconcentrationsat2921gridcellsinCaliforniacreatedusingsimulationsoftheweather.","None.","2921","Text","Regression","2015","","D.Lucas"
+"AtmosphericCO2fromContinuousAirSamplesatMaunaLoaObservatory","ContinuousairsamplesinHawaii,USA.44yearsofrecords.","None.","44years","Text","Regression","2001","","MaunaLoaObservatory"
+"IonosphereDataset","Radardatafromtheionosphere.Taskistoclassifyintogoodandbadradarreturns.","Manyradarfeaturesgiven.","351","Text","Classification","1989","","JohnsHopkinsUniversity"
+"OzoneLevelDetectionDataset","Twogroundozoneleveldatasets.","Manyfeaturesgiven,includingweatherconditionsattimeofmeasurement.","2536","Text","Classification","2008","","K.Zhangetal."

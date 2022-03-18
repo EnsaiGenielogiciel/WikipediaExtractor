@@ -1,0 +1,5 @@
+"Model","Launch","Fab(nm)","Businterface","Memory","Memory","Memory"
+"Model","Launch","Fab(nm)","Businterface","Size(KiB)","Bustype","Buswidth(bit)"
+"WonderMDA/CGA","1986","1000","PC/XT","64","DRAM","8"
+"WonderEGA","1987","1000","PC/XT","256","DRAM","8"
+"WonderVGA","1987","1000,800","PC/XT,ISA","256,5121024","DRAM","8,16"

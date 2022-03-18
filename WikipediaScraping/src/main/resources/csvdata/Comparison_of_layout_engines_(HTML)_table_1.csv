@@ -1,0 +1,8 @@
+"Engine","Status","Embeddedin"
+"WebKit","Active","Safaribrowser,plusallbrowsershostedontheiOSAppStore."
+"Blink","Active","GoogleChromeandotherwebbrowsersbasedonChromium,suchasMicrosoftEdge,Opera,andBrave."
+"EdgeHTML","Maintained","UniversalWindowsPlatformapps;formerlyintheEdgebrowser."
+"Gecko","Active","FirefoxbrowserandThunderbirdemailclient,plusforkslikeSeaMonkeyandWaterfox."
+"KHTML","Active","Konquerorbrowser"
+"Presto","Discontinued","FormerlyusedasOpera'sbrowserengine,priortothemigrationtoChromiumandBlink."
+"MSHTML(Trident)","Maintained","InternetExplorerandversionsofMicrosoftOutlookpriortoOutlook2007."

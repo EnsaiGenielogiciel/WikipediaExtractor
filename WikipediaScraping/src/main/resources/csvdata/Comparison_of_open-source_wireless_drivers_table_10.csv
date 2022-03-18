@@ -1,0 +1,4 @@
+"Driver","Chipset","Freefirmware","License","Development"
+"IWIDarwin","IntelPRO/Wireless2100/2200BG/2225BG/2915ABG/3945ABG/4965AGN","No","GPL","PortfromLinux"
+"WirelessDriver","Lucent/AgereSystemsHermes(WaveLAN/ORiNOCO),IntersilPRISM-2802.11b","N/A","BSD",""
+"GTdriver","PRISM-GT802.11b/g","N/A","GPL",""

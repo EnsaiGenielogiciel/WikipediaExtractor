@@ -1,0 +1,6 @@
+"Name","Country","Year","Plannedprod./actualtotal","Crew","Armament[ammo(rds.)]","Armourthickness(front/side/top)","Weight(tonnes)","Engine","Speed","Range"
+"FCMChar2C","France","1918","300+/10","12","Canonde75modèle1897,4×7.92mmMG","45/22/10mm","70t","Petrol2×200/250hp","15km/h","160km"
+"MarkVIII","US/UK","1918","1500/125","12","2×6pdr;7MGs","16/16/6mm","33.6t","Petrol300/340hp","8km/h","89km(55mi)"
+"MediumMarkB","UK","1918","","","","","","","",""
+"MediumMarkC","UK","1918","","","5Machineguns","","","","",""
+"LKII","(Germany)","1918","580/24","3","37mmor7,92mmMG","14/8/?","8,75t","Petrol60hp(45kW)","14km/h","65–70km"

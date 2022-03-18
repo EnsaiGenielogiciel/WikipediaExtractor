@@ -1,0 +1,5 @@
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MT)","Coreconfig","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","SupportedAPIversion","SupportedAPIversion","SupportedAPIversion","Memory","Memory","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","TDP(Watts)","Notes"
+"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MT)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(GB)","Bandwidth(GB/s)","TDP(Watts)","Notes","Bustype","Buswidth(bit)","Singleprecision","Doubleprecision","Direct3D","OpenGL","Vulkan","OpenCL","CUDA"
+"QuadroT400","TU117","TSMC12FFN","PCIe3.0x16","1420","10000","384:24:16:6","22.8","34.2","24","80","GDDR6","64","1090","34.1","12.1","4.6","1.2","3.0","7.5","30","3xMini-DisplayPort"
+"QuadroT600","TU117","TSMC12FFN","PCIe3.0x16","1330","10000","640:40:32:10","42.7","53.4","4","160","GDDR6","128","1700","53.1","12.1","4.6","1.2","3.0","7.5","40","4xMini-DisplayPort"
+"QuadroT1000","TU117","TSMC12FFN","PCIe3.0x16","1400","10000","160","128","896:56:32:14","44.6","78.1","4xMini-DisplayPort","48","2500","GDDR6","78.1","50","12.1","4.6","1.2","3.0","7.5"

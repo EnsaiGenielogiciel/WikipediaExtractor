@@ -1,0 +1,8 @@
+"Name","Typechecker","Determinacychecker","Call-patternchecker"
+"Ciao","Yes","Yes","Yes"
+"GNUProlog","","",""
+"SICStusProlog","","Yes",""
+"SWI-Prolog","","Yes",""
+"VisualProlog","Yes","Yes","Yes"
+"XSB","","",""
+"YAP-Prolog","","",""

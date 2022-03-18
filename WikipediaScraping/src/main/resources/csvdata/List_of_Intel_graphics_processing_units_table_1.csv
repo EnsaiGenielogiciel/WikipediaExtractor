@@ -1,0 +1,8 @@
+"Graphics","Launch","Market","Chipset","Codename","DeviceID","RAMDACclock(MHz)","Pixelpipelines","Shadermodel(vertex/pixel)","APIsupport","APIsupport","APIsupport","Hardwareacceleration","Hardwareacceleration","Memorybandwidth(GB/s)","DVMT(MB)","Hardwareacceleration"
+"Graphics","Launch","Market","Chipset","Codename","DeviceID","RAMDACclock(MHz)","Pixelpipelines","Shadermodel(vertex/pixel)","Direct3D","Memorybandwidth(GB/s)","DVMT(MB)","OpenGL","OpenCL","MPEG-2","VC-1","AVC"
+"i740","1998","Desktop","stand-alone","Auburn","7800","220","1","3.0(SW)/No","5.0","1.1","No","0.8","2–8","OptionalexternalMPEG-2decoderviaVideoModuleInterface","No","No"
+"i752","1999","Desktop","stand-alone","Portola","1240","250","1","3.0(SW)/No","6.0(full)8.0(somefeatures,nohardwareshaders)","1.1","No","0.8(PC100)–1.067(PC133)1.067(AGP4×forAIMM)","8–16","MC","No","No"
+"3DgraphicswithDirectAGP","1999","810","Desktop","Whitney","6.0(full)8.0(somefeatures,nohardwareshaders)","0.8(PC100)–1.067(PC133)1.067(AGP4×forAIMM)","7121","MC","230","32","1","3.0(SW)/No","1.1","No","No","No"
+"3DgraphicswithDirectAGP","810-DC100","Whitney","1999","230","32","7123","Desktop","1","6.0(full)8.0(somefeatures,nohardwareshaders)","0.8(PC100)–1.067(PC133)1.067(AGP4×forAIMM)","3.0(SW)/No","MC","1.1","No","No","No"
+"3DgraphicswithDirectAGP","810E810E2","Whitney","1999","230","32","7125","Desktop","1","6.0(full)8.0(somefeatures,nohardwareshaders)","0.8(PC100)–1.067(PC133)1.067(AGP4×forAIMM)","3.0(SW)/No","MC","1.1","No","No","No"
+"3DgraphicswithDirectAGP","2000","815815E815G815EG","Desktop","230","32","Solano","1132","6.0(full)9.0(somefeatures,nohardwareshaders)","0.8(PC100)–1.067(PC133)1.067(AGP4×forAIMM)","1","MC","3.0(SW)/No","1.1","No","No","No"

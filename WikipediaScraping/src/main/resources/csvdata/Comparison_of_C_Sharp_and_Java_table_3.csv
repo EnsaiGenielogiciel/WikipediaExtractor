@@ -1,0 +1,7 @@
+"Referencetypes","Java","C#"
+"Garbagecollection","Yes","Yes"
+"Weakreferences","Yes","Yes"
+"Referencequeue(interactionwithgarbagecollection)","Yes","Yes"
+"Softreferences","Yes","No"
+"Phantomreferences","Yes","No"
+"Proxysupport","Yes;proxygeneration","Yes;objectcontexts"

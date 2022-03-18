@@ -1,0 +1,8 @@
+"Name","Releasedate","RTMbuild","Currentversion","Statussupport","Codename","Basedon(kernel)","Supportedarchitectures"
+"WindowsPocketPC2000","2000-04-19","","","Unsupported(2007-09-10)","Raiper","CE3.0",""
+"WindowsPocketPC2002","2001-10-01","","","Unsupported(2008-10-14)","Merlin","CE3.0",""
+"WindowsMobile2003","2003-06-23","","","Unsupported","Ozone","CE4.20",""
+"WindowsMobile5.0","2005-05-9/12","","","Unsupported","Magneto","CE5.0",""
+"WindowsMobile6.0","2007-02-12","","","Unsupported","Crossbow","CE5.2",""
+"WindowsMobile6.1","2008-04-01","","","Unsupported","","",""
+"WindowsMobile6.5","2009-05-18","","","Unsupported","","",""

@@ -1,0 +1,3 @@
+"API","Desktopsupport","Embeddedsystemsupport","License"
+"Direct3D","MicrosoftWindows,Xbox","WindowsEmbedded,WindowsCE(throughDirect3DMobile)","Proprietary"
+"OpenGL","Cross-platform","Cross-platformthroughOpenGLES","Openstandard,somefeaturespatented"

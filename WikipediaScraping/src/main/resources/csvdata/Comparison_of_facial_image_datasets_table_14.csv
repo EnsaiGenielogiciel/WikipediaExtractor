@@ -1,0 +1,6 @@
+"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
+"GeographicOriginofMusicDataSet","Audiofeaturesofmusicsamplesfromdifferentlocations.","AudiofeaturesextractedusingMARSYASsoftware.","1,059","Text","Geographicclassification,clustering","2014","","F.Zhouetal."
+"MillionSongDataset","Audiofeaturesfromonemilliondifferentsongs.","Audiofeaturesextracted.","1M","Text","Classification,clustering","2011","","T.Bertin-Mahieuxetal."
+"MUSDB18","Multi-trackpopularmusicrecordings","Rawaudio","150","MP4,WAV","SourceSeparation","2017","","Z.Rafiietal."
+"FreeMusicArchive","AudiounderCreativeCommonsfrom100ksongs(343days,1TiB)withahierarchyof161genres,metadata,userdata,free-formtext.","Rawaudioandaudiofeatures.","106,574","Text,MP3","Classification,recommendation","2017","","M.Defferrardetal."
+"BachChoralHarmonyDataset","Bachchoralechords.","Audiofeaturesextracted.","5665","Text","Classification","2014","","D.Radicionietal."
