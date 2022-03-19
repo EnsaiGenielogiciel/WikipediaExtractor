@@ -1,6 +1,6 @@
 "Aspect","Esperanto","Interlingua"
 "Type","schematic;designedtobeeasytolearn","naturalistic;designedtobeeasytounderstandtoasmanypeopleaspossible"
-"Alphabet","usesdiacritics(?,?,?,?,?,?)","doesnotusediacritics"
+"Alphabet","usesdiacritics(ĉ,ĝ,ĥ,ĵ,ŝ,ŭ)","doesnotusediacritics"
 "Orthography","invariableletter-to-phonemecorrespondence","lettersc,g,h,q,t,andwarevariable"
 "Vocabularysources","mostlyRomanceandGermaniclanguages","primarycontrollanguages:English,French,Italian,SpanishandPortuguese"
 "Gender","masculinebydefault;feminineoptional","onlyforthird-personpronouns"
@@ -10,4 +10,4 @@
 "Pluralnoun","-oj(agglutinative)","-s(aftervowels)-es(afterconsonants)"
 "Adjectives","agreewithnouns","nodeclension"
 "Accusativeform","mandatory,-n","onlyforpersonalpronouns"
-"Noofspeakers","c.100,000�2,000,000","c.1,500"
+"Noofspeakers","c.100,000–2,000,000","c.1,500"

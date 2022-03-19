@@ -1,5 +1,5 @@
 "DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"AbaloneDataset","PhysicalmeasurementsofAbalone.Weatherpatternsandlocationarealsogiven.","None.","4177","Text","Regression","1995","","MarineResearchLaboratories–Taroona"
+"AbaloneDataset","PhysicalmeasurementsofAbalone.Weatherpatternsandlocationarealsogiven.","None.","4177","Text","Regression","1995","","MarineResearchLaboratoriesâ€“Taroona"
 "ZooDataset","Artificialdatasetcovering7classesofanimals.","Animalsareclassedinto7categoriesandfeaturesaregivenforeach.","101","Text","Classification","1990","","R.Forsyth"
 "DemospongiaeDataset","Dataaboutmarinesponges.","503spongesintheDemospongeclassaredescribedbyvariousfeatures.","503","Text","Classification","2010","","E.Armengoletal."
 "Farmanimalsdata","PLFdatainventory(cows,pigs;location,acceleration,etc.).","Labeleddatasets.","Listisconstantlyupdated","Text","Classification","2020","","V.Bloch"

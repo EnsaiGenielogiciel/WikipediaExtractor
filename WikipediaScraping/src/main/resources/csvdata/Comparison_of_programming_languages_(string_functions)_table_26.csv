@@ -28,7 +28,7 @@
 "LOWER(string)","SQL"
 "lowercase(string)","PL/I"
 "ToLowerCase[string]","Mathematica"
-"«FUNCTION»LOWER-CASE(string)","COBOL"
+"Â«FUNCTIONÂ»LOWER-CASE(string)","COBOL"
 "string.toLower","Cobra"
 "stringtolowerstring","Tcl"
 "string.to_lowercase()","Rust"

@@ -27,8 +27,9 @@ public class TestWikipediaHTMLExtractor {
 	public void testIsNumeric() {
 		
 		WikipediaHTMLExtractor testa = new WikipediaHTMLExtractor("lf","ldf");
+		ExtractorA a = new ExtractorA(testa);
 		
-		assertEquals(true, testa.isNumeric("4"));
+		assertEquals(true, a.isNumeric("4"));
 	}
 	
 	@Test
@@ -53,7 +54,9 @@ public class TestWikipediaHTMLExtractor {
 		//Test number of table in wikipedia page
 		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_programming_languages_(syntax)");
 		scrap.htmlParser();
-		int number_of_table = scrap.scraper(true);	
+		ExtractorA a = new ExtractorA(scrap);
+		int number_of_table= a.scraper(true);
+			
 		assertEquals(4, number_of_table);
 	}
 	
@@ -121,7 +124,9 @@ public class TestWikipediaHTMLExtractor {
 	
 			WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/", wiki_url);
 			scrap.htmlParser();
-			int total_table = scrap.scraper(true);
+			ExtractorA a = new ExtractorA(scrap);
+			int total_table = a.scraper(true);
+			
 		}
 		
 	}
@@ -169,7 +174,8 @@ public class TestWikipediaHTMLExtractor {
 		for(int i=0 ; i<lien.size(); i++) {
 			WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/",lien.get(i));
 			scrap.htmlParser();
-			int total_table = scrap.scraper(true);
+			ExtractorA a = new ExtractorA(scrap);
+			int total_table = a.scraper(true);
 		}
 		
 	}

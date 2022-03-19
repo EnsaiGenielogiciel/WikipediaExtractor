@@ -60,4 +60,4 @@
 ".zip,.zipx","application/zip","ZIP","OriginallyDOS,nowmultiple","Multiple","Yes","ThemostwidelyusedcompressionformatonMicrosoftWindows.CommonlyusedonMacintoshandUnixsystemsaswell."
 ".zoo","application/x-zoo","zoo","Multiple","Multiple","Yes",""
 ".zpaq","","ZPAQ","Multiple","Multiple","Yes","Journaling(append-only)archiveformatwithrollbackcapability.Supportsdeduplicationandincrementalupdatebasedonlast-modifieddates.Multi-threaded.CompressesinLZ77,BWT,andcontextmixingformats.Opensource."
-".zz","","Zzip","Multiple","Multiple","Yes","ArchiverwithacompressionalgorithmbasedontheBurrows–Wheelertransformmethod."
+".zz","","Zzip","Multiple","Multiple","Yes","ArchiverwithacompressionalgorithmbasedontheBurrowsâ€“Wheelertransformmethod."

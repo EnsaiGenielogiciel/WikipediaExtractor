@@ -29,5 +29,5 @@
 "putstring(string)edit(items)(format)","","PL/I","PL/I(similartoFortran)"
 "String.format(formatstring,items)","","Cobra",".NET"
 "formatformatstringitems","","Tcl","C"
-"formatnumbers?itemsorformatstring?FMTitems","","APL","APL"
+"formatnumbers⍕itemsorformatstring⎕FMTitems","","APL","APL"
 "format!(formatstring,items)","","Rust","Python"

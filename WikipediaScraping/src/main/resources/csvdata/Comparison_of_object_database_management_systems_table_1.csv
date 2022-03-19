@@ -1,5 +1,5 @@
 "Name","CurrentStableVersion","Language(s)","SQLsupport","Datatypes","License","Description"
-"CachÈ","2017.2.1","CachÈObjectScript(dynamiclanguage),Basic.Java/.NETobjectmappingsupported.","SQLsubset.Objectnotationallowed.SupportsembeddedSQL,dynamicSQLandxDBCaccess.","","Proprietary","MUMPSancestry.Includesbuilt-insupportforXML,Web/AJAXandanEMBsystemcalledEnsemble.Supportsembedded,client/serveranddistributedimplementations."
+"Cach√©","2017.2.1","Cach√©ObjectScript(dynamiclanguage),Basic.Java/.NETobjectmappingsupported.","SQLsubset.Objectnotationallowed.SupportsembeddedSQL,dynamicSQLandxDBCaccess.","","Proprietary","MUMPSancestry.Includesbuilt-insupportforXML,Web/AJAXandanEMBsystemcalledEnsemble.Supportsembedded,client/serveranddistributedimplementations."
 "ConceptBase","8.1.13(2019-12-09)","Telos","CBQL(basedonDatalog)","notypesbutclasses","opensource,FreeBSD-stylelicense","historicaldb,activerules,meta-modeling,deductiverules"
 "Db4o","8.0(2011-03-09)","C#,Java","db4o-sql",".NETandJavadatatypes","GPL,custom,proprietary","NativeQueries,LINQsupport,automaticschemaevolution,TransparentActivation/Persistence,replicationtoRDBMS,ObjectManagerpluginforVisualStudioandEclipse"
 "GemStone/S","3.6.0","Smalltalk","None","Objectsandcode","Proprietary,freeversionavailable","Persistent,transactional,multi-userSmalltalkdevelopedbyGemTalkSystems."

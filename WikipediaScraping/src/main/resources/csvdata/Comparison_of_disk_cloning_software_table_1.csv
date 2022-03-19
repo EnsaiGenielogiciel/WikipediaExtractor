@@ -1,5 +1,5 @@
 "Name","Operatingsystem","Userinterface","Sectorbysector","Filebyfile","Hottransfer","Mountorextract","Operationmodel","Operationmodel","Operationmodel","License","Purchase/subscription"
-"Name","Operatingsystem","Userinterface","Sectorbysector","Filebyfile","Hottransfer","Mountorextract","Standalone","License","Purchase/subscription","Client–server","FromaLiveOS"
+"Name","Operatingsystem","Userinterface","Sectorbysector","Filebyfile","Hottransfer","Mountorextract","Standalone","License","Purchase/subscription","Clientâ€“server","FromaLiveOS"
 "AcronisCyberProtectHomeOffice","Windows","Graphical","Yes","FAT32,NTFS,HFS+,APFS,ext2,ext3,ext4andReiserFS","Yes","Yes","Yes","Yes","Yes(64MB)","Trialware","$49.99/yrandup"
 "AppleSoftwareRestore","macOS","Command-line","Yes","HFS+","No","viahdiutil","Yes","Yes","No","PartofmacOS"
 "Clonezilla","Linux","Text-based","Yes","FAT12,FAT16,FAT32,NTFS,ext2,ext3,ext4,reiserfs,reiser4,xfs,jfs,btrfs,f2fs,NILFS2,HFS+,UFS,minix,VMFS3","No","Throughahack","Yes","Yes(Clonezillaserveredition)","Yes(210MB)","GPL"

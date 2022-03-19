@@ -3,7 +3,7 @@
 "REM","BASIC,Batchfiles"
 "::","Batchfiles,COMMAND.COM,cmd.exe"
 "NB.","J;fromthe(historically)commonabbreviationNotabene,theLatinfor""notewell""."
-"?","APL;themnemonicistheglyph(jotoverstruckwithshoe-down)resemblesadesklamp,andhence""illuminates""theforegoing."
+"⍝","APL;themnemonicistheglyph(jotoverstruckwithshoe-down)resemblesadesklamp,andhence""illuminates""theforegoing."
 "#","BourneshellandotherUNIXshells,Cobra,Perl,Python,Ruby,Seed7,WindowsPowerShell,PHP,R,Make,Maple,Elixir,Julia,Nim"
 "%","TeX,Prolog,MATLAB,Erlang,S-Lang,VisualProlog"
 "//","ActionScript,C(C99),C++,C#,D,F#,Go,Java,JavaScript,Kotlin,ObjectPascal(Delphi),Objective-C,PHP,Rust,Scala,SASS,Swift,Xojo"

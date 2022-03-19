@@ -3,7 +3,7 @@
 "Ada","semicolonterminated"
 "ALGOL","semicolonseparated"
 "ALGOL68","semicolonandcommaseparated"
-"APL","newlineterminated","[Direct_function?]separatedSecondary"
+"APL","newlineterminated","[Direct_function⋄]separatedSecondary"
 "AppleScript","newlineterminated"
 "AutoHotkey","newlineterminated"
 "BASIC","newlineterminated","colonseparated"

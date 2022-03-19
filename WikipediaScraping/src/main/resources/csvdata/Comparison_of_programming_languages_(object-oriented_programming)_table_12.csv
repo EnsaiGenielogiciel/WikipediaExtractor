@@ -1,6 +1,6 @@
 "","Hasmember?","Handlerformissingmember","Hasmember?","Handlerformissingmember"
 "","Method","Field","Method","Field"
-"APL(Dyalog)","3=x.?NC'method'","2=x.?NC'method'","N/A","N/A"
+"APL(Dyalog)","3=x.⎕NC'method'","2=x.⎕NC'method'","N/A","N/A"
 "ABAPObjects","N/A","N/A","N/A","N/A"
 "C++(STL)","N/A"
 "Objective-C(Cocoa)","[xrespondsToSelector:@selector(method)]","N/A","forwardInvocation:","N/A"

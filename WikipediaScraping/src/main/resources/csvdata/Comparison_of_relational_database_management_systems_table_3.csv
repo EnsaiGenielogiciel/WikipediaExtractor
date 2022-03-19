@@ -42,7 +42,7 @@
 "SQLAnywhere","Yes","Yes","Yes","Yes(Row-levellocking)","Yes","Yes","API&GUI&HTTP(S)(REST&SOAP)&SQL","Yes"
 "SQLBase","Yes","Yes","Yes","?","?","Yes","API&GUI&SQL","Yes"
 "SQLite","Yes","Yes","Yes","No(Database-levellocking)","No","Optional","API&SQL","Yes"
-"SuperbaseNG","?","?","?","Yes(Record-levellocking)","?","Yes","GUI&Propietary&ODBC","Yes"
+"SuperbaseNG","?","?","?","Yes(Record-levellocking)","?","Yes","GUI&Proprietary&ODBC","Yes"
 "Teradata","Yes","Yes","Yes","Yes(HashandPartition)","?","Yes","SQL","Yes"
 "Tibero","Yes","Yes","Yes","Yes(Row-levellocking)","Yes","Yes","API&GUI&SQL","Yes"
 "UniData","Yes","No","Yes","?","?","Yes","Multiple","Yes"

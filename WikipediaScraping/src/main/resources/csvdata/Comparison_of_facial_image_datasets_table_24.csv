@@ -7,7 +7,7 @@
 "NationalSurveyonDrugUseandHealth","LargescalesurveyonhealthanddruguseintheUnitedStates.","None.","55,268","Text","Classification,regression","2012","","UnitedStatesDepartmentofHealthandHumanServices"
 "LungCancerDataset","Lungcancerdatasetwithoutattributedefinitions","56featuresaregivenforeachcase","32","Text","Classification","1992","","Z.Hongetal."
 "ArrhythmiaDataset","Dataforagroupofpatients,ofwhichsomehavecardiacarrhythmia.","276featuresforeachinstance.","452","Text","Classification","1998","","H.Altayetal."
-"Diabetes130-UShospitalsforyears1999–2008Dataset","9yearsofreadmissiondataacross130UShospitalsforpatientswithdiabetes.","Manyfeaturesofeachreadmissionaregiven.","100,000","Text","Classification,clustering","2014","","J.Cloreetal."
+"Diabetes130-UShospitalsforyears1999â€“2008Dataset","9yearsofreadmissiondataacross130UShospitalsforpatientswithdiabetes.","Manyfeaturesofeachreadmissionaregiven.","100,000","Text","Classification,clustering","2014","","J.Cloreetal."
 "DiabeticRetinopathyDebrecenDataset","Featuresextractedfromimagesofeyeswithandwithoutdiabeticretinopathy.","Featuresextractedandconditionsdiagnosed.","1151","Text","Classification","2014","","B.Antaletal."
 "DiabeticRetinopathyMessidorDataset","Methodstoevaluatesegmentationandindexingtechniquesinthefieldofretinalophthalmology(MESSIDOR)","Featuresretinopathygradeandriskofmacularedema","1200","Images,Text","Classification,Segmentation","2008","","MessidorProject"
 "LiverDisordersDataset","Dataforpeoplewithliverdisorders.","Sevenbiologicalfeaturesgivenforeachpatient.","345","Text","Classification","1990","","BupaMedicalResearchLtd."

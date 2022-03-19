@@ -5,4 +5,4 @@
 "NUSSMSCorpus","SMSmessagescollectedbetweentwousers,withtiminganalysis.","","~10,000","XML","NLP","2011","","KAN,M"
 "RedditAllCommentsCorpus","AllRedditcomments(asof2015).","","~1.7billion","JSON","NLP,research","2015","","Stuck_In_the_Matrix"
 "UbuntuDialogueCorpus","DialoguesextractedfromUbuntuchatstreamonIRC.","","","CSV","DialogueSystemsResearch","2015","","Lowe,R.etal."
-"DialogStateTrackingChallenge","TheDialogStateTrackingChallenges2&3(DSTC2&3)wereresearchchallengefocusedonimprovingthestateoftheartintrackingthestateofspokendialogsystems.","Transcriptionofspokendialogswithlabelling","DSTC2contains~3.2kcalls–DSTC3contains~2.3kcalls","Json","Dialoguestatetracking","2014","","Henderson,MatthewandThomson,BlaiseandWilliams,JasonD"
+"DialogStateTrackingChallenge","TheDialogStateTrackingChallenges2&3(DSTC2&3)wereresearchchallengefocusedonimprovingthestateoftheartintrackingthestateofspokendialogsystems.","Transcriptionofspokendialogswithlabelling","DSTC2contains~3.2kcallsâ€“DSTC3contains~2.3kcalls","Json","Dialoguestatetracking","2014","","Henderson,MatthewandThomson,BlaiseandWilliams,JasonD"

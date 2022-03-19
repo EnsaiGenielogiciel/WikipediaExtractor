@@ -17,7 +17,7 @@
 "Secondaryaudiodecoder","Secondaryaudiodecoder","Secondaryaudiodecoder","TBD","MandatoryforBonusViewplayers","Unknown","Mandatory","Unknown","Unknown","Optional"
 "Interactivity","Interactivity","Interactivity","TBD","BDMVandBlu-rayDiscJava","Rudimentary","Rudimentary","StandardContentandAdvancedContent","CETC","Rudimentary"
 "Internetsupport","Internetsupport","Internetsupport","TBD","MandatoryforBD-Liveplayers","N/A","N/A","Mandatory","Unknown","N/A"
-"Videoresolution(maximum)","Videoresolution(maximum)","1920×1080p","1920×1080p","1920×1080p","1920×1080p","Videoresolution(maximum)","4KUHD3840×2160","1920×1080p","720×480(NTSC)720×576(PAL)"
+"Videoresolution(maximum)","Videoresolution(maximum)","1920Ã—1080p","1920Ã—1080p","1920Ã—1080p","1920Ã—1080p","Videoresolution(maximum)","4KUHD3840Ã—2160","1920Ã—1080p","720Ã—480(NTSC)720Ã—576(PAL)"
 "Frameratesatmaximumresolution","Frameratesatmaximumresolution","Frameratesatmaximumresolution","24/25/30p,50/60i","HFR60p","24/25/30p,50/60i","24/25/30p,50/60i","24/25/30p,50/60i","Unknown","24/25/30p50/60i"
 "Dynamicrangevideo","Dynamicrangevideo","Dynamicrangevideo","HDR10/HDR10+/SL-HDR2/DolbyVision","SDR","","","","",""
 "Colorspace","Colorspace","Colorspace","Rec.2020","","","","","",""

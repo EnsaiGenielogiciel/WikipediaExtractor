@@ -7,7 +7,7 @@
 "RE3D(RelationshipandEntityExtractionEvaluationDataset)","EntityandRelationmarkeddatafromvariousnewsandgovernmentsources.SponsoredbyDstl","Filtered,categorisationusingBaleentypes","notknown","JSON","Classification,EntityandRelationrecognition","2017","","Dstl"
 "ExaminerSpamClickbaitCatalogue","Clickbait,spam,crowd-sourcedheadlinesfrom2010to2015","Publishdateandheadlines","3,089,781","CSV","Clustering,Events,Sentiment","2016","","R.Kulkarni"
 "ABCAustraliaNewsCorpus","EntirenewscorpusofABCAustraliafrom2003to2019","Publishdateandheadlines","1,186,018","CSV","Clustering,Events,Sentiment","2020","","R.Kulkarni"
-"WorldwideNews–Aggregateof20KFeeds","Oneweeksnapshotofallonlineheadlinesin20+languages","Publishtime,URLandheadlines","1,398,431","CSV","Clustering,Events,LanguageDetection","2018","","R.Kulkarni"
+"WorldwideNewsâ€“Aggregateof20KFeeds","Oneweeksnapshotofallonlineheadlinesin20+languages","Publishtime,URLandheadlines","1,398,431","CSV","Clustering,Events,LanguageDetection","2018","","R.Kulkarni"
 "ReutersNewsWireHeadline","11Yearsoftimestampedeventspublishedonthenews-wire","Publishtime,HeadlineText","16,121,310","CSV","NLP,ComputationalLinguistics,Events","2018","","R.Kulkarni"
 "TheIrishTimesIrelandNewsCorpus","24YearsofIrelandNewsfrom1996to2019","Publishtime,HeadlineCategoryandText","1,484,340","CSV","NLP,ComputationalLinguistics,Events","2020","","R.Kulkarni"
 "NewsHeadlinesDatasetforSarcasmDetection","HighqualitydatasetwithSarcasticandNon-sarcasticnewsheadlines.","Clean,normalizedtext","26,709","JSON","NLP,Classification,Linguistics","2018","","RishabhMisra"

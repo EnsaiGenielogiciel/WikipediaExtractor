@@ -12,7 +12,7 @@
 "Lightwave3D","Yes","3DS,COLLADA,OBJ,LWO,VideoScape","VRML,VRML97","Yes","3DS,COLLADA,OBJ,LWO","?","VRML,VRML97"
 "MakeHuman","No","N/A","","Yes","COLLADA,MHX,OBJ,STL","?",""
 "Maya","Yes","MayaAscii,MayaBinary,MEL,OBJ","VRML2","Yes","MayaAscii,MayaBinary,Mel,OBJ,GE2,RTG","?","VRML2"
-"Metasequoia","EXversiononly","3DS,COB,LWO,OBJ,ROK(RokkakuDai?),SUF(DoGACGASystem)","glTF","EXversiononly","3DS,PMD,OBJ,COLLADA","Yes",""
+"Metasequoia","EXversiononly","3DS,COB,LWO,OBJ,ROK(RokkakuDaiō),SUF(DoGACGASystem)","glTF","EXversiononly","3DS,PMD,OBJ,COLLADA","Yes",""
 "Modo","Yes","LXO,LWO2,LWOB,3DS,GEO,OBJ,COLLADA","","Yes","LXO,LWO,PLT,GEO,OBJ,COLLADA","Yes","X3D"
 "Remo3D","Yes","3DC,3DS,AC,Collada,LWO,LWS,OBJ,P3D,PLY,STA,SHP","OSG","Yes","3DS,AC,Collada,DOT,OBJ,P3D","?","OSG"
 "Shade","Yes","OBJ,SketchUp,XML;(Pro)3DS,COLLADA,LWO","","Yes","COLLADA,DXF,OBJ,XML;(Pro)3DS,LWO","glTFConverterforShade3Dplugin","VRML2.0,Flash(SWF)"

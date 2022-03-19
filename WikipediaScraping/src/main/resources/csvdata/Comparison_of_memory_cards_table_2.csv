@@ -1,4 +1,4 @@
-"Card","Width(mm)","Length(mm)","Thickness(mm)","Volume(mm³)","Mass(g)"
+"Card","Width(mm)","Length(mm)","Thickness(mm)","Volume(mmÂ³)","Mass(g)"
 "CompactFlash,TypeI","43.0","36.0","3.3","5,108","3.3"
 "CompactFlash,TypeII","43.0","36.0","5.0","7,740",""
 "SmartMedia","37.0","45.0","0.76","1,265","2.0"

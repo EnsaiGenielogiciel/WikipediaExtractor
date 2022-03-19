@@ -20,6 +20,6 @@
 "[array_of_stringscomponentsJoinedByString:separator]","Objective-C(NSString*only)"
 "table.concat(table_of_strings,separator)","Lua"
 "{|StringstreamContents:[:stream|collectionOfAnythingasStringOn:streamdelimiter:separator]collectionOfAnythingjoinUsing:separator","Smalltalk(Squeak,Pharo)"
-"array_of_strings.join(separator«,final_separator»)","Cobra"
+"array_of_strings.join(separatorÂ«,final_separatorÂ»)","Cobra"
 "sequence_of_strings.joinWithSeparator(separator)","Swift2.x"
-"1??separator,¨list_of_strings","APL"
+"1â†“âˆŠseparator,Â¨list_of_strings","APL"

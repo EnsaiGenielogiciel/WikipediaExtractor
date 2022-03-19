@@ -1,7 +1,7 @@
 "Languages","Size","First","Last"
 "Ada","name'Length","name'First","name'Last"
 "ALGOL68","UPBname-LWBname+12UPBname-2LWBname+1etc.","LWBname2LWBnameetc.","UPBname2UPBnameetc."
-"APL","?name(?name)[index]","?IO","(?name)-~?IO(?name)[index]-~?IO"
+"APL","⍴name(⍴name)[index]","⎕IO","(⍴name)-~⎕IO(⍴name)[index]-~⎕IO"
 "AWK","length","1","asorti"
 "C#,VisualBasic.NET,WindowsPowerShell,F#","name.Length","name.GetLowerBound(dimension)","name.GetUpperBound(dimension)"
 "CFML","arrayLen(name)name.len()","1","name.len()"

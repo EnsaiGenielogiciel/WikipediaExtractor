@@ -94,9 +94,11 @@ public class MainExtractor {
 			WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor( "https://en.wikipedia.org/wiki/",wiki_url);
 			System.out.println(wiki_url);
 			scrap.htmlParser();
-			int total_table = scrap.scraper(true);
-			System.out.println(scrap.getTableData());
-			break;
+			ExtractorA ext= new ExtractorA(scrap);
+			int total_table = ext.scraper(true);
+
+			System.out.println(ext.getTableData());
+		
 		}
 
 		

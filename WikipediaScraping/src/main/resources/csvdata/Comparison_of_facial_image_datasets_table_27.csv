@@ -9,4 +9,4 @@
 "FolioDataset","20photosofleavesforeachof32species.","None.","637","Images,text","Classification,clustering","2015","","T.Munisamietal."
 "OxfordFlowerDataset","17categorydatasetofflowers.","Train/testsplits,labeledimages,","1360","Images,text","Classification","2006","","M-ENilsbacketal."
 "PlantSeedlingsDataset","12categorydatasetofplantseedlings.","Labelledimages,segmentedimages,","5544","Images","Classification,detection","2017","","Giselssonetal."
-"Fruits360dataset","Databasewithimagesof120fruitsandvegetables.","100x100pixels,Whitebackground.","82213","Images(jpg)","Classification","2017–2019","","MihaiOltean,HoreaMuresan"
+"Fruits360dataset","Databasewithimagesof120fruitsandvegetables.","100x100pixels,Whitebackground.","82213","Images(jpg)","Classification","2017â€“2019","","MihaiOltean,HoreaMuresan"

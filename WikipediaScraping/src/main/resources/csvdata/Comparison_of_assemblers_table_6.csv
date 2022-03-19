@@ -16,4 +16,4 @@
 "vasm","","various","Yes","Free","Yes"
 "86-AssemblerforDOS","StephenDuffy","DOS","Yes","GPL2","No"
 "Xenix","Microsoft","Xenix2.3and3.0(before1985)","No","Proprietary","1982-1984"
-"Yasm","","Windows,DOS,Linux,Unix-like","Yes","BSD","No"
+"Yasm","","Windows,DOS,Linux,Unix-like","Yes","BSD","Yes"

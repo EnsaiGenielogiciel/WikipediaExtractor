@@ -31,8 +31,9 @@ public class ExtractorController {
 	  @PathVariable("link") String link) throws IOException {
 		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/", link);
 		scrap.htmlParser();
-		int total_table = scrap.scraper(true);
-		Dictionary<Integer, List<ArrayList<String>>> T= scrap.getTableData();
+		ExtractorA ext= new ExtractorA(scrap);
+		int total_table = ext.scraper(true);
+		Dictionary<Integer, List<ArrayList<String>>> T= ext.getTableData();
 		
 	    
 		Gson json =new Gson();

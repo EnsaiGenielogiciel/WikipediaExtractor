@@ -7,7 +7,7 @@
 "Flash-OFDM","Flash-OFDM","MobileInternetmobilityupto200mph(350km/h)","Flash-OFDM","5.310.615.9","1.83.65.4","Mobilerange30km(18miles)Extendedrange55km(34miles)"
 "HIPERMAN","HIPERMAN","MobileInternet","OFDM","56.9","56.9",""
 "Wi-Fi","802.11(11ax)","WirelessLAN","OFDM/OFDMA/CSMA/MIMO/MU-MIMO/HalfDuplex","9600Wi-Fi6","9600Wi-Fi6","Antenna,RFfrontendenhancementsandminorprotocoltimertweakshavehelpeddeploylongrangeP2Pnetworkscompromisingonradialcoverage,throughputand/orspectraefficiency(310km&382km)"
-"iBurst","802.20","MobileInternet","HC-SDMA/TDD/MIMO","95","36","CellRadius:3–12kmSpeed:250km/hSpectralEfficiency:13bits/s/Hz/cellSpectrumReuseFactor:""1"""
+"iBurst","802.20","MobileInternet","HC-SDMA/TDD/MIMO","95","36","CellRadius:3â€“12kmSpeed:250km/hSpectralEfficiency:13bits/s/Hz/cellSpectrumReuseFactor:""1"""
 "EDGEEvolution","GSM","MobileInternet","TDMA/FDD","1.6","0.5","3GPPRelease7"
 "UMTSW-CDMAHSPA(HSDPA+HSUPA)","3GPP","MobileInternet","CDMA/FDDCDMA/FDD/MIMO","0.38414.4","0.3845.76","HSDPAiswidelydeployed.Typicaldownlinkratestoday2Mbit/s,~200kbit/suplink;HSPA+downlinkupto56Mbit/s."
 "UMTS-TDD","3GPP","MobileInternet","CDMA/TDD","16","16","ReportedspeedsaccordingtoIPWirelessusing16QAMmodulationsimilartoHSDPA+HSUPA"

@@ -8,7 +8,7 @@
 "BSD/OS(BSD/386)","BSDi,WindRiverSystems","1993-03-01","4.3BSDNet/2,4.4BSD","5.1","2003-10-01","?","Proprietary","Generalpurpose","Historical"
 "SunOS","SunMicrosystems","1982","4.xBSD,UNIXSystemV","4.1.4","1994-11-01","Includedinhardwareandsupportcharges","Proprietary","Server,Workstation","Historical(Solarisisadifferentcodebase)"
 "Ultrix","DigitalEquipmentCorporation","1984","4.2BSD,SVR2","4.5","1995","?","Proprietary","GeneralPurpose","Historical(ranonDECVAX&MIPSsystemsoremulators)."
-"RISCiX","AcornComputers","1988","4.3BSD,UnixSystemV","1.31c","1993-09-07","Cost£1000GBP(Approx$1400)","Proprietary","Workstation","Historical(ranonArchimedesandRseriesWorkstations)"
+"RISCiX","AcornComputers","1988","4.3BSD,UnixSystemV","1.31c","1993-09-07","CostÂ£1000GBP(Approx$1400)","Proprietary","Workstation","Historical(ranonArchimedesandRseriesWorkstations)"
 "Tru64UNIX(DECOSF/1,DigitalUNIX)","DEC,Compaq,HP","1993","4.3BSD,4.4BSD,Mach2.5,UNIXSystemV","5.1B-6","2010-10-01","Cost$99(non-commercial)","Proprietary","GeneralPurpose","OnlyrunsonHPAlphasystemsoremulators."
 "macOS","AppleInc.","2001-03-24","Darwin","12.0.1""Monterey""","2021-10-25","Client:FreeServer(add-onapplication):$19.99","Opensourcecoresystem(seeDarwin)withproprietaryhigherlevelAPIlayerslockingtoApplehardware","Workstation,HomeDesktop,Server","LockedtoApplehardwareuseonly"
 "iOS","AppleInc.","2007-06-01","Darwin","15.1","2021-10-25","Includedwithhardware,No-chargeUpdates","Opensourcecoresystem(seeDarwin)withproprietaryhigherlevelAPIlayerslockingtoApplehardware","Embeddedmobiledevice","ShipswithAppleiPhone,iPodTouch"

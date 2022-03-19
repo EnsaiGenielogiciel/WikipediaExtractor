@@ -4,7 +4,7 @@
 "GNUScientificLibrary","GNUProject","C","1996","2.5/14June2018","Free","GPL","Generalpurposenumericalanalysislibrary.TargetsLinux,canbebuiltonalmostany*nixOSwithAnsiCcompiler."
 "ILNumerics","H.Kutschbach","C#,PowerShell","2007","1.3.14/August2008","Non-free","Proprietary","aims.Net/mono,2D/3Dplottings(beta)"
 "IMSLNumericalLibraries","RogueWaveSoftware","C,Java,C#,Fortran,Python","1970","manycomponents","Notfree","Proprietary","Generalpurposenumericalanalysislibrary."
-"Math.NETNumerics","C.Rüegg,M.Cuda,etal.","C#,F#,C,PowerShell","2009","4.7.0/November2018","Free","MIT/X11","Generalpurposenumericalanalysisandstatisticslibraryforthe.NETFrameworkandMono,withoptionalsupportfornativeproviders."
+"Math.NETNumerics","C.RÃ¼egg,M.Cuda,etal.","C#,F#,C,PowerShell","2009","4.7.0/November2018","Free","MIT/X11","Generalpurposenumericalanalysisandstatisticslibraryforthe.NETFrameworkandMono,withoptionalsupportfornativeproviders."
 "NAGNumericalLibrary","TheNumericalAlgorithmsGroup","C,Fortran","1971","manycomponents","Notfree","Proprietary","Generalpurposenumericalanalysislibrary."
 "NMath","CenterSpaceSoftware","C#","2003","6.2/March2016","$995","Proprietary","Mathandstatisticallibrariesforthe.NETFramework"
 "SciPy","scipy.orgcommunity","Python","2001","1.5.3/17October2020","Free","BSD","AddsnumericalprogrammingcapabilitiestothePythonprogramminglanguage.RelatedtoNumPy,andthereforeconnectedtothepreviousNumericandNumarraypackagesforPython"

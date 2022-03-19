@@ -1,7 +1,7 @@
 "","Precondition","Postcondition","Check","Invariant","Loop"
 "ABAPObjects","N/A","N/A","N/A","N/A","N/A"
 "C++(STL)","N/A"
-"C#","Spec#:typefoo(«parameters»)requiresexpression{body}","Spec#:typefoo(«parameters»)ensuresexpression{body}"
+"C#","Spec#:typefoo(Â«parametersÂ»)requiresexpression{body}","Spec#:typefoo(Â«parametersÂ»)ensuresexpression{body}"
 "Java","N/A","N/A","N/A","N/A","N/A"
 "Objective-C","N/A"
 "VisualBasic.NET","N/A"
