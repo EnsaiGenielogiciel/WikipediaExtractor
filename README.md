@@ -50,7 +50,7 @@ The testScraper_build_table_all test runs the extractor on all the urls of the f
 To run the project, just clone it, then import the wikipediaScraping project in eclipse. 
 A test *mvn test* will allow to run the unit tests, and to apply the extractor on the links listed above.
 A mvn spring-boot:run should enable to run the spring boot app. An url of type :
-http:localhost/Link/wikilink
+http://localhost:8080/wikilink
 Each time you can choose the wikilink from the list of links that work and it should display information on all tables of the wikilink.
 
 #### 4. Architecture 
