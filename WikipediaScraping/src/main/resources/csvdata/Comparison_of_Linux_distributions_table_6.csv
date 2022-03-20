@@ -9,7 +9,6 @@
 "Fedora","Yes","SELinux","ExecShield","No","No"
 "Gentoo","Optional","SELinux,AppArmor","PaXoptional","Optional","Optional"
 "gNewSense","Unknown","SELinux,AppArmor","Unknown","Unknown","Unknown"
-"GnoppixLinux","Unknown","Unknown","Unknown","Unknown","Unknown"
 "GuixSystem","Unknown","Unknown","Unknown","Unknown","Unknown"
 "LibreCMC","Unknown","Unknown","Unknown","Unknown","Unknown"
 "Mandriva","Unknown","AppArmor","Unknown","Unknown","Yes"

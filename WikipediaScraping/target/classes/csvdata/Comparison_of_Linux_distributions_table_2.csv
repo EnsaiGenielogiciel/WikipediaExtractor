@@ -20,7 +20,6 @@
 "Funtoo","Binaryblobs","none","openrc","None","No"
 "Gentoo","Binaryblobs","none","openrc","Awesome,Enlightenment,Fluxbox,GNOME,KDE,LXDE-Meta,Openbox,XBMCandXfce(liveDVD)","No"
 "gNewSense","DebianLinuxkernel,and(unlikeDebian)blobscannotbeinstalled","ext3","sysvinit","GNOME","No"
-"GnoppixLinux","Binaryblobs","ext3","systemd","KDE","No"
 "GuixSystem","Linux-libre,Hurd(inprogress)","ext4","GNUShepherd","GNOME,Xfce,MATE,Enlightenment,Openbox,awesome,i3,ratpoison,EXWM","Inprogress"
 "HyperbolaGNU/Linux-libre","Linux-libre","none","openrc","none","No"
 "KaliLinux","Binaryblobs","ext3","systemd","GNOME","No"

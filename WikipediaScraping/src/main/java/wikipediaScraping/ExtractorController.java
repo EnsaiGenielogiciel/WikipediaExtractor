@@ -26,7 +26,7 @@ import wikipediaScraping.WikipediaHTMLExtractor;
 @RestController
 public class ExtractorController {
 
-	@RequestMapping(value = "/Link/{link}", method = RequestMethod.GET, produces ={"application/json"})
+	@RequestMapping(value = "/{link}", method = RequestMethod.GET, produces ={"application/json"})
 	@ResponseBody
 	public String getTableByLink(
 	  @PathVariable("link") String link) throws IOException {
