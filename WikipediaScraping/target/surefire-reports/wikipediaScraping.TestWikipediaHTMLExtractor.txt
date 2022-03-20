@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: wikipediaScraping.TestWikipediaHTMLExtractor
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.215 sec - in wikipediaScraping.TestWikipediaHTMLExtractor
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.195 sec - in wikipediaScraping.TestWikipediaHTMLExtractor
