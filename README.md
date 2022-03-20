@@ -1,7 +1,13 @@
 #### 1. Summary of project
 The application is a table extractor. Concretely it allows to connect to a wikipedia page, then proceeds to the scraping of all the tables that are there. Once the scraping is done, it saves in the folder src/main/resources/csvdata the different scraped tables in a csv format. 
 
-In the main class WikipediaHTMLExtractor, we implement via a pattern design builder the methods for extracting the tables and saving it. The TestWikipediaHTMLExtractor class implements the unit tests of the methods. Moreover, among these tests, there is a testScraper_build_table_sample which launches the extractor on a sample of urls from the file wikiurls.txt present in the folder scraping\WikipediaScraping\src\test\resources. The list below shows the links where we have tested the extractor : 
+In the main class WikipediaHTMLExtractor, we implement via a pattern design builder the methods for extracting the tables and saving it. The TestWikipediaHTMLExtractor class implements the unit tests of the methods. 
+
+Moreover, among these tests, there is a testScraper_build_table_sample which launches the extractor on a sample of urls from the file wikiurls.txt present in the folder scraping\WikipediaScraping\src\test\resources. 
+
+
+#### 2.WikiLinks that work
+The list below shows the links where we have tested the extractor : 
 
 - Comparison_of_DOS_operating_systems
 - Comparison_of_programming_languages_(syntax)
@@ -40,8 +46,38 @@ In the main class WikipediaHTMLExtractor, we implement via a pattern design buil
 
 The testScraper_build_table_all test runs the extractor on all the urls of the file wikiurls.txt.
 
-#### 2. LAUNCH THE PROJECT
+#### 3. LAUNCH THE PROJECT
 To run the project, just clone it, then import the wikipediaScraping project in eclipse. 
 A test *mvn test* will allow to run the unit tests, and to apply the extractor on the links listed above.
+A mvn spring-boot:run should enable to run the spring boot app. An url of type :
+http:localhost/Link/wikilink
+Each time you can choose the wikilink from the list of links that work. 
+should display information on all tables of the wikilink.
+
+#### 4. Architecture 
+We have a simple architecture, the class WikipediaHTMLExtractor enable us to parse the html code and see if we have tables or not. We see if the attribute 'class' of the table contain the word "wikitable".
+Then extracts the tables if the WikipediaHTMLExtractor has tables of strictly positif sizes . It starts by the method scraper which merges multiple other methods in order to create rows, fill the Cell Rowspan, the CellColspan and standardize the number of columns.
+Eventually, the csv is created and the data is in it. 
 
 
+#### 5.  design Pattern
+Design Patterns allow to solve problems related to the architecture or to optimize the code.
+Since in here we have only the extraction class, there are no different types of classes from which we might deduct a possible pattern design approach. So, Instead, we thought of the observer pattern design while logging the entire application. 
+The results of methods and the updates are shown at run time. 
+
+
+
+#### 6.  All  about our App
+ Our application manages to use several array structures and in particular nested arrays.
+Indeed, in some cases, we sometimes have a lot of cells with cellspan and rowspan attributes and we were able to take these cases into account:
+- It is possible to launch the scraping of several pages sequentially;
+- All the tables of a page are transformed into arraylist, then converted into csv;
+- When a page contains no table, the application indicates that there is none;
+- When the page no longer exists, the application indicates that the page is non-existent and does not perform any task.
+- A page can contain tags of table that are not really tables. We verify that it is a table before performing the scraping, checking that the "class" attribute of the tag contains the string "wikitable";
+
+However, it has some limitations. In fact and by exploring the different pages we realized that in some cases, there were errors in the structure of the basic html code. Indeed, the last cell of a row could contain a "colspan" attribute that spans more cells than there are total columns. To handle this case, we remove blank cells at the end
+of a row so that the total number of cells equals the number of columns. Note that these empty cells exist because new cells have been created using the colspan attributes. In the case of the rowspan attribute, we have managed this case, by creating a cell each time if and only the number of rows in a table is not exceeded.
+
+In addition, some <tr> </tr> tags contained fewer cells than the total number of columns (ex: https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)). To handle this case, we complete the corresponding rows with empty cells.
+For some tables (those for which the class attribute contained "jquery sortable"), we found that by retrieving the texts at the column level, if the name of a column contained more than one word, the space between the words disappeared.
