@@ -1,4 +1,0 @@
-"IDE","License","Windows","Linux","macOS","Otherplatforms","Editor","Debugger","GUIbuilder","Profiler","Browsers"
-"AllegroCommonLisp","Proprietary","Yes","Yes","Yes","FreeBSD,HP-UX,AIX,Solaris,Tru64UNIX","Yes","Yes","Yes","Yes","Classbrowser,Systems,Definitions"
-"LispWorks","Proprietary","Yes","Yes","Yes","FreeBSD,HP-UX,Solaris","Yes","Yes","Yes","Yes","Classbrowser,Functions,Errors,Processes,Symbols,Systems"
-"SLIME(Emacs)","portionsinGPLv2,LGPL,BSDandpublicdomain","Yes","Yes","Yes","DragonFlyBSD,FreeBSD,HP-UX,AIX,IRIX,DOS,NetBSD,OpenBSD,OpenVMS,OS/2,Solaris,otherUnix","Yes","Yes","No","Yes","Classbrowser,Errors,Symbols"

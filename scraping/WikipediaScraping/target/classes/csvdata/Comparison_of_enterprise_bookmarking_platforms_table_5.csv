@@ -1,6 +1,0 @@
-"Software","HostedPlatform","On-PremisesPlatform","Encryptionlevel","Multi-usersupport","Accesspermissions","LDAPintegration","Information-levelpermissions","Workspace-levelpermissions","Role-levelpermissions","Notes"
-"Connectbeam","Yes","Yes","?","Yes","Yes","No","?","?","?","none"
-"Dogear","No","Yes","?","Yes","Yes","Yes","?","?","?","TheLotusConnectionSuitewithDogearrunsontheAIX(Unix)operatingsystem"
-"Jumper2.0","No","Yes","HTTPSoptionallyavailable","Yes","Yes","Yes","Yes","Yes","Yes","LDAPintegrationisavailable"
-"KnowledgePlaza","Yes","Yes","HTTPSwithhigh-grade256-bitAES","Yes","Yes","Yes","Yes","Yes","Yes","none"
-"Scuttle","No","Yes","HTTPSoptionallyavailable","No","Yes","No","Yes","?","","none"

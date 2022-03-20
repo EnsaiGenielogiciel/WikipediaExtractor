@@ -1,6 +1,0 @@
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","SupportedAPIversion","Memory","Memory","Fillrate","Memory","SupportedAPIversion","TDP(Watts)"
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","TDP(Watts)","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","OpenGL"
-"QuadroFX350M","G72GLM","90","PCIe1.0x16","450","900","3:4:4:2","0.9","1.8","256","14.4","GDDR3","128","9.0c","2.1","15"
-"QuadroFX1500M","G71GLM","90","PCIe1.0x16","375","1000","8:24:24:16","6","9","512","32","GDDR3","256","9.0c","2.1","15"
-"QuadroFX2500M","G71GLM","500","90","8:24:24:16","PCIe1.0x16","1200","512","8","256","12","38.4","GDDR3","9.0c","2.1","15"
-"QuadroFX3500M","G71GLM","1200","575","90","38.4","8:24:24:16","PCIe1.0x16","9.2","512","13.8","256","GDDR3","9.0c","2.1","15"

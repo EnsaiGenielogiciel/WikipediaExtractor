@@ -1,3 +1,0 @@
-"Model(codename)","ReleaseDate&Price","Architecture&Fab","Transistors&DieSize","Core","Fillrate","Processingpower(GFLOPS)","Memory","Memory","Memory","Processingpower(GFLOPS)","Core","Fillrate","Processingpower(GFLOPS)","Memory","TBP","Businterface"
-"Model(codename)","ReleaseDate&Price","Architecture&Fab","Transistors&DieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TBP","Businterface","Half","Single","Double","Bustype&width","Size(GiB)","Clock(MT/s)","Bandwidth(GB/s)"
-"RadeonVII(Vega20)","February7,2019$699USD","GCN5genTSMC7FF","13.2×10331mm","3840:240:6460CU","14001750","336420","89.6112","22,27227,648","11,13613,824","2,7843,458.5","HBM24096-bit","16","2000","1028","300W","PCIe3.0×16"

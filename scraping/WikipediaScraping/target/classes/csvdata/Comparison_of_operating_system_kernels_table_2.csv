@@ -1,7 +1,0 @@
-"KernelName","TCP","UDP","SCTP","DCCP"
-"DragonFlyBSDkernel","Yes","Yes","No","No"
-"FreeBSDkernel","Yes","Yes","Yes","Optional"
-"Linuxkernel","Yes","Yes","Yes","Yes"
-"Solariskernel","Yes","Yes","Yes","?"
-"WindowsNTkernel","Yes","Yes","No","?"
-"XNU","Yes","Yes","No","No"

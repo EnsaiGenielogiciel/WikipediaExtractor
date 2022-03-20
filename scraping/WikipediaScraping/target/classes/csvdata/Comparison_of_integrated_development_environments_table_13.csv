@@ -1,5 +1,0 @@
-"IDE","License","WritteninJavaonly","Windows","Linux","macOS","Otherplatforms","GUIbuilder"
-"EclipseGDT","EPL","No","Yes","Yes","Yes","FreeBSD,JVM,Solaris","No"
-"IntelliJIDEA","ASLv2,proprietary","Yes","Yes","Yes","Yes","FreeBSD,OpenBSD,Solaris","No"
-"NetBeans","ApacheLicense","Yes","Yes","Yes","Yes","OpenBSD,Solaris","Yes"
-"SlickEdit","Proprietary","No","Yes","Yes","Yes","Solaris,SolarisSPARC,AIX,HP-UX","No"

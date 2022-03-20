@@ -1,3 +1,0 @@
-"Definition","find(string,substring)returnsinteger"
-"Description","Returnsthepositionofthestartofthefirstoccurrenceofsubstringinstring.Ifthesubstringisnotfoundmostoftheseroutinesreturnaninvalidindexvalue–-1whereindexesare0-based,0wheretheyare1-based–orsomevaluetobeinterpretedasBooleanFALSE."
-"Related","instrrev"

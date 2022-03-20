@@ -1,8 +1,0 @@
-"Feature","VC-1","H.264"
-"Partitionsizes","16×16and8×8","16×16,16×8,8×16,8×8,8×4,4×8,and4×4"
-"Integertransform","8×8,4×8,8×4,and4×4","4×4;8×8availableinHighProfileonly"
-"Frame","Usedforprogressiveorinterlacedcontent","Usedforprogressiveorinterlacedcontent"
-"Macroblocksizes","16×16only","16×16only"
-"Motionvector","Twodimensionalvectoroffsetfromcurrentpositiontoreferenceframe","Twodimensionalvectoroffsetfromcurrentpositiontoreferenceframe"
-"Picture","Afieldorframe","Afieldorframe"
-"Skippedmacroblock","Nodataisencodedformacroblock","Nodataisencodedformacroblock"

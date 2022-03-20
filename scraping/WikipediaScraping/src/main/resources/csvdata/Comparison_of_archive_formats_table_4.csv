@@ -1,5 +1,0 @@
-"Fileextension(s)","MIMEtype","Officialname","Platform","Description"
-".ecc","","dvdisastererror-correctionfile","Multiple","Fileformatusedbydvdisastertobeusedfordatarecoverywhendiscsbecomedamagedorpartiallyunreadable."
-".ecsbx","","Error-correctingSeqBox","Multiple","Archivewithforwarderrorcorrectionandsectorlevelrecoverability.Error-correctingversionofSeqBox."
-".par.par2","application/x-par2","Parchivefile","Multiple","Fileformatusedinconjunctionwithanyarchiveformattoprovideredundancyanddatarecovery,mostofteninnewsgroupdistributionofbinaryfiles."
-".rev","","WinRARrecoveryvolume","Multiple","FileformatusedwithWinRARrarvolumes.Thedatarecoveryisanoptionaldataredundancywhichisprovidedintheformofopenrecoveryrecordsand/orrecoveryvolumes,allowingreconstructionofgoodarchives(includingreconstructionofentirelyvolumes)"

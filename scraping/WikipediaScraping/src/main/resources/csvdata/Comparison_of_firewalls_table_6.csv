@@ -1,6 +1,0 @@
-"Features:","Modularity:supportsthird-partymodulestoextendfunctionality?","IPS:Intrusionpreventionsystem","Open-SourceLicense?","supportsIPv6?","Class:Home/Professional","OperatingSystemsonwhichitruns?"
-"Vyatta","Yes","Yes","Yes","Yes","Professional","VyattaOS(builtonDebian)"
-"WinGate","Yes","?","No","No","Professional","Windows2000,WindowsXP,Windows2003,WindowsVista,Windows2008.32bitand64bit."
-"OPNsense","Yes","Yes,withSnortandSuricata(modules)","Yes","Yes","Both","FreeBSD/NanoBSD-basedappliance"
-"pfSense","Yes","Yes,withSnortandSuricata(modules)","Yes","Yes","Both","FreeBSD/NanoBSD-basedappliance"
-"IPFire","Yes","Yes,withSuricata","Yes","Yes(manualsetupneeded)","Both","Linux(basedonLinuxFromScratch)"

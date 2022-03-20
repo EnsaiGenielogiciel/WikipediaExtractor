@@ -1,5 +1,0 @@
-"Model","Launch","Codename","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","Memory","Fillrate","Fillrate","Fillrate","Memory"
-"Model","Launch","Codename","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Size(MiB)","Bandwidth(GB/s)","Bustype","Buswidth(bit)"
-"Radeon320","May2002","A3","FSB","160","200,266","1:0:3:1","160","160","480","0","Unknown","1.6,2.128","DDR","64"
-"Radeon330","2002","RS200L(wilma)","FSB","150","200,266","1:0:3:1","150","150","450","0","Unknown","1.6,2.128","DDR","64"
-"Radeon340","2002","RS200(wilma)","183","FSB","183","200,266","1:0:3:1","183","549","Unknown","0","1.6,2.128","DDR","64"

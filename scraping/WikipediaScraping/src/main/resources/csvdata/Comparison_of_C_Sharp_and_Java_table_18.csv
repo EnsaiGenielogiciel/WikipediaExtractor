@@ -1,8 +1,0 @@
-"Preprocessing,CompilationandPackaging","Java","C#"
-"Namespaces","Packages","Namespaces"
-"Filecontents","Restricted","Free"
-"Packaging","Package","public/internalvisibilityonnamespacemembers,whichthebuildsystemtranslatestomodulesandassembliesattheCLR-level"
-"Classes/assemblysearchpath","ClassPath","Bothcompile-timeandruntime"
-"Conditionalcompilation","No;butseeApacheAnt","Yes"
-"Customerrors/warnings","Yes;AnnotationProcessor","Yes"
-"Explicitregions","No","Yes"

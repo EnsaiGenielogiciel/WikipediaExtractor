@@ -1,7 +1,0 @@
-"ThreadingandSynchronization","Java","C#"
-"Threads","Yes","Yes"
-"Threadpool","Yes","Yes"
-"Task-basedparallelism","Yes","Yes"
-"Semaphores","Yes","Yes"
-"Monitors","Yes","Yes"
-"Thread-localvariables","Yes","Yes;ThreadStaticAttributeandThreadLocal<T>class"

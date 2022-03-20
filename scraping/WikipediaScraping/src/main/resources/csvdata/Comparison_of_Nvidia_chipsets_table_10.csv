@@ -1,3 +1,0 @@
-"Model","CodeName","ReleaseDate","CPUSocket","ProcessorsSupported","Fab(nm)","FSB/HTFrequency(MHz)","Memory","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound"
-"nForce570SLI","Crush51+MCP51","2006","LGA775","Pentium4,PentiumEE,PentiumD,CeleronD,Core2","","1066MHz","DDR2-666dualchannel","1.0a20lanes","x8+x8(orx16+x1)","5Ports","8PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","HDA"
-"nForce590SLI","Crush51+MCP55","2006","LGA775","Pentium4,PentiumEE,PentiumD,CeleronD,Core2","","1066MHz","DDR2-666dualchannel","1.0a48lanes","x16+x16","5Ports","10PortsRev2.0","1PortsUDMA133","6Ports3.0Gbit/s","2*1000Mbit/s","HDA"

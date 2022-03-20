@@ -1,7 +1,0 @@
-"KernelName","HTTP","FTP","NFS","CIFS","Nameserver","Transport-layerloadbalancer","Application-layerloadbalancer","9P","TLSproxy","WAF","Memcachedserver"
-"Linuxkernel","(TUXwebserverpatch)","(TUXwebserverpatch)","knfsd","(CIFSDavailable)","?","IPVirtualServer","(KTCPVS)","(patchavailable)","SOL_TLS","(TempestaFW)","(kmemcached)"
-"DragonFlyBSDkernel","No","No","Yes","Yes","?","?","?","No","No","?","?"
-"FreeBSDkernel","No","No","Yes","No","No","Yes","No","No","No","?","?"
-"Solariskernel","?","?","Yes","Yes","?","Yes","Yes","?","KSSL","?","?"
-"WindowsNTkernel","HTTP.sys","?","?","Yes","?","Yes","Yes","No","?","?","?"
-"XNU","No","No","Yes","No","No","No","No","No","No","?","?"

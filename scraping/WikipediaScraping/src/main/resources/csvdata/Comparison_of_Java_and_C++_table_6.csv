@@ -1,2 +1,0 @@
-"Java/C++statement","C++generatedcode(x86)","Javageneratedbytecode"
-"vector[i]++;","movedx,[ebp+4h]moveax,[ebp+1Ch]incdwordptr[edx+eax*4]","aload_1iload_2dup2ialoadiconst_1iaddiastore"

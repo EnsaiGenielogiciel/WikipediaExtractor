@@ -1,4 +1,0 @@
-"Assembler","Developer","FOSS","License","Instructionset","Hostplatform"
-"TheMacroassemblerAS","AlfredArnold","","Free","29xxx,AVR,65816,ACE,F2MC-8L,F2MC-16L,HMCS400,6301,6309,H8/300(H),H8/500,SH7000/SH7600/SH7700,HuC6280,PPC403GA,4004/4040,8008,MCS-48,MCS-41,MCS-51,MCS-251,MCS-96/196/296,8080/8085,[","Win32,DOS/DPMI,DOS(nolongermaintained),OS/2(nolongermaintained),Linux"
-"Meta-Symbol","ScientificDataSystems(SDS)","","Free","SDSSigmaseries","BTM,UTS,CP-V"
-"MetaAssembler(MASM)","UNIVAC","","Free","UNIVAC1100/2200series","UNIVACEXEC8"

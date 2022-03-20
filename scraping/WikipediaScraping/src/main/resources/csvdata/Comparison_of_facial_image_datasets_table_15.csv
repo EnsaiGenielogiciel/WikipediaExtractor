@@ -1,6 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"UrbanSound","Labeledsoundrecordingsofsoundslikeairconditioners,carhornsandchildrenplaying.","SortedintofoldersbyclassofeventsaswellasmetadatainaJSONfileandannotationsinaCSVfile.","1,059","Sound(WAV)","Classification","2014","","J.Salamonetal."
-"AudioSet","10-secondsoundsnippetsfromYouTubevideos,andanontologyofover500labels.","128-dPCA'dVGG-ishfeaturesevery1second.","2,084,320","Text(CSV)andTensorFlowRecordfiles","Classification","2017","","J.Gemmekeetal.,Google"
-"BirdAudioDetectionchallenge","Audiofromenvironmentalmonitoringstations,pluscrowdsourcedrecordings","","17,000+","","Classification","2016(2018)","","QueenMaryUniversityandIEEESignalProcessingSociety"
-"WSJ0HipsterAmbientMixtures","AudiofromWSJ0mixedwithnoiserecordedintheSanFranciscoBayArea","NoiseclipsmatchedtoWSJ0clips","28,000","Sound(WAV)","Audiosourceseparation","2019","","Wichern,G.,etal.,WhisperandMERL"
-"Clotho","4,981audiosamplesof15to30secondslong,eachaudiosamplehavingfivedifferentcaptionsofeightto20wordslong.","","24,905","Sound(WAV)andtext(CSV)","Automatedaudiocaptioning","2020","","K.Drossos,S.Lipping,andT.Virtanen"

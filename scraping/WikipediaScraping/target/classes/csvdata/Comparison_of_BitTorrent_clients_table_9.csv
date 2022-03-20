@@ -1,5 +1,0 @@
-"BitTorrentlibrary","Cache","Webseeding","WebTorrent","Broadcatching(RSS)","Prioritization","Selectivedownloads","SOCKS","Remotecontrolviaweb","Engine","Notes"
-"libtorrent(Rasterbar)","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","?",""
-"MonoTorrent","Yes","Yes","No","Yes","Yes","Yes","No","Yes","No",""
-"rTorrent(libTorrentRakshasa)","Partial","No","No","No","Yes","Yes","No","Yes","No","Nobuilt-incache-diskcachebutadelayedsync"
-"BitTorrentlibrary","Cache","Webseeding","WebTorrent","Broadcatching(RSS)","Prioritization","Selectivedownloads","SOCKS","Remotecontrolviaweb","Engine","Notes"

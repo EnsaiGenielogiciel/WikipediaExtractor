@@ -1,8 +1,0 @@
-"Model(Codename)","Launch","Architecture(Fab)","Businterface","Streamprocessors","Clockrate","Memory","Processingpower(GFLOPS)","Memory","Memory","Clockrate","Memory","Processingpower(GFLOPS)","TDP(Watts)"
-"Model(Codename)","Launch","Architecture(Fab)","Businterface","Streamprocessors","Core(MHz)","Memory(MHz)","Size(MB)","TDP(Watts)","Type","Buswidth(bit)","Bandwidth(GB/s)","Single","Double"
-"StreamProcessor(R580)","2006","R50080nm","","240","600","","1024","GDDR3","256","83.2","375","N/A","165"
-"FireStream9170(RV670)","November8,2007","TeraScale155nm","PCIe2.0x16","320","800","800","2048","GDDR3","256","51.2","512","102.4","105"
-"FireStream9250(RV770)","June16,2008","TeraScale155nm","PCIe2.0x16","800","625","993","1024","GDDR3","256","63.6","1000","200","150"
-"FireStream9270(RV770)","November13,2008","TeraScale155nm","PCIe2.0x16","800","750","850","2048","GDDR5","256","108.8","1200","240","160"
-"FireStream9350(CypressXT)","June23,2010","TeraScale240nm","PCIe2.1x16","1440","700","1000","2048","GDDR5","256","128","2016","403.2","150"
-"FireStream9370(CypressXT)","June23,2010","TeraScale240nm","PCIe2.1x16","1600","825","1150","4096","GDDR5","256","147.2","2640","528","225"

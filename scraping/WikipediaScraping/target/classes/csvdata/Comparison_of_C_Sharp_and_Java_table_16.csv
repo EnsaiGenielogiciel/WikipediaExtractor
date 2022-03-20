@@ -1,7 +1,0 @@
-"Functionalprogramming","Java","C#"
-"Methodreferences","Yes","Yes"
-"Closures","Alllambdasdonotintroduceanewlevelofscope.Allreferencedvariablesmustbeeffectivelyfinal","Yes"
-"Lambdaexpressions","Yes","Yes"
-"Expressiontrees","No","Yes"
-"Genericquerylanguage/API","Yes;JavaStreamAPI(Monad)","Yes"
-"Tailrecursioncompileroptimizations","No","Onlyonx64"

@@ -1,5 +1,0 @@
-"Name","Kernel","Kerneltype","Architecture","Integratedfirewall","SMPsupport","USBsupport","UDMAsupport","LFNsupport","Updatemanagement","APIs","DDIs","SafeMode","DirectX"
-"Windows95","MS-DOS7.0(Win95,Win95A),MS-DOS7.1(Win95B,Win95C)","Monolithickernel","x86,hybrid16/32-bit","No","No","Partial(OSR2.1/2.5only)","No","Yes","WindowsUpdate","Win16,Win32","DOS,DLL,VxD,WDM(USB-only),direct-access","Yes","n/a(RTM/OSR1)2.0a(OSR2/2.1)5.0(OSR2.5)8.0a(optional)"
-"Windows98","MS-DOS7.1","Monolithickernel","x86,hybrid16/32-bit","No","No","Yes","Yes","Yes","WindowsUpdate","Win16,Win32","DOS,DLL,VxD,WDM(partial),direct-access","Yes","5.29.0c(oct2006)(optional)"
-"Windows98SecondEdition","MS-DOS7.1","Monolithickernel","x86,hybrid16/32-bit","No","No","Yes","Yes","Yes","WindowsUpdate","Win16,Win32","DOS,DLL,VxD,WDM(partial),direct-access","Yes","6.1a9.0c(oct2006)(optional)"
-"WindowsMe","MS-DOS8.0","Monolithickernel","x86,hybrid16/32-bit","No","No","Yes","Yes","Yes","WindowsUpdate","Win16,Win32","DLL,VxD,WDM(partial),direct-access","Yes","7.19.0c(oct2006)(optional)"

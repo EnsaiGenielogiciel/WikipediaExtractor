@@ -1,6 +1,0 @@
-"Model","Launch","Codename","Architecture","Fab(nm)","CoreClockrate(MHz)","Configcore","Fillrate","SharedMemory","SharedMemory","APIcompliance(version)","CombinedTDP","APIcompliance(version)","APIcompliance(version)","Fillrate","SharedMemory","Processingpower(GFLOPS)","APIcompliance(version)","CombinedTDP","APUSeries"
-"Model","Launch","Codename","Architecture","Fab(nm)","CoreClockrate(MHz)","Configcore","Pixel(GP/s)","Texture(GT/s)","Processingpower(GFLOPS)","Buswidth(bit)","Bustype","APUSeries","Bandwidth(GB/s)","Direct3D","OpenGL","OpenCL","Vulkan","Idle(W)","Max.(W)"
-"RadeonHD6370D","November1,2011","WinterPark","TeraScale2","32","443","160:8:4","1.77","3.54","128","DDR3-1600","25.6","142","11.3(11_0)","4.5","1.2","N/A","Unknown","65","E2"
-"RadeonHD6410D","June20,2011","WinterPark","TeraScale2","32","443–600","160:8:4","1.77–2.4","3.54–4.8","128","DDR3-1600","25.6","142–192","11.3(11_0)","4.5","1.2","N/A","Unknown","65","A4"
-"RadeonHD6530D","June20,2011","BeaverCreek","443","TeraScale2","32","320:16:8","3.54","7.08","DDR3-1866","128","29.9","284","65–100","11.3(11_0)","4.5","1.2","N/A","Unknown","A6"
-"RadeonHD6550D","BeaverCreek","June20,2011","600","400:20:8","TeraScale2","DDR3-1866","29.9","32","65–100","4.8","12","480","A8","128","11.3(11_0)","4.5","1.2","N/A","Unknown"

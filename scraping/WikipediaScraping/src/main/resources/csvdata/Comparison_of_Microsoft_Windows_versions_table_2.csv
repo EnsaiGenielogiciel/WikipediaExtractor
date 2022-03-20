@@ -1,5 +1,0 @@
-"Name","Releasedate","RTMbuild","Latestversion","Statussupport","Codename","MS-DOSversion","Kerneltype","Architecture","Editions","Targetmarket"
-"Windows95","1995-08-15","950","4.00.950COSR2.5(1997-11-26)","Unsupported(2001-12-31)","Chicago","MS-DOS7.0,MS-DOS7.1(OSR2.x)","Monolithic","Hybrid16/32-bit","Retail,OSR1,OSR2,OSR2.1,OSR2.5","Desktops"
-"Windows98","1998-05-15","1998","4.10.1998","Unsupported(2006-07-11)","Memphis","MS-DOS7.1","Monolithic","Hybrid16/32-bit","","Desktops"
-"Windows98SE","1999-05-05","2222","4.10.2222A(2000-02-25)","Unsupported(2006-07-11)","","MS-DOS7.1","Monolithic","Hybrid16/32-bit","","Desktops"
-"WindowsMe","2000-06-19","3000","4.90.3000(2000-09-14)","Unsupported(2006-07-11)","Millennium","MS-DOS8.0","Monolithic","Hybrid16/32-bit","","Desktops"

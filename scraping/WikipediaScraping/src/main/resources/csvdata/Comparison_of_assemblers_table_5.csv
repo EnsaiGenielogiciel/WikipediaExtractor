@@ -1,4 +1,0 @@
-"Assembler","Developer","FOSS","License","Instructionset","Hostplatform"
-"GNUAssembler","GNUProject","Yes","GNUGPL","POWER,PowerPC74xx,PowerPC970","AllplatformssupportedbyGNUBinutils"
-"IBMAIXassembler","IBM","No","Proprietary","POWER","IBMAIX"
-"vasm","VolkerBarthelmann,FrankWille","","Free","POWER,40x,440,460,6xx,7xx,7xxx,860,Book-E,e300ande500","various"

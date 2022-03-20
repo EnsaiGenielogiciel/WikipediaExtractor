@@ -1,4 +1,0 @@
-"Database","Createdatabase","Deletedatabase","Listdatabases","Useadb","Createtable","Deletetable","Listtables","Listtablefields"
-"MySQL","createdatabasedbname;","dropdatabasedbname;","showdatabases;","usedbname;","createtabletbname;","droptabletbname;","showtables;","describetbname;"
-"PostgreSQL","createdatabasedbname;","dropdatabasedbname;","\l(inpsql)","\cdbname(inpsql)Forschemas(asimilarfeature):setsearch_path=schema_name;","createtabletbname(field1value_type1,field2value_type2,...);","droptabletbname;","\d(inpsql)","\dtbname(inpsql)"
-"Sqlitever3","?","?","?","$sqlite3filename","createtabletbname(field1value_type1,field2value_type2,...)","droptabletbname",".tables",".schema"

@@ -1,3 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"HIGGSDataset","MonteCarlosimulationsofparticleacceleratorcollisions.","28featuresofeachcollisionaregiven.","11M","Text","Classification","2014","","D.Whiteson"
-"HEPMASSDataset","MonteCarlosimulationsofparticleacceleratorcollisions.Goalistoseparatethesignalfromnoise.","28featuresofeachcollisionaregiven.","10,500,000","Text","Classification","2016","","D.Whiteson"

@@ -1,7 +1,0 @@
-"Can:","workatOSILayer4(statefulfirewall)","workatOSILayer7(applicationinspection)","ChangeTTL?(Transparenttotraceroute)","ConfigureREJECT-withanswer","DMZ(de-militarizedzone)","Filteraccordingtotimeofday(quota)","RedirectTCP/UDPports(portforwarding)","RedirectIPaddresses(forwarding)","FilteraccordingtoUserAuthorization","Trafficrate-limit/QoS","Tarpit","Log"
-"Sidewinder","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"WinGate","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Yes","Yes","No","Yes"
-"Zeroshell","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
-"OPNsense","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
-"pfSense","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
-"IPFire","Yes","Yes","?","No","Yes","Yes","Yes","Yes","?","Yes","No","Yes"

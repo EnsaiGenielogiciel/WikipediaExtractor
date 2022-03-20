@@ -1,7 +1,0 @@
-"Model(codename)","ReleaseDate&Price","Architecture&Fab","Transistors&DieSize","Core","Fillrate","Processingpower(GFLOPS)","Memory","Memory","Memory","Processingpower(GFLOPS)","Core","Fillrate","Processingpower(GFLOPS)","Memory","TBP","Businterface"
-"Model(codename)","ReleaseDate&Price","Architecture&Fab","Transistors&DieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TBP","Businterface","Half","Single","Double","Bustype&width","Size(GiB)","Clock(MT/s)","Bandwidth(GB/s)"
-"Radeon610","August13,2019OEM","GCN1stgenTSMC28FF","1.0×1077mm","320:20:45CU","1030","20.6","8.24","?","659.2","41.2","GDDR564-bit","4","4500","48","50W","PCIe3.0×8"
-"Radeon620","August13,2019OEM","GCN4thgenGlobalFoundries14FF","2.2×10101mm","384:24:86CU320:20:86CU","1024","24.58","8.192","786.4","786.4","49.15","GDDR564-bitDDR364-bit","4","4500","48","50W","PCIe3.0×8"
-"Radeon625","August13,2019OEM","GCN4thgenGlobalFoundries14FF","2.2×10101mm","384:24:86CU","1024","24.58","8.192","786.4","786.4","49.15","GDDR564-bit","4","4500","48","50W","PCIe3.0×8"
-"Radeon630","August13,2019OEM","GCN4thgenGlobalFoundries14FF","3.3×10125mm","512:32:168CU","1219","38.98","19.49","1247","1247","77.95","GDDR564-bit","4","6000","48","50W","PCIe3.0×8"
-"RadeonRX640","3.3×10125mm","August13,2019OEM","GCN4thgenGlobalFoundries14FF","640:40:1610CU512:32:168CU","1287","38.98","19.49","1247","1247","77.95","GDDR564-bit","4","7000","56","50W","PCIe3.0×8"

@@ -1,3 +1,0 @@
-"Name","Parsingalgorithm","Inputgrammarnotation","Booleangrammarabilities","Developmentplatform","License"
-"LuZc","deltachain","modular","Conjunctive,notcomplimentary","POSIX","Proprietary"
-"bnf2xml","Recursivedescent(isatextfilteroutputisxml)","simpleBNFgrammar(inputmatching),outputisxml","?","Beta,andnotafullEBNFparser","Free,GNUGPL"

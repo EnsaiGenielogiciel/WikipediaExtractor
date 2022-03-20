@@ -1,8 +1,0 @@
-"Concept","memoryefficiency","multipletypedocument","small-sizedcontent","usesimultaneouslydifferentapplication","easytoviewalldocumentlabelsofsametypedocument","Applications"
-"Singledocumentinterface","No","Yes","No","No","dependsonWindowSystem","Inkscape"
-"Singledocumentwindowsplitting","No","No","No","No","dependsonWindowSystem",""
-"MDI:Overlappablewindows","Yes","Yes","Yes","No","dependsonApplication","Opera"
-"MDI:Tabbeddocumentinterface","Yes","No","No","No","Yes","gedit,Firefox"
-"MDI:Windowsplitting","Yes","No","No","No","No",""
-"MDI:IDE-styleinterface","Yes","Yes","Yes","No","Yes","Eclipse"
-"ControlledSingleDocumentInterface","Yes","Yes","Yes","Yes","dependsonWindowSystem","GIMP"

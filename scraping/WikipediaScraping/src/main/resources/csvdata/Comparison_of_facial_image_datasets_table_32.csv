@@ -1,8 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"DowJonesIndex","Weeklydataofstocksfromthefirstandsecondquartersof2011.","Calculatedvaluesincludedsuchaspercentagechangeandalags.","750","Commaseparatedvalues","Classification,regression,Timeseries","2014","","M.Brownetal."
-"Statlog(AustralianCreditApproval)","Creditcardapplicationseitheracceptedorrejectedandattributesabouttheapplication.","Attributenamesareremovedaswellasidentifyinginformation.Factorshavebeenrelabeled.","690","Commaseparatedvalues","Classification","1987","","R.Quinlan"
-"eBayauctiondata","AuctiondatafromvariouseBay.comobjectsovervariouslengthauctions","Containsallbids,bidderID,bidtimes,andopeningprices.","~550","Text","Regression,classification","2012","","G.Shmuelietal."
-"Statlog(GermanCreditData)","Binarycreditclassificationinto""good""or""bad""withmanyfeatures","Variousfinancialfeaturesofeachpersonaregiven.","690","Text","Classification","1994","","H.Hofmann"
-"BankMarketingDataset","Datafromalargemarketingcampaigncarriedoutbyalargebank.","Manyattributesoftheclientscontactedaregiven.Iftheclientsubscribedtothebankisalsogiven.","45,211","Text","Classification","2012","","S.Moroetal."
-"IstanbulStockExchangeDataset","Severalstockindexestrackedforalmosttwoyears.","None.","536","Text","Classification,regression","2013","","O.Akbilgic"
-"DefaultofCreditCardClients","CreditdefaultdataforTaiwanesecreditors.","Variousfeaturesabouteachaccountaregiven.","30,000","Text","Classification","2016","","I.Yeh"

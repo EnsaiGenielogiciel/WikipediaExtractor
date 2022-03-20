@@ -1,5 +1,0 @@
-"Kernelname","ACL","SCO","LMP","HCI","L2CAP","BNEP","RFComm.","SDP","TCP","AVTCP","AVDTP","OBEX","CMTP","HIDP","HCRP","CAPI","PPP"
-"FreeBSDkernel","?","?","?","Yes","Yes","?","Yes","Yes","?","?","?","No","?","?","?","?","?"
-"Linux","?","Yes","?","Yes","Yes","Yes","Yes","?","?","?","?","?","Yes","Yes","?","?","?"
-"macOSXNUKernel","?","?","?","?","Yes","?","Yes","Yes","?","?","?","No","?","?","?","?","?"
-"Kernelname","ACL","SCO","LMP","HCI","L2CAP","BNEP","RFComm.","SDP","TCP","AVTCP","AVDTP","OBEX","CMTP","HIDP","HCRP","CAPI","PPP"

@@ -1,2 +1,0 @@
-"Definition","concatenate(string1,string2)returnsstring."
-"Description","Concatenates(joins)twostringstoeachother,returningthecombinedstring.NotethatsomelanguageslikeChavemutablestrings,soreallythesecondstringisbeingappendedtothefirststringandthemutatedstringisreturned."

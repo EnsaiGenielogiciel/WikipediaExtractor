@@ -1,8 +1,0 @@
-"Application","PBRviewport","Viewporteffects","InteractiveGIRendering","IntegratedCompositing","Texteditorforshaderwriting","MaterialNodes","TurntableRendering"
-"Maya","Yes","Some","Arnold","No","?","Hypershade,NodeEditor,ShaderFX","Yes"
-"3dsMax","Yes","Some","Arnold","(StateSet)","OSLMap","SlateMaterialEditor,ShaderFX","EasyTurntablescript"
-"MODO","Yes","?","Yes","No","?","NodalShading","RenderTurntable"
-"Blender","Eevee(2.80andlater)","Eevee(2.80andlater)","Cycles","Yes","TextEditor","Yes","TurnaroundCameraaddon"
-"Gaffer","No","No","externalrenderers","Yes","OSLCodeNode","No","No"
-"MarmosetToolbag","Yes","Yes","No","No","?","UberPBRshadersonly","Yes"
-"SubstanceDesigner","Yes","YEBIS","NVIDIAIray","?","?","MDLgraph","?"

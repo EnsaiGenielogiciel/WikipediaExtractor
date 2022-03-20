@@ -1,6 +1,0 @@
-"Rover(mission,organization,year)","CPUs","RAM","Flash","EEPROM","Operatingsystem","CPUtimeavailablefortheautonomysoftware"
-"SojournerRover(Pathfinder,NASA,1997)","2MHzIntel80C85","512KB","176KB","None","Customcyclicexecutive","NotapplicabletoCyclicExecutives"
-"PathfinderLander(NASA,1997)(BasestationforSojournerrover)","20MHzMFC","128MB","None","6MB","VxWorks(multitasking)","lessthan75%"
-"SpiritandOpportunity(MarsExplorationRover(MER),NASA,2004)","20MHzBAERAD6000","128MB","256MB","3MB","VxWorks(multitasking)","lessthan75%"
-"Curiosity(MarsScienceLaboratory(MSL),NASA,2011)","200MHzBAERAD750","256MB","2GB","256KB","VxWorks(multitasking)","lessthan75%"
-"Perseverance(Mars2020,NASA,2020)","200MHzBAERAD750","256MB","2GB","256KB","VxWorks(multitasking)","?"

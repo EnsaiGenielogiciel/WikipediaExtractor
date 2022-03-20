@@ -1,8 +1,0 @@
-"Topic","Homeownerassociation","Civicassociation","Residentsassociation","Neighborhoodassociation","Propertyownersassociation","CommunityDevelopmentDistrict"
-"Membershiprequirements","Mandatorymembership","Voluntarymembership","Voluntarymembership","Voluntarymembership","Mandatorymembership","Mandatorymembership"
-"Violationsofregulations","Fines,disableaccesstoamenities,liens,foreclosure","Removalfromtheassociation","Removalfromtheassociation","Removalfromtheassociation","Fines,liens,foreclosure","Bankruptcy,fees"
-"Sizeofassociation","Membershipremainsconstant","Membershipfluctuatesasmembersarefreetoleaveorjoinwithoutrestitution","Membershipfluctuatesasmembersarefreetoleaveorjoinwithoutrestitution","Membershipfluctuatesasmembersarefreetoleaveorjoinwithoutrestitution","Membershipremainsconstant","Canchangeasbondgetspaid"
-"Maintenanceissues","Boardofdirectorsofmanagementcompanyhandleshiredservices","Boardofdirectorsseeksvolunteerstohelp,thenhiresservices","Boardofdirectorspetitionlocalgovernment","Boardofdirectorsseeksvolunteerstohelp,thenhiresservices","Boardofdirectorsofmanagementcompanyhandleshiredservices","Localgov'thandles"
-"Righttorule","Deedrestricted","None","Majorityvotingblock","None","Deedrestricted","Municipalityonly"
-"Entityownsproperty","Yes","No","No","No","Yes","No"
-"Canbecomedefunct?","No","Yes","Yes","Yes","No","No"

@@ -1,2 +1,0 @@
-"Definition","left(string,n)returnsstring"
-"Description","Returnstheleftnpartofastring.Ifnisgreaterthanthelengthofthestringthenmostimplementationsreturnthewholestring(exceptionsexist–seecodeexamples).Notethatforvariable-lengthencodingssuchasUTF-8,UTF-16orShift-JIS,itcanbenecessarytoremovestringpositionsattheend,inordertoavoidinvalidstrings."

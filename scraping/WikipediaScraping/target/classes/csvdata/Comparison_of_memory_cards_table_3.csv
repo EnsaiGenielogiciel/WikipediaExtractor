@@ -1,5 +1,0 @@
-"Standard","SD","UFSCard","CFast","XQD","CFexpress","SD","SD","SD","UFSCard","CFast","XQD","CFexpress"
-"Version","3.0","4.0","6.0","7.0","1.0","2.0","1.0","2.0","1.0","2.0","1.0","?"
-"Launched","2010Q2","2011Q1","2017Q1","?","Q22016","?","2008Q3","2012Q3","2011Q4","2014Q1","2017Q2","?"
-"Bus","UHS-I","UHS-II","UHS-III","PCIe","UFS2.0","UFS3.0","SATA-300","SATA-600","PCIe2.0x1","PCIe2.0x2","PCIe3.0x2","PCIe3.0x8"
-"Speed(full-duplex)","104MB/s","156MB/s","624MB/s","1970MB/s(?)","600MB/s","1200MB/s","300MB/s","600MB/s","500MB/s","1000MB/s","1970MB/s","7880MB/s"

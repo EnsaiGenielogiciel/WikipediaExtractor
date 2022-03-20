@@ -1,2 +1,0 @@
-"Database","Addnewcolumn","Deletecolumn","Changecolumn","Addelement","Deleteelement"
-"MySQL","altertable""tbname""addcolumn""column_name"";","altertable""tbname""dropcolumn""column_name"";","altertable""tbname""change""old""""new""""newtype"";","insertinto""tbname""(""fields"")values(""values"");","deletefrom""tbname""where""expr"";"

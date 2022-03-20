@@ -1,7 +1,0 @@
-"Kernelname","CRC-32(IEEE)","CRC32c","MD2","MD4","MD5","SHA-1","SHA-2","SHA-3","MichaelMIC","Poly1305","RIPEMD-128","RIPEMD-160","RIPEMD-256","RIPEMD-320","Tiger","Whirlpool","HMAC","MDC2","GOST","LASH","VMAC"
-"Linux","Yes","Yes","No","Yes","Yes","Yes","Yes","Partial","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes"
-"Solariskernel","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","Yes","?","?","Yes","?","Yes","Yes","?","?","?"
-"WindowsNTkernel","?","?","Yes","Yes","Yes","Yes","Yes","?","No","?","No","No","No","No","No","No","Yes","No","No","No","?"
-"FreeBSDkernel","Yes","Yes","?","Yes","Yes","Yes","Yes","?","?","?","?","Yes","?","?","Yes","?","Yes","?","?","?","?"
-"XNUkernel","Yes","?","Yes","?","Yes","Yes","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
-"Kernelname","CRC-32(IEEE)","CRC32c","MD2","MD4","MD5","SHA-1","SHA-2","SHA-3","MichaelMIC","Poly1305","RIPEMD-128","RIPEMD-160","RIPEMD-256","RIPEMD-320","Tiger","Whirlpool","HMAC","MDC2","GOST","LASH","VMAC"

@@ -1,7 +1,0 @@
-"Name","Releasedate","RTMbuild","Currentversion","Statussupport","Codename","Basedon(kernel)","Supportedarchitectures"
-"WindowsPhone7","2010-11-08","7004","7.10.8862","Unsupported","Photon","CE6.0","ARM"
-"WindowsPhone7.5","2011-09-27","7720","7.10.8862","Unsupported","Mango","CE6.1","ARM"
-"WindowsPhone7.8","2013-02-01","8858","7.10.8862","Unsupported","","CE6.1","ARM"
-"WindowsPhone8","2012-10-29","10211","10.0.10586","Unsupported","Apollo,Portico","NT6.2","ARM"
-"WindowsPhone8.1","2014-04-14","12359","10.0.10586","Unsupported","Blue","NT6.3","ARM"
-"Windows10Mobile","2015-11-08","10586","10.0.10586","Unsupported","Threshold","NT10.0","ARM"

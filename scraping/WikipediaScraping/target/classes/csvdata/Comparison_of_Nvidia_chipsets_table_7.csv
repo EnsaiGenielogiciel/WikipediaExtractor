@@ -1,5 +1,0 @@
-"Model","CodeName","ReleaseDate","CPUSocket","ProcessorsSupported","Fab(nm)","FSB/HTFrequency(MHz)","Memory","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound"
-"nForce4Ultra","Crush19+MCP51","January17,2006","LGA775","Pentium4,PentiumEE,PentiumD,CeleronD","","1066MHz","DDR2-667dualchannel","1.0a20lanes","No","6Ports","8PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","HDA"
-"nForce4SLIXE","Crush19+MCP51","January17,2006","LGA775","Pentium4,PentiumEE,PentiumD,CeleronD","","1066MHz","DDR2-667dualchannel","1.0a20lanes","×8+×8","6Ports","8PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","HDA"
-"nForce4SLI","Crush19+MCP04","April5,2005","LGA775","Pentium4,PentiumEE,PentiumD,CeleronD","","1066MHz","DDR2-667dualchannel","1.0a20lanes","x8+x8","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","AC'972.3"
-"nForce4SLIX16","Crush19+MCP04","April5,2005","LGA775","Pentium4,PentiumEE,PentiumD,CeleronDCore2(unofficial,someMB)","","1066MHz","DDR2-667dualchannel","1.0a40lanes","x16+x16","6Ports","10PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","AC'972.3"

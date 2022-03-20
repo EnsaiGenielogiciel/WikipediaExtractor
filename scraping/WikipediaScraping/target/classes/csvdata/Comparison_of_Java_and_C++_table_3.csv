@@ -1,7 +1,0 @@
-"C++","Java"
-"constFoo*a;//itisnotpossibletomodifytheobject//pointedtobyathrougha","finalFooa;//adeclarationofa""final""reference://itispossibletomodifytheobject,//butthereferencewillconstantlypoint//tothefirstobjectassignedtoit"
-"a=newFoo();","a=newFoo();//Onlyinconstructor"
-"a->x=5;//ILLEGAL","a.x=5;//LEGAL,theobject'smemberscanstillbemodified//unlessexplicitlydeclaredfinalinthedeclaringclass"
-"Foo*constb=newFoo();//adeclarationofa""const""pointer//itispossibletomodifytheobject,//butthepointerwillconstantlypoint//totheobjectassignedtoithere","finalFoob=newFoo();//adeclarationofa""final""reference"
-"b=newFoo();//ILLEGAL,itisnotallowedtore-bindit","b=newFoo();//ILLEGAL,itisnotallowedtore-bindit"
-"b->x=5;//LEGAL,theobjectcanstillbemodified","b.x=5;//LEGAL,theobjectcanstillbemodified"

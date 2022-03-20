@@ -1,5 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"ConcreteCompressiveStrengthDataset","Datasetofconcretepropertiesandcompressivestrength.","Ninefeaturesaregivenforeachsample.","1030","Text","Regression","2007","","I.Yeh"
-"ConcreteSlumpTestDataset","Concreteslumpflowgivenintermsofproperties.","Featuresofconcretegivensuchasflyash,water,etc.","103","Text","Regression","2009","","I.Yeh"
-"MuskDataset","Predictifamolecule,giventhefeatures,willbeamuskoranon-musk.","168featuresgivenforeachmolecule.","6598","Text","Classification","1994","","ArrisPharmaceuticalCorp."
-"SteelPlatesFaultsDataset","Steelplatesof7differenttypes.","27featuresgivenforeachsample.","1941","Text","Classification","2010","","SemeionResearchCenter"

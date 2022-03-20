@@ -1,8 +1,0 @@
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","SupportedAPIversion","Memory","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","TDP(Watts)","Notes"
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","Bandwidth(GB/s)","TDP(Watts)","Notes","Bustype","Buswidth(bit)","Singleprecision","Direct3D","OpenGL"
-"NVS2100M","GT218M","40","PCIe2.0x16","535","1230","1600","16:8:4","2.14","4.28","Upto512","12.8","GDDR3","64","59.04","10.1","3.3","14",""
-"NVS3100M","GT218M","40","PCIe2.0x16","600","1470","1600","16:8:4","2.4","4.8","Upto512","12.8","GDDR3","64","70.56","10.1","3.3","14","basedonG210M/310M"
-"NVS4200M","GF119","40","PCIe2.0x16","810","1620","1600","48:8:4","3.24","6.48","Upto1024","12.8","GDDR3","64","155.52","11","4.5","","basedonGT520M"
-"NVS5100M","GT216M","40","PCIe2.0x16","550","1210","1600","Upto1024","48:16:8","4.4","8.8","25.6","128","GDDR3","174.24","10.1","3.3","35",""
-"NVS5200M","GF108GF117","40/28","PCIe2.0x16","625","1250","1800","Upto1024","96:16:4","2.5","10","14.4","35","","64","GDDR3","240","11","4.5"
-"NVS5400M","GF108GF117","40/28","660","1320","1800","96:16:4","PCIe2.0x16","2.64","10.56","28.8","Upto1024","11","4.5","128","253.44","GDDR3","35",""

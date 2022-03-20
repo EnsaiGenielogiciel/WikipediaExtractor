@@ -1,3 +1,0 @@
-"Model","CodeName","ReleaseDate","CPUSocket","ProcessorsSupported","Fab(nm)","FSB/HTFrequency(MHz)","Memory","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Graphics"
-"GeForce9300","MCP7A","October2008","LGA775","IntelCore2,PentiumDual-Core,Core-basedCelerons","","1333MHz","DDR3-1333/DDR2-800dualchannel","2.020lanes","No","5Ports","12PortsRev2.0","No","6Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce9300"
-"GeForce9400","MCP7A","October2008","LGA775","IntelCore2,PentiumDual-Core,Core-basedCelerons","","1333MHz","DDR3-1333/DDR2-800dualchannel","2.020lanes","No","5Ports","12PortsRev2.0","No","6Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce9400"

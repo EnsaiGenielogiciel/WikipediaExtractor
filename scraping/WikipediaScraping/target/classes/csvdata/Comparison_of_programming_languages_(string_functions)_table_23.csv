@@ -1,2 +1,0 @@
-"Definition","length(string)returnsanintegernumber"
-"Description","Returnsthelengthofastring(notcountingthenullterminatororanyotherofthestring'sinternalstructuralinformation).Anemptystringreturnsalengthof0."

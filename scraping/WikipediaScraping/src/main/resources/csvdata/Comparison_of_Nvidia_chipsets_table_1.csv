@@ -1,5 +1,0 @@
-"Model","ReleaseDate","ProcessorsSupported","Fabricationprocess(nm)","FSB/HTFrequency(MHz)","Memory","Max.memory","AGP","Southbridge","Features","Notes"
-"nForce220","2001","AthlonXP,Athlon,Duron","","266MHz,200MHz","DDR266singlechannel","1.5GB","AGP4×","MCPMCP-D","",""
-"nForce220-D","2001","AthlonXP,Athlon,Duron","","266MHz,200MHz","DDR266singlechannel","1.5GB","AGP4×","MCPMCP-D","Geforce2MXIGP",""
-"nForce415-D","January8,2002","AthlonXP,Athlon,Duron","","266MHz,200MHz","DDR266dualchannel","1.5GB","AGP4×","MCPMCP-D","",""
-"nForce420-D","2001","AthlonXP,Athlon,Duron","","266MHz,200MHz","DDR266dualchannel","1.5GB","AGP4×","MCPMCP-D","Geforce2MXIGP",""

@@ -1,5 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"AdultDataset","Censusdatafrom1994containingdemographicfeaturesofadultsandtheirincome.","Cleanedandanonymized.","48,842","Commaseparatedvalues","Classification","1996","","UnitedStatesCensusBureau"
-"Census-Income(KDD)","Weightedcensusdatafromthe1994and1995CurrentPopulationSurveys.","Splitintotrainingandtestsets.","299,285","Commaseparatedvalues","Classification","2000","","UnitedStatesCensusBureau"
-"IPUMSCensusDatabase","CensusdatafromtheLosAngelesandLongBeachareas.","None","256,932","Text","Classification,regression","1999","","IPUMS"
-"USCensusData1990","Partialdatafrom1990UScensus.","Resultsrandomizedandusefulattributesselected.","2,458,285","Text","Classification,regression","1990","","UnitedStatesCensusBureau"

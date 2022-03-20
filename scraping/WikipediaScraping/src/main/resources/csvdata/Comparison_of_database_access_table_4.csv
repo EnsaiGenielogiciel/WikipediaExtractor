@@ -1,4 +1,0 @@
-"ProgLanguage","Accessserver","Usedatabase","Listdatabases","Listtables"
-"rawMySQLaccess","","usedb;","showdatabases;","showtables;"
-"PHP","$link=mysql_connect(host,user,password);or$db=newmysqli(host,user,password);or$db=newPDO('mysql:host=hostname;dbname=dbname','username','password');","mysql_select_db(''name'',$link);or$db=newmysqli(host,user,password,''name'');or$db->select_db(''name'');","",""
-"Python","db=MySQLdb.connect(host=""hostname"",user=""username"",passwd=""password"",db=""dbname"",connect_timeout=5)","importMySQLdb","c=db.cursor()c.execute(""showdatabases"")c.fetchall()","c=db.cursor()c.execute(""showtables"")c.fetchall()"

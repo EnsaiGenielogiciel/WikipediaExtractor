@@ -1,8 +1,0 @@
-"Model","Launch","Codename","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","APIsupport","Memory","Memory","Fillrate","Fillrate","Fillrate","Memory","APIsupport"
-"Model","Launch","Codename","Businterface","Coreclock(MHz)","Memoryclock(MHz)","Coreconfig","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Size(MB)","Bandwidth(GB/s)","Bustype","Buswidth(bit)","Direct3D","OpenGL"
-"GeForce4Go410","February6,2002","NV17M","AGP8x","200","200","2:0:4:2","400","400","800","0","16","1.6","SDR","64","8.0a","1.3"
-"GeForce4Go420","February6,2002","NV17M","AGP8x","200","400","2:0:4:2","400","400","800","0","32","3.2","DDR","64","8.0a","1.3"
-"GeForce4Go440","February6,2002","NV17M","AGP8x","DDR","220","440","2:0:4:2","440","440","880","0","64","7.04","128","8.0a","1.3"
-"GeForce4Go460","October14,2002","NV17M","AGP8x","DDR","250","64","500","128","2:0:4:2","500","500","1000","0","8","8.0a","1.3"
-"GeForce4Go488","","NV18M","AGP8x","DDR","300","64","550","128","2:0:4:2","600","600","1200","0","8.8","8.0a","1.3"
-"GeForce4Go4200","November14,2002","NV28M","AGP8x","DDR","200","64","400","128","4:2:8:4","800","800","1600","100","6.4","8.0a","1.3"

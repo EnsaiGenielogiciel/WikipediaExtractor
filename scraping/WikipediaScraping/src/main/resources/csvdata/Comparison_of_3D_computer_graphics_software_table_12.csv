@@ -1,8 +1,0 @@
-"Application","Polygon","Spline/BézierSurface","Spline/BézierSurface","Polygon","Polygon","Polygon","Spline/BézierSurface","Voxel/Volume","Metaball","PointClouds","Particles"
-"Application","tris","quads","Voxel/Volume","Metaball","PointClouds","Particles","N-gon","donut","NURBSregularpatch","NURBStrimmedsurface","BicubicBézierpatch"
-"Blender","Yes","Yes","Yes","No","Yes","soc-2014-nurbsbranch","No","2.83andlater","Yes","3.1andlater","Yes"
-"Maya","Yes","Yes","Yes","Yes","Yes","Yes","No","3DTexture","Yes","No","Yes"
-"3dsMax","Yes","Yes","Yes","?","Yes","Yes","PatchObjects","No","Yes","Yes","Yes"
-"Cinema4D","Yes","Yes","Yes","?","?","?","?","R20andlater","Yes","?","Yes"
-"LightWave","Yes","Yes","Yes","Yes","(LWCADplugin)","(LWCADplugin)","No","OpenVDBprimitives","Yes","No","Yes"
-"Shade3D","Yes","Yes","Yes","?","CADmode","CADmode","Yes","No","Yes","No","Yes"

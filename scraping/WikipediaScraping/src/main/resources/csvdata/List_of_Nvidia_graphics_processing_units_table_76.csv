@@ -1,3 +1,0 @@
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Boostclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","Memory","Memory","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","NvidiaOptimustechnology","TDP(Watts)"
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Boostclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","Bandwidth(GB/s)","NvidiaOptimustechnology","TDP(Watts)","Bustype","Buswidth(bit)","Singleprecision","Doubleprecision","Direct3D","OpenGL"
-"QuadroK2200M","GM107","28","PCIe3.0x16","1150","1150","1253(5012)","640:40:16(5SMM)","18.4","46","2048","80.2","GDDR5","128","1472","46","12.1","4.5","Yes","65"

@@ -1,3 +1,0 @@
-"Model","CodeName","ReleaseDate","CPUSocket","ProcessorsSupported","Fab(nm)","HyperTransport(MT/s)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Graphic"
-"nForce630a","MCP68","September,2007","SocketAM2","Athlon64Athlon64X2Athlon64FXOpteronSempronPhenomPhenomII","","1.02000","1.120lanes","No","5Ports","12PortsRev2.0","1PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","HDA","GeForce7025/7050"
-"nForce680aSLI","2*MCP55","December6,2006","SocketF","AMDDualDual-core","","2×1.02×2000","1.0a56lanes","x16+x16+x8+x8","5Ports","20PortsRev2.0","2PortsUDMA133","12Ports3.0Gbit/s","4×1000Mbit/s","HDA","none"

@@ -1,5 +1,0 @@
-"Software","Scheduleestimate","Costestimate","CostModels","Input","ReportOutputFormat","SupportedProgrammingLanguages","Platforms","Cost","License"
-"AFCAAREVIC","Yes","Yes","REVIC","KLOC,ScaleFactors,CostDrivers","proprietary,Text","Any","DOS","Free","Proprietary/Freeforpublicdistribution"
-"SeerforSoftware","Yes","Yes","SEER-SEM","SLOC,Functionpoints,usecases,bottoms-up,object,features","proprietary,Excel,MicrosoftProject,IBMRational,OracleCrystalBall","Any","Windows,Any(Web-based)","Commercial","Proprietary"
-"SLIM","Yes","Yes","SLIM","Size(SLOC,Functionpoints,UseCases,etc.),constraints(size,duration,effort,staff),scalefactors,historicalprojects,historicaltrends","proprietary,Excel,MicrosoftProject,MicrosoftPowerPoint,IBMRational,text,HTML","Any","Windows,Any(Web-based)","Commercial","Proprietary"
-"TruePlanning","Yes","Yes","PRICE","Components,Structures,Activities,Costdrivers,Processes,FunctionalSoftwareSize(SourceLinesofCode(SLOC),FunctionPoints,UseCaseConversionPoints(UCCP),PredictiveObjectPoints(POPs)etc.)","Excel,CAD","Any","Windows","Commercial","Proprietary"

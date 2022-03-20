@@ -1,5 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"TVHumanInteractionDataset","Videosfrom20differentTVshowsforpredictionsocialactions:handshake,highfive,hug,kissandnone.","None.","6,766videoclips","videoclips","Actionprediction","2013","","Patron-Perez,A.etal."
-"BerkeleyMultimodalHumanActionDatabase(MHAD)","Recordingsofasinglepersonperforming12actions","MoCappre-processing","660actionsamples","8PhaseSpaceMotionCapture,2StereoCameras,4QuadCameras,6accelerometers,4microphones","Actionclassification","2013","","Ofli,F.etal."
-"THUMOSDataset","Largevideodatasetforactionclassification.","Actionsclassifiedandlabeled.","45Mframesofvideo","Video,images,text","Classification,actiondetection","2013","","Y.Jiangetal."
-"MEXAction2","Videodatasetforactionlocalizationandspotting","Actionsclassifiedandlabeled.","1000","Video","Actiondetection","2014","","Stoianetal."

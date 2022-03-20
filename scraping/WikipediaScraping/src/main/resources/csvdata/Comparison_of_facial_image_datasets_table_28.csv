@@ -1,4 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"EcoliDataset","Proteinlocalizationsites.","Variousfeaturesoftheproteinlocalizationssitesaregiven.","336","Text","Classification","1996","","K.Nakaietal."
-"MicroMassDataset","Identificationofmicroorganismsfrommass-spectrometrydata.","Variousmassspectrometerfeatures.","931","Text","Classification","2013","","P.Maheetal."
-"YeastDataset","PredictionsofCellularlocalizationsitesofproteins.","Eightfeaturesgivenperinstance.","1484","Text","Classification","1996","","K.Nakaietal."

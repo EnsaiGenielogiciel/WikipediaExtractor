@@ -1,6 +1,0 @@
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","SupportedAPIversion","Memory","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","NvidiaOptimustechnology","TDP(Watts)"
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","Bandwidth(GB/s)","NvidiaOptimustechnology","TDP(Watts)","Bustype","Buswidth(bit)","Singleprecision","Direct3D","OpenGL"
-"QuadroM520","GM108","28","PCIe3.0x16","","","","","384:24:8(3SMM)","","1024","40","GDDR5","64","840","12.1","4.5","Yes","25"
-"QuadroM620","GM107","28","PCIe3.0x16","","512:32:16(4SMM)","","2048","80","GDDR5","128","1000","12.1","4.5","Yes","30"
-"QuadroM1200","GM107","640:40:16(5SMM)","28","80","128","PCIe3.0x16","","4096","","1400","45","GDDR5","12.1","4.5","Yes"
-"QuadroM2200","GM206","4096","28","PCIe3.0x16","","128","1024:64:32(8SMM)","","88.1","2100","GDDR5","55","12.1","4.5","Yes"

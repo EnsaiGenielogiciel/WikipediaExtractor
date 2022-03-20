@@ -1,6 +1,0 @@
-"KernelName","Fileaccesscontrol","Disablememoryexecutionsupport","KernelASLR","Mandatoryaccesscontrol","Capability-basedsecurity","In-kernelkeymanagement","AuditAPI","Sandbox","SYNfloodprotection","UDPfloodprotection","Pingfloodprotection","Smurfattackprotection","NetworkBehaviorAnalysis"
-"Linux","TraditionalUnixpermissions,POSIXACL","Yes","Yes","LSM(SELinux,SMACK,TOMOYOLinux,AppArmor)","seccomp","keyctl","fanotify","SELinuxSandbox,seccomp","SYNcookies","No?","No?","No?","No"
-"FreeBSDKernel","TraditionalUnixpermissions,POSIXandNFSv4ACL","Yes","?","TrustedBSDMAC","Capsicum","?","OpenBSM","Capsicum,MACframework","SYNcookies","?","?","?","?"
-"SolarisKernel","TraditionalUnixpermissions,POSIXACL,NFSv4ACL","Default","?","SolarisTrustedExtensions","?","?","?","?","?","?","?","?","?"
-"WindowsNTkernel","Accesscontrollist","DEP","Yes","MandatoryIntegrityControl","AppContainers","?","Yes","WindowsEventLog","Yes","?","?","?","?"
-"XNU","TraditionalUnixpermissions,NT/NFSv4ACL","Yes","Yes","TrustedBSDMAC","?","?","OpenBSM","AppleXNUSandbox","?","?","?","?","?"

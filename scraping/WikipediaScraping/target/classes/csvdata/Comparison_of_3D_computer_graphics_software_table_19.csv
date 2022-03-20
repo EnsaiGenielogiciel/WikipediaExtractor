@@ -1,6 +1,0 @@
-"Application","LoDGeneration","TextureBaking","TextureBaking","TextureBaking","TextureBaking"
-"Application","Automatic","NormalMap","LightMap","AmbientOcclusion(AO)Map","LightMap"
-"Automatic","Application","AmbientOcclusion(AO)Map","TangentSpaceNormalMap","Non-directional(Traditional)","Directional"
-"Maya(Turtlerenderer)","""GenerateLODMeshes""","Yes","Yes","Yes","RNM(RadiosityNormalMap),andSH(Sphericalharmonics)coefficients"
-"Enlighten","No","No","?","Yes","Yes"
-"Blender","AssetGenaddon","Yes","Yes","Yes","No"

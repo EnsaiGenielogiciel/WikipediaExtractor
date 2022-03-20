@@ -1,8 +1,0 @@
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Fillrate","Memory","Memory","SupportedAPIversion","Memory","Fillrate","Memory","Processingpower(GFLOPS)","SupportedAPIversion","TDP(Watts)"
-"Model","Codename","Fab(nm)","Businterface","Coreclock(MHz)","Shaderclock(MHz)","Memoryclock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Size(MB)","Bandwidth(GB/s)","TDP(Watts)","Bustype","Buswidth(bit)","Singleprecision","Direct3D","OpenGL"
-"QuadroFX370M","G98M","65","PCIe1.0x16","550","1400","1200","8:4:4","2.2","2.2","256","9.6","GDDR3","64","33.6","10.0","3.3","20"
-"QuadroFX570M","G84M","80","PCIe1.0x16","475","950","1400","32:16:8","3.8","7.6","512","22.4","GDDR3","128","91.2","10.0","3.3","45"
-"QuadroFX770M","G96M","65","PCIe1.0x16","500","1250","32:16:8","1600","4","512","8","128","25.6","119.0","35","GDDR3","10.0","3.3"
-"QuadroFX1700M","G96M","65","625","1550","1600","PCIe1.0x16","5","25.6","10","32:16:8","148.8","50","512","GDDR3","128","10.0","3.3"
-"QuadroFX2700M","G94M","65","530","PCIe1.0x16","1600","1325","48:24:16","8.48","12.72","51.2","512","256","190.8","65","GDDR3","10.0","3.3"
-"QuadroFX3700M","G92M","530","65","1375","PCIe1.0x16","1600","51.2","256","128:64:16","8.8","35.2","1024","528","75","GDDR3","10.0","3.3"

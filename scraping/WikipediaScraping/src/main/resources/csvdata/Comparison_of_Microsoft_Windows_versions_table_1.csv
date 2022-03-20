@@ -1,6 +1,0 @@
-"Name","Releasedate","Latestversion","Statussupport","Codename","OSrequired","Architecture","Editions","Targetmarket"
-"Windows1.0","1985-11-20","1.04(1987-04-08)","Unsupported(2001-12-31)","InterfaceManager","DOS2.0orhigher","16-bit","","Desktops"
-"Windows2.0","1987-09-08","2.03(1987-12-09)","Unsupported(2001-12-31)","","DOS3.0orhigher","16-bit","","Desktops"
-"Windows2.1x","1988-05-27","2.11(1989-03-13)","Unsupported(2001-12-31)","","DOS3.0orhigher","16-bit","","Desktops"
-"Windows3.0","1990-05-22","3.0awithMultimediaExtensions(1991-10-20)","Unsupported(2001-12-31)","","DOS3.1orhigher","16-bit","Windows3.0Windows3.0aWindows3.0awithMultimediaExtensions","Desktops"
-"Windows3.1x","1992-04-06","3.11(1993-12-31)","Unsupported(2001-12-31)","Janus3.1forWorkgroups:Kato3.11:Snowball(LB)3.11forWorkgroups:Sparta","DOS3.3orhigher","16-bit*","Windows3.1WindowsforWorkgroups3.1Windows3.11WindowsforWorkgroups3.11Windows3.2(SimplifiedChineseonly)","Desktops"

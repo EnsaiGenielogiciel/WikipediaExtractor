@@ -1,7 +1,0 @@
-"DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"WittyWormDataset","DatasetdetailingthespreadoftheWittywormandtheinfectedcomputers.","SplitintoapubliclyavailablesetandarestrictedsetcontainingmoresensitiveinformationlikeIPandUDPheaders.","55,909IPaddresses","Text","Classification","2004","","CenterforAppliedInternetDataAnalysis"
-"Cuff-LessBloodPressureEstimationDataset","Cleanedvitalsignalsfromhumanpatientswhichcanbeusedtoestimatebloodpressure.","125Hzvitalsignshavebeencleaned.","12,000","Text","Classification,regression","2015","","M.Kachueeetal."
-"GasSensorArrayDriftDataset","Measurementsfrom16chemicalsensorsutilizedinsimulationsfordriftcompensation.","Extensivenumberoffeaturesgiven.","13,910","Text","Classification","2012","","A.Vergara"
-"ServoDataset","Datacoveringthenonlinearrelationshipsobservedinaservo-amplifiercircuit.","Levelsofvariouscomponentsasafunctionofothercomponentsaregiven.","167","Text","Regression","1993","","K.Ullrich"
-"UJIIndoorLoc-MagDataset","Indoorlocalizationdatabasetotestindoorpositioningsystems.Dataismagneticfieldbased.","Trainandtestsplitsgiven.","40,000","Text","Classification,regression,clustering","2015","","D.Ramblaetal."
-"SensorlessDriveDiagnosisDataset","Electricalsignalsfrommotorswithdefectivecomponents.","Statisticalfeaturesextracted.","58,508","Text","Classification","2015","","M.Bator"

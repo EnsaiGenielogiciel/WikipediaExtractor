@@ -1,6 +1,0 @@
-"Feature","Android","iOS","Tizen","SailfishOS","UbuntuTouch"
-"Customringtones","Yes","Yes","Yes","Yes","Yes"
-"CustomSMS/MMStones","Yes","5+","?","Yes","No"
-"Customvibratealertpatterns","No,possibleonsomeSamsungdevicessuchasGalaxySIII,butlimited","5+","?","APIavailablefor3rdpartyapps","No"
-"Dismissrepeatingalarmclockbeforetrigger","4.4+","No","No","?","Yes"
-"Taptosnooze","3rdpartyapps","Yes","No","Swipedown","Yes"

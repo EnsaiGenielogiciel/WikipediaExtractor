@@ -1,4 +1,0 @@
-"Name","Language","WMS","WFS","GeoRSS","Other"
-"OpenLayers","JavaScript","Yes","Yes","Yes","supportfornavigation,icons,markers,andlayerselection."
-"Leaflet","JavaScript","Yes","Yes","No","supportfornavigation,icons,markers,layers,GeoJSON"
-"MapDotNet","JavaScript/HTML5","Yes","Yes","Yes","digitizing,wktrendering,draggableiconsandcontent,geospatialqueries(intersection,overlapping)"

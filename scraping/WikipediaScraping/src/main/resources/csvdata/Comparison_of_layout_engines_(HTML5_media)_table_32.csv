@@ -1,7 +1,0 @@
-"","MSHTML","edgeHTML","Gecko","WebKit","Presto"
-"OggVorbis","Manualinstall","","1.9.1","Depends","2.5"
-"WAVPCM","Manualinstall","","1.9.1","525","2.0"
-"MP3","5.0","525","","No","Depends"
-"AAC","5.0","","525","Depends","No"
-"Speex","Manualinstall","","No","Depends","No"
-"Opus","No","Yes","15.0","Depends","No"

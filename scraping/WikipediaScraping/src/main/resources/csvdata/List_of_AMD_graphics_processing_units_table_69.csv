@@ -1,4 +1,0 @@
-"Model(Codename)","Launch","Architecture(Fab)","TransistorsDieSize","Core","Fillrate","Processingpower(TFLOPS)","Memory","Memory","Memory","Processingpower(TFLOPS)","Core","Fillrate","Processingpower(TFLOPS)","Memory","TBP(W)","Businterface","GraphicoutputPort","ReleasePrice(USD)"
-"Model(Codename)","Launch","Architecture(Fab)","TransistorsDieSize","Config","Clock(MHz)","Texture(GT/s)","Pixel(GP/s)","TBP(W)","Businterface","GraphicoutputPort","ReleasePrice(USD)","Half","Single","Double","Bustype&width(bit)","Size(GiB)","Clock(MT/s)","Band-width(GB/s)"
-"RadeonProWX3200(Polaris)","July2019","GCN4gen(14nm)","","640:40:?(10)","","","","SP","1.66","0.104","GDDR5128","4","6000","96","50","PCIe3.0×8","4xmini-DP1.4","$200"
-"RadeonProWX8200(Vega)","August2018","GCN5gen(14nm)","12500×10484mm","3584:224:64(56)","12001530","342.7","97.92","2xSP","10.967","1/16SP","HBM22048","8","2000","512","<230","PCIe3.0×16","4xmini-DP1.4","$999"

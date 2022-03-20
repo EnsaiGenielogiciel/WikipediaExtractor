@@ -1,6 +1,0 @@
-"Model","Released","Codename","Fab(nm)","CoreClock(MHz)","Coreconfig","Fillrate","SharedMemory","SharedMemory","Fillrate","SharedMemory","Processingpower(GFLOPS)","Max.CombinedTDP(Watts)","Fusion_APU"
-"Model","Released","Codename","Fab(nm)","CoreClock(MHz)","Coreconfig","Pixel(GP/s)","Texture(GT/s)","Processingpower(GFLOPS)","Max.CombinedTDP(Watts)","Fusion_APU","Bandwidth(GB/s)","Bustype","Buswidth(bit)"
-"RadeonHD6380G","June14,2011","WinterPark","32","400","160:8:4:2","1.6","3.2","17.06","DDR3-1333","128","128","35","E2-3000M"
-"RadeonHD6480G","June14,2011","BeaverCreek","32","444","240:12:4:3","1.77","3.55","17.06","DDR3-1333","128","213.1","35-45","A4-3300MA4-3310MX"
-"RadeonHD6520G","BeaverCreek","June14,2011","400","32","320:16:8:4","3.2","35-45","6.4","256","17.06","DDR3-1333","128","A6-3400MA6-3410MXA6-3420M"
-"RadeonHD6620G","BeaverCreek","June14,2011","444","32","400:20:8:5","3.55","35-45","8.88","25.6","DDR3-1600","355.2","128","A8-3500MA8-3510MXA8-3530MX"

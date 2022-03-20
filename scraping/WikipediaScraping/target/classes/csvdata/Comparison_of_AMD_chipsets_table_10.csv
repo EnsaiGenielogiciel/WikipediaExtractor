@@ -1,3 +1,0 @@
-"Model","CPUPCIeLink","PCIesupport","Multi-GPUsupport","Multi-GPUsupport","SATA","USB3.1Gen2+2.0","RAID","Overclocking","TDP","Chipsetlithography","Notes"
-"Model","CPUPCIeLink","PCIesupport","CrossFire","SATA","USB3.1Gen2+2.0","RAID","Overclocking","TDP","Chipsetlithography","Notes","SLI"
-"WRX80","×8","PCIe4.0×16","Yes","Yes","4","8+4","0,1,10","Yes","15W","14nm","HW-wiseidenticaltoEPYC/ThreadripperIOdie"

@@ -1,7 +1,0 @@
-"Model","CodeName","ReleaseDate","ProcessorsSupported","Fabricationprocess(nm)","FSB/HTFrequency(MHz)","AGP","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
-"nForce3Go120","","2003","Turion64","","HT400MHz","AGP4X","No","No","6Ports","6PortsRev2.0","2PortsUDMA133","No","100Mbit/s","AC'972.1","",""
-"nForce3Go150","","2003","Turion64","","HT600MHz","AGP8X","No","No","6Ports","6PortsRev2.0","3PortsUDMA133","No","1000Mbit/s","AC'972.1","",""
-"nForce430Go","","2005","Turion64,Sempron64","","HT800MHz","No","1.0a18lanes","No","6Ports","8PortsRev2.0","2PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","HDA","RAID0,1,0+1,5",""
-"nForce610m","","2007","Turion64,Sempron64","","HT1GHz","No","1.14lanes","No","5Ports","10PortsRev2.0","1PortsUDMA133","4Ports3.0Gbit/s","100Mbit/s","HDA","OnboardGeForce7000M",""
-"nForce630m","","2007","Turion64,Sempron64","","HT1GHz","No","1.120lanes","No","5Ports","10PortsRev2.0","1PortsUDMA133","4Ports3.0Gbit/s","1000Mbit/s","HDA","OnboardGeForce7150M",""
-"nForce8200M","MCP77MV","2008","Turion64,Sempron64","","HT3.02.6GHz","No","2.04lanes","No","5Ports","10PortsRev2.0","No","4Ports3.0Gbit/s","1000Mbit/s","HDA","OnboardGeForce8200M",""

@@ -1,5 +1,0 @@
-"Kernelname","Intel","NVIDIA","AMD","ARM","Qualcomm","ImaginationTechnologies","Broadcom","VeriSilicon"
-"Kernelname","IntelHD/IrisGraphics","GeForce/Quadro/Tesla","Radeon","Mali","Adreno","PowerVR","VideoCore4","Vivante"
-"Linuxkernel","Yes","Yes","Yes","Yes","Yes","2Donly","Yes","Yes"
-"WindowsNTkernel","Yes","Yes","Yes","?","WindowsPhone8.x,Windows10Mobile,WindowsonARM","Yes","No","Yes"
-"XNU","viaI/OKit(macOSonly)","viaI/OKit(macOSonly)","viaI/OKit(macOSonly)","No","No","viaI/OKit(iOSonly)","No","No"

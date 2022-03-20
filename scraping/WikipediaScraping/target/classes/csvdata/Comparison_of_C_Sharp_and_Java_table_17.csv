@@ -1,8 +1,0 @@
-"Metadata","Java","C#"
-"Metadataannotations/attributes","Interfacebased;user-definedannotationscanbecreated","Classbased"
-"Positionalarguments","No;unlessasingleargument","Yes"
-"Namedarguments","Yes","Yes"
-"Defaultvalues","Atdefinition","Throughinitialization"
-"Nestedtypes","Yes","Yes"
-"Specialization","No","Yes"
-"Conditionalmetadata","No","Yes"

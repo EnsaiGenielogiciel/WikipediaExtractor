@@ -1,3 +1,0 @@
-"Definition","join(separator,list_of_strings)returnsalistofstringsjoinedwithaseparator"
-"Description","Joinsthelistofstringsintoanewstring,withtheseparatorstringbetweeneachofthesubstrings.Oppositeofsplit."
-"Related","sprintf"

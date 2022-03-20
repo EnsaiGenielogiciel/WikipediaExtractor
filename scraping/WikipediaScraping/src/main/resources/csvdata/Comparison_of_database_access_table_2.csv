@@ -1,2 +1,0 @@
-"Database","showalldatainallfields","showalldatainsomefields","showfiltereddatainallfields"
-"MySQL","select*from""tbname"";","select""fields""from""tbname"";","select*from""tbname""where""filter_expr"";"
