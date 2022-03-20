@@ -1,3 +1,3 @@
 "Definition","find(string,substring)returnsinteger"
-"Description","Returnsthepositionofthestartofthefirstoccurrenceofsubstringinstring.Ifthesubstringisnotfoundmostoftheseroutinesreturnaninvalidindexvalueâ€“-1whereindexesare0-based,0wheretheyare1-basedâ€“orsomevaluetobeinterpretedasBooleanFALSE."
+"Description","Returnsthepositionofthestartofthefirstoccurrenceofsubstringinstring.Ifthesubstringisnotfoundmostoftheseroutinesreturnaninvalidindexvalue–-1whereindexesare0-based,0wheretheyare1-based–orsomevaluetobeinterpretedasBooleanFALSE."
 "Related","instrrev"

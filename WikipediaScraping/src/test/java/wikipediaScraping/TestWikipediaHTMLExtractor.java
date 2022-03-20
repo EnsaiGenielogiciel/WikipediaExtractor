@@ -14,24 +14,19 @@ import java.util.List;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 import org.junit.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
-//import wikipediaScraping.WikipediaHTMLExtractor;
+import wikipediaScraping.WikipediaHTMLExtractor;
+import wikipediaScraping.ExtractorA;
 
 
 
-@SpringBootTest
+
+
 public class TestWikipediaHTMLExtractor {
-
-	@Test
-	public void testIsNumeric() {
-		
-		WikipediaHTMLExtractor testa = new WikipediaHTMLExtractor("lf","ldf");
-		ExtractorA a = new ExtractorA(testa);
-		
-		assertEquals(true, a.isNumeric("4"));
-	}
+    
 	
+
+		
 	@Test
 	public void testHtmlParser_null() throws IOException {
 		
@@ -48,8 +43,8 @@ public class TestWikipediaHTMLExtractor {
 		assertNotNull(wikiExtractor.getTables());
 	}
 	
-	
 	@Test
+
 	public void testScraper_number_table() throws IOException{
 		//Test number of table in wikipedia page
 		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/","Comparison_of_programming_languages_(syntax)");
@@ -82,7 +77,6 @@ public class TestWikipediaHTMLExtractor {
 		assertTrue(row==18 && column==2);
 	}	
 	
-	
 	@Test
 	public void testColumnNameOfTable() throws IOException{
 		
@@ -104,83 +98,10 @@ public class TestWikipediaHTMLExtractor {
 		assertTrue(column_name.get(0).equals("Symbol") && column_name.get(1).equals("Languages"));
 	}
 	
-	@Test
-	public void testScraper_build_table_one() throws IOException{
-		
-		Path resourceDirectory = Paths.get("src","test","resources");
-		String absolutePath = resourceDirectory.toFile().getAbsolutePath();
-		String filepath = absolutePath + "\\wiki_urls.txt";
-
-		BufferedReader bufReader = new BufferedReader(new FileReader(filepath));
-		ArrayList<String> listOfUrls = new ArrayList<>(); 
-		String line = bufReader.readLine();
-		while (line != null) { 
-			listOfUrls.add(line); 
-			line = bufReader.readLine(); 
-		} 
-		bufReader.close();
-
-		for(String wiki_url : listOfUrls) {
-	
-			WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/", wiki_url);
-			scrap.htmlParser();
-			ExtractorA a = new ExtractorA(scrap);
-			int total_table = a.scraper(true);
-			
-		}
-		
-	}
-	
-	@Test
-	public void testScraper_build_table_two() throws IOException{
-		
-		List<String> lien = new ArrayList<String>();
-		lien.add("Comparison_of_DOS_operating_systems");
-		lien.add("Comparison_of_programming_languages_(syntax)");
-		lien.add("Comparison_of_domestic_robots");
-		lien.add("Comparison_of_HP_graphing_calculators");  
-		lien.add("Comparison_of_World_War_I_tank"); 
-		lien.add("Comparison_of_HTML_editors");
-		lien.add("Comparison_of_layout_engines_(Document_Object_Model)");
-		lien.add("Comparison_of_mail_servers");
-		lien.add("Comparison_of_Internet_Relay_Chat_clients");
-		lien.add("Comparison_of_Sony_Vaio_laptops");
-		lien.add("Comparison_of_alcopops");
-		lien.add("Comparison_of_geographic_information_systems_software");
-		lien.add("Comparison_of_instant_messaging_clients");
-		lien.add("Comparison_of_raster_graphics_editors");
-		lien.add("Comparison_of_Microsoft_Windows_versions");
-		lien.add("Comparison_of_audio_player_software");
-		lien.add("Comparison_of_portable_media_players");
-		lien.add("Comparison_of_layout_engines_(HTML)");
-		lien.add("Comparison_of_open-source_operating_systems");
-		lien.add("Comparison_of_programming_languages_(basic_instructions)");
-		lien.add("List_of_AMD_graphics_processing_units");
-		lien.add("Comparison_of_Android_devices");
-		lien.add("List_of_Intel_graphics_processing_units");
-		lien.add("Comparison_of_Internet_Relay_Chat_services");
-		lien.add("Comparison_of_Nvidia_chipsets");
-		lien.add("Comparison_of_BitTorrent_clients");
-		lien.add("List_of_Nvidia_graphics_processing_units");
-		lien.add("Comparison_of_TLS_implementations");
-		lien.add("Comparison_of_antivirus_software");
-		lien.add("Comparison_of_email_clients");
-		lien.add("Comparison_of_integrated_development_environments");
-		lien.add("Comparison_of_layout_engines_(XHTML_1.1)");
-		lien.add("Comparison_of_operating_system_kernels");
-		lien.add("Comparison_of_Fukushima_and_Chernobyl_nuclear_accidents");
-		
-		
-		for(int i=0 ; i<lien.size(); i++) {
-			WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/",lien.get(i));
-			scrap.htmlParser();
-			ExtractorA a = new ExtractorA(scrap);
-			int total_table = a.scraper(true);
-		}
 		
 	}
 
-}
+
 
 
 //https://mkyong.com/maven/how-to-run-unit-test-with-maven/

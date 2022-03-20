@@ -1,2 +1,2 @@
 "Definition","right(string,n)returnsstring"
-"Description","Returnstherightnpartofastring.Ifnisgreaterthanthelengthofthestringthenmostimplementationsreturnthewholestring(exceptionsexistâ€“seecodeexamples)."
+"Description","Returnstherightnpartofastring.Ifnisgreaterthanthelengthofthestringthenmostimplementationsreturnthewholestring(exceptionsexist–seecodeexamples)."

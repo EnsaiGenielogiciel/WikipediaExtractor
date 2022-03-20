@@ -24,4 +24,4 @@
 "string.find(substring)!=string::npos","C++"
 "[stringcontainsString:substring]","Objective-C(NSString*only,iOS8+/OSX10.10+)"
 "string.rangeOfString(substring)!=nil","Swift(Foundation)"
-"∨/substring⍷string","APL"
+"?/substring?string","APL"

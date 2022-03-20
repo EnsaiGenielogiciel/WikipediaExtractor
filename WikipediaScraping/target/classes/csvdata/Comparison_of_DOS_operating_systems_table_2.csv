@@ -1,7 +1,7 @@
 "Name","Harddrive:partitionsizemax","Nativesupport:Filesystems","Nativesupport:floppycapacities3.5""","Nativesupport:floppycapacities5.25""","Nativesupport:floppycapacities8.0""","Integrateddiskcompressionutility","Nativesupport:longfilenames"
 "86-DOS0.42-1.00","n/a","FAT12;(CP/M2throughRDCPM)","n/a","NorthStar87.5KB;Cromemco90KB","Cromemco/Tarbell250.25KB;Tarbell616KB;Tarbell1232KB","No","No"
 "MS-DOS1.25","n/a","FAT12","n/a","160KB;320KB","250.25KB","No","No"
-"MS-DOS2.0-2.11","16MB(32MBwiththird-partyFORMAT)","FAT12","n/a","160KB;180KB;320KB;360KB","250.25KB;500.5KB;616KB;1232KB</ref>","No","No"
+"MS-DOS2.0-2.11","16MB(32MBwiththird-partyFORMAT)","FAT12","n/a","160KB;180KB;320KB;360KB","250.25KB;500.5KB;616KB;1232KB","No","No"
 "MS-DOS3.0","32MB","FAT12,FAT16","n/a","160KB;180KB;320KB;360KB;1.2MB","n/a","No","No"
 "MS-DOS3.1","32MB","FAT12,FAT16","n/a","160KB;180KB;320KB;360KB;1.2MB","n/a","No","No"
 "MS-DOS3.2","32MB","FAT12,FAT16","720KB","160KB;180KB;320KB;360KB;1.2MB","n/a","No","No"

@@ -35,7 +35,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/ASUS/.m2/repository/org/springframework/data/spring-data-jpa/2.6.2/spring-data-jpa-2.6.2.jar" sourcepath="C:/Users/ASUS/.m2/repository/org/springframework/data/spring-data-jpa/2.6.2/spring-data-jpa-2.6.2-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/ASUS/.m2/repository/org/springframework/data/spring-data-jpa/2.6.2/spring-data-jpa-2.6.2.jar" sourcepath="C:/Users/ASUS/.m2/repository/org/springframework/data/spring-data-jpa/2.6.2/spring-data-jpa-2.6.2-sources.jar">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.springframework.data"/>
@@ -83,5 +83,6 @@
 			<attribute name="maven.scope" value="test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/maven-surefire-plugin-2.19.1-javadoc.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

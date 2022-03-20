@@ -1,6 +1,6 @@
 "Format","Languages"
 "name[first:last]","ALGOL68,Julia"
-"name[first+(⍳len)-⎕IO]","APL"
+"name[first+(?len)-?IO]","APL"
 "name[first:end:step]","Python"
 "name[first:end]","Go"
 "name[first..last]","Pascal,ObjectPascal,Delphi,Nim"

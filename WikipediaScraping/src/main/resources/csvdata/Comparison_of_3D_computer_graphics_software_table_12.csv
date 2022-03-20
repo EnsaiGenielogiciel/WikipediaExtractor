@@ -1,5 +1,5 @@
-"Application","Polygon","Spline/BÃ©zierSurface","Spline/BÃ©zierSurface","Polygon","Polygon","Polygon","Spline/BÃ©zierSurface","Voxel/Volume","Metaball","PointClouds","Particles"
-"Application","tris","quads","Voxel/Volume","Metaball","PointClouds","Particles","N-gon","donut","NURBSregularpatch","NURBStrimmedsurface","BicubicBÃ©zierpatch"
+"Application","Polygon","Polygon","Polygon","Polygon","Spline/BézierSurface","Spline/BézierSurface","Spline/BézierSurface","Voxel/Volume","Metaball","PointClouds","Particles"
+"Application","tris","quads","Voxel/Volume","Metaball","PointClouds","Particles","N-gon","donut","NURBSregularpatch","NURBStrimmedsurface","BicubicBézierpatch"
 "Blender","Yes","Yes","Yes","No","Yes","soc-2014-nurbsbranch","No","2.83andlater","Yes","3.1andlater","Yes"
 "Maya","Yes","Yes","Yes","Yes","Yes","Yes","No","3DTexture","Yes","No","Yes"
 "3dsMax","Yes","Yes","Yes","?","Yes","Yes","PatchObjects","No","Yes","Yes","Yes"

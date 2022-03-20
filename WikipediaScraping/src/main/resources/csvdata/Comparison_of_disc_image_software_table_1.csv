@@ -19,7 +19,7 @@
 "CDRWIN","Yes","Yes","No","Yes","Yes","ISO,BIN+CUE,AudioFileTypes+CUE,ISO+CUE,AudioFileTypes+ISO+CUE,ISO+AudioFileTypes+CUE","BIN+CUE","Windows","Shareware"
 "CloneCD","Yes","No","No","Yes","No","N/A","ISO,UFD,IMG","Windows","Shareware"
 "CloneDVD","Yes","No","No","Yes","Yes","ISO","ISO","Windows","Shareware"
-"DaemonTools","Yes","AlleditionsexceptLite","Yes","Yes","AlleditionsexceptLite","BIN+CUE,B5T,B6T,BWT,CCD,CDI,ISO,ISZ,MDF+MDS,MDX,NRG,VHD,VMDKandTrueCrypt","ISO,MDF+MDS,MDXâ€“VHDandTrueCryptinUltraedition","Windows","Freemium"
+"DaemonTools","Yes","AlleditionsexceptLite","Yes","Yes","AlleditionsexceptLite","BIN+CUE,B5T,B6T,BWT,CCD,CDI,ISO,ISZ,MDF+MDS,MDX,NRG,VHD,VMDKandTrueCrypt","ISO,MDF+MDS,MDX–VHDandTrueCryptinUltraedition","Windows","Freemium"
 "DeepBurner","Yes","No","No","Yes","No","ISO","ISO","Windows","Freemium"
 "Disco","Yes","No","No","Yes","No","CDR,ISO,DMG","CDR,ISO,DMG","macOS","Freeware"
 "DiscJuggler","?","?","?","?","?","CDI,ISO","CDI","Windows","Shareware"

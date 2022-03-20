@@ -1,5 +1,5 @@
 "DatasetName","Briefdescription","Preprocessing","Instances","Format","DefaultTask","Created(updated)","Reference","Creator"
-"VolcanoesonVenusâ€“JARtoolexperimentDataset","VenusimagesreturnedbytheMagellanspacecraft.","Imagesarelabeledbyhumans.","notgiven","Images","Classification","1991","","M.Burl"
+"VolcanoesonVenus–JARtoolexperimentDataset","VenusimagesreturnedbytheMagellanspacecraft.","Imagesarelabeledbyhumans.","notgiven","Images","Classification","1991","","M.Burl"
 "MAGICGammaTelescopeDataset","MonteCarlogeneratedhigh-energygammaparticleevents.","Numerousfeaturesextractedfromthesimulations.","19,020","Text","Classification","2007","","R.Bock"
 "SolarFlareDataset","Measurementsofthenumberofcertaintypesofsolarflareeventsoccurringina24-hourperiod.","Manysolarflare-specificfeaturesaregiven.","1389","Text","Regression,classification","1989","","G.Bradshaw"
 "CAMELSMultifieldDataset","2Dmapsand3DgridsfromthousandsofN-bodyandstate-of-the-arthydrodynamicsimulationsspanningabroadrangeinthevalueofthecosmologicalandastrophysicalparameters","Eachmapandgridhas6cosmologicalandastrophysicalparametersassociatedtoit","405,0002Dmapsand405,0003Dgrids","2Dmapsand3Dgrids","Regression","2021","","FranciscoVillaescusa-Navarroetal."

@@ -18,7 +18,6 @@
 "BLISS","System","No","No","No","Yes","No","No","No","","No"
 "BlitzMax","Application,game","Yes","Yes","No","Yes","No","Yes","No","","No"
 "Boo","Application,gamescripting","No","Yes","No","No","No","No","No","","No"
-"Bro","Domain-specific,application","Yes","No","No","No","No","No","Yes","","No"
 "C","Application,system,generalpurpose,low-leveloperations","Yes","No","No","Yes","No","No","No","","Yes1989,ANSIC89,ISOC90,ISOC99,ISOC11,ISOC18"
 "C++","Application,system","Yes","Yes","Yes","Yes","Yes","No","No","","Yes1998,ISO/IEC2003,ISO/IEC2011,ISO/IEC2014,ISO/IEC2017"
 "C#","Application,RAD,business,client-side,general,server-side,web,gameprogramming","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Structured,concurrent","Yes2000,ECMA,ISO"
@@ -134,4 +133,5 @@
 "XL","","Yes","Yes","No","No","No","No","No","conceptprogramming","No"
 "Xojo","Application,RAD,general,web","Yes","Yes","No","Yes","No","Yes","Yes","","No"
 "XPath/XQuery","Databases,dataprocessing,scripting","No","No","Yes","No","No","No","No","Tree-oriented","Yes1999W3CXPath1,2010W3CXQuery1,2014W3CXPath/XQuery3.0"
+"Zeek","Domain-specific,application","Yes","No","No","No","No","No","Yes","","No"
 "Zsh","Shell,scripting","Yes","No","No","Yes","No","No","No","Loadablemodules","No"

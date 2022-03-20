@@ -21,7 +21,7 @@
 "CodeGenerator360","C#","Active","Tier","DatabaseSchema","XMLSchema","Storedprocedures,.NETDAL,C#ASP.NETpages,VisualStudio2010solutionandprojectfiles"
 "CodeModeler","C#","Active","Mixed","GraphicalEditorintegratedwithVisualStudio","XML","C#,SQLServer,.NETStandard"
 "CodeOnTime","C#","Active","","DatabaseTables","TemplatesandVariousXMLconfigurationtables","C#,ASP.NET"
-"Cog","Python","Active","InlineCodeExpander","Anycode","JavaC#C++CPerlPythonRubyTCLJavaScriptFortranLispSchemeCobolXSLTJSPPHPYaccSQLXMLSystemConfigurationFiles"
+"Cog","Python","Active","InlineCodeExpander","Anycode","JavaC#C++CPerlPythonRubyTCLJavaScriptFortranLispSchemeCobolXSLTJSPPHPYaccSQLXMLSystemConfigurationFiles",""
 "C++MiddlewareWriter","C++","Active","","DSLinstance/Middlefile","Includefiles","C++marshallingcode"
 "DMSSoftwareReengineeringToolkit","SeveralcodegenerationDSLs(attributegrammars,treepatterns,source-to-sourcerewrites)","Active","DSLsrepresentedasabstractsyntaxtrees","DSLinstance","Well-formedoutputlanguagecodefragments","Anyprogramminglanguage(provenforC,C++,Java,C#,PHP,COBOL)"
 "DRAKON","Tcl/Tk","Active","Tier","User-definedflowchartmodeldrawnintheeditor","FlowchartinSQLitedatabaseindocumentedstructure","Java,Go,D,C#,C/C++(withQtsupport),Python,Tcl,JavaScript,Lua,Erlang,AutoHotkey,Verilog.Extensible."

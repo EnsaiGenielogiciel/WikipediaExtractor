@@ -1,4 +1,4 @@
-"Name","Shellscripting","MIDI","OSC","Shellscripting","MIDI","AudioUnits","OSC","HID","VST","AudioUnits","Other"
+"Name","Shellscripting","Shellscripting","MIDI","MIDI","OSC","OSC","HID","VST","AudioUnits","AudioUnits","Other"
 "Name","In","Out","In","HID","VST","Out","Other","In","Out","Ashost","Asunit"
 "Bidule","","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
 "ChucK","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","","","ChunityallowstorunChucKintheUnitygameengine"

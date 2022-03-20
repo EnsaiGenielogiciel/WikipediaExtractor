@@ -1,7 +1,7 @@
 "","Stringrepresentation","Stringrepresentation","Objectcopy","Valueequality","Objectcomparison","Hashcode","ObjectID"
 "","Human-readable","Objectcopy","Valueequality","Objectcomparison","Hashcode","ObjectID","Source-compatible"
 "ABAPObjects","N/A","N/A","N/A","N/A","N/A","N/A","N/A"
-"APL(Dyalog)","⍕x","⎕SRCx","⎕NSx","x=y","N/A","N/A"
+"APL(Dyalog)","?x","?SRCx","?NSx","x=y","N/A","N/A",""
 "C++(STL)","","","","x==y","","","pointertoobjectcanbeconvertedintoanintegerID"
 "C#","x.ToString()","","x.Clone()","x.Equals(y)","x.CompareTo(y)","x.GetHashCode()","System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode(x)"
 "Java","x.toString()","","x.clone()","x.equals(y)","x.compareTo(y)","x.hashCode()","System.identityHashCode(x)"

@@ -15,7 +15,7 @@
 "Notes","notes,tree,tags","Yes","?","Yes","Yes","?","?","Yes","Yes","Yes","Yes","Yes","Yes","Sqlitebased;exporttoPDF"
 "Notion","Notebooks,notebooksections,section","Yes","Yes","Yes","Partial","Yes","No","No","No","Yes","Yes","?","Yes","Proprietary;exporttoPDF,HTML,Markdown,CSV"
 "Okular","?","?","?","No","?","Yes","No","No","No","?","?","?","Yes","PDF,PS,TIFF,CHM,DjVu,DVI,XPS,ODF,others;exportPDF+notesforsendingtootherOkularusers"
-"Open-Sankoré","tree,notebooks","No","No","No","?","Yes","Yes","Yes","No","No","No","?","Yes","Save/export:PDF,IWB,UBZ;Import:PDF,IWB,UBZ,images,imagedirectories"
+"Open-SankorÃ©","tree,notebooks","No","No","No","?","Yes","Yes","Yes","No","No","No","?","Yes","Save/export:PDF,IWB,UBZ;Import:PDF,IWB,UBZ,images,imagedirectories"
 "Org-mode(Emacs)","tree,tags","Yes","Yes","Yes","?","Yes","No","No","No","Yes","Yes","?","Yes","LaTeX,HTML,DocBook,Taskjuggler,PDF,Freemind,XOXO,iCalendar"
 "Outline","Tree-structurednotebooks,sections,pages","Yes","Yes","Yes","?","Yes","No","Yes","No","Yes","Yes","?","Yes","MSOneNoteformat,export/importasPDF"
 "PDFStudio","?","?","?","?","?","Yes","No","?","?","?","?","?","Yes","PDF"

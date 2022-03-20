@@ -11,7 +11,7 @@
 "IMSLNumericalLibraries","C,Java,C#,Fortran,Python","manycomponents","No","Yes","Proprietary",""
 "LIONsolver","C++,Java","2.0.198/October2011","Yes","Yes","Proprietary","Supportforinteractiveandlearningoptimization,accordingtoRSOprinciples."
 "MathKernelLibrary(MKL)","C++,Fortran","11.1/October2013","No","Yes","Proprietary","NumericallibraryfromIntel.MKLisspecializedonlinearalgebra,butcontainssomeoptimization-relatedfunctionality."
-"WolframMathematica","C++,WolframLanguage","13.0.1(February17,2022;23daysago(2022-02-17))[Â±]","No","Yes","Proprietary","Constrainednonlinearoptimization,interiorpointmethods,convexoptimizationandintegerprogramming-aswellasoriginalsymbolicmethodsintegratedwithgeneralcomputationalcapabilities."
+"WolframMathematica","C++,WolframLanguage","13.0.1(February17,2022;23daysago(2022-02-17))[±]","No","Yes","Proprietary","Constrainednonlinearoptimization,interiorpointmethods,convexoptimizationandintegerprogramming-aswellasoriginalsymbolicmethodsintegratedwithgeneralcomputationalcapabilities."
 "MIDACO","C++,C#,Python,Matlab,Octave,Fortran,R,Java,Excel,VBA,Julia","6.0/Mar2018","Yes","Yes","Dual(Commercial,academic)","Lightweightsoftwaretoolforsingle-andmulti-objectiveoptimization.SupportingMINLPandparallelization."
 "NAGNumericalLibraries","C,Fortran","Mark26/October2017","No","Yes","Proprietary",""
 "NMath","C#","5.3/May2013","No","Yes","Proprietary","C#numericallibrarybuiltontopofMKL."

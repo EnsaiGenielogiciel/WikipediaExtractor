@@ -15,7 +15,7 @@
 "Raku","«our«type»»«multi»methodpostcircumfix:<[]>isrw(«$self:»type$index){instructions...returnvalue;}or«our«type»»«multi»methodpostcircumfix:<{}>isrw(«$self:»type$key){instructions...returnvalue;}","«our«type»»«multi»methodpostcircumfix:<[]>(«$self:»type$index){instructions...returnvalue;}or«our«type»»«multi»methodpostcircumfix:<{}>(«$self:»type$key){instructions...returnvalue;}","N/A"
 "Ruby","def[](index)instructionsexpressionresultinginreturnvalueenddef[]=(index,value)instructionsend","def[](index)instructionsexpressionresultinginreturnvalueend","def[]=(index,value)instructionsend"
 "WindowsPowerShell","N/A","N/A","N/A"
-"OCaml","N/A"
+"OCaml","N/A","",""
 "F#","memberthis.Itemwithget(index)=expressionandsetindexvalue=expression","memberthis.Itemwithget(index)=expression","memberthis.Itemwithsetindexvalue=expression"
 "COBOL","N/A","N/A","N/A"
 "Cobra","pro[index«astype»]astypeTab?getTab?Tab?instructionsTab?Tab?returnvalueTab?setTab?Tab?instructions","get[index«astype»]astypeTab?instructionsTab?returnvalue","set[index«astype»]astypeTab?instructions"

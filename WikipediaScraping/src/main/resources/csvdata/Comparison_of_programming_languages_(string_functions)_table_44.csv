@@ -30,7 +30,7 @@
 "stringasUppercase","Smalltalk"
 "UPPER(string)","SQL"
 "ToUpperCase[string]","Mathematica"
-"Â«FUNCTIONÂ»UPPER-CASE(string)","COBOL"
+"«FUNCTION»UPPER-CASE(string)","COBOL"
 "string.toUpper","Cobra"
 "stringtoupperstring","Tcl"
 "string.to_uppercase()","Rust"

@@ -47,7 +47,7 @@
 "TinyCoreLinux","Free,andnonfree","25,160","?","ab,tce-load","tcz","tc-install,core2usb","Yes","?","?"
 "TinySliTaz","Free,andnonfree","50","?","Website","tazpkg","","No","?","iPXE"
 "Trisquel","Freeonly","52,748","?","APT",".deb","Ubiquity","Yes","Yes","?"
-"TurnKeyGNU/Linux","Free,andnonfree","(plus≈30custompackages)","21,041(currentlyTurnKeyonlysuppliessourcecodeforcustompackages)","APT",".deb","DI-Live(customforkofDebianInstaller)","No","No","No"
+"TurnKeyGNU/Linux","Free,andnonfree","(plus?30custompackages)","21,041(currentlyTurnKeyonlysuppliessourcecodeforcustompackages)","APT",".deb","DI-Live(customforkofDebianInstaller)","No","No","No"
 "Ubuntu,Kubuntu,Xubuntu","Free,andnonfree","93,920","24,474","APT",".deb","Ubiquity","Yes","Yes","PXE"
 "Ututo","Freeonly","5,000","?","UTUTOPackageManager","ebuild","?","?","No","No"
 "VectorLinux","Free,andnonfree","?","?","slapt-get,gslapt,installpkg","tgz","","Yes","?","?"

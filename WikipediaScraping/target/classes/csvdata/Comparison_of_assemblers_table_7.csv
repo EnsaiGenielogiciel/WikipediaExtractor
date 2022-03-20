@@ -6,4 +6,4 @@
 "OpenWatcomAssembler","Watcom","DOS,FreeBSD,Linux,OS/2,Windows","approvedbyOSI,butnotbyFSF","SybaseOpenWatcomPublic","Yes"
 "POASM","","Windows,WindowsMobile","No","Freeware","Yes"
 "TCCASM","FabriceBellard","Unix-like,Windows","Yes","GNULGPL","Yes"
-"Yasm","","DOS,Unix-like,Windows","Yes","BSD","No"
+"Yasm","","DOS,Unix-like,Windows","Yes","BSD","Yes"

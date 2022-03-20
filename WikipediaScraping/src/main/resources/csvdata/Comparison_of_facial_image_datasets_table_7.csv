@@ -7,6 +7,6 @@
 "YouTubeComedySlamPreferenceDataset","UservotedataforpairsofvideosshownonYouTube.Usersvotedonfunniervideos.","Videometadatagiven.","1,138,562","Text","Classification","2012","","Google"
 "SkytraxUserReviewsDataset","Userreviewsofairlines,airports,seats,andloungesfromSkytrax.","Ratingsarefine-grainandincludemanyaspectsofairportexperience.","41396","Text","Classification,regression","2015","","Q.Nguyen"
 "TeachingAssistantEvaluationDataset","Teachingassistantreviews.","Featuresofeachinstancesuchasclass,classsize,andinstructoraregiven.","151","Text","Classification","1997","","W.Lohetal."
-"VietnameseStudentsâ€™FeedbackCorpus(UIT-VSFC)","Studentsâ€™Feedback.","Comments","16,000","Text","Classification","1997","","Nguyenetal."
-"VietnameseSocialMediaEmotionCorpus(UIT-VSMEC)","Usersâ€™FacebookComments.","Comments","6,927","Text","Classification","1997","","Nguyenetal."
+"VietnameseStudents’FeedbackCorpus(UIT-VSFC)","Students’Feedback.","Comments","16,000","Text","Classification","1997","","Nguyenetal."
+"VietnameseSocialMediaEmotionCorpus(UIT-VSMEC)","Users’FacebookComments.","Comments","6,927","Text","Classification","1997","","Nguyenetal."
 "VietnameseOpen-domainComplaintDetectiondataset(ViOCD)","Customerproductreviews","Comments","5,485","Text","Classification","2021","","Nguyenetal."

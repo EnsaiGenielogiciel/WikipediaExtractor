@@ -1,6 +1,6 @@
 "Symbol","Languages"
 "comment~;","ALGOL60,SIMULA"
-"Â¢~Â¢,#~#,co~co,comment~comment","ALGOL68"
+"¢~¢,#~#,co~co,comment~comment","ALGOL68"
 "/*~*/","ActionScript,AutoHotkey,C,C++,C#,D,Go,Java,JavaScript,kotlin,Objective-C,PHP,PL/I,Prolog,Rexx,Rust(canbenested),Scala(canbenested),SAS,SASS,SQL,Swift(canbenested),VisualProlog,CSS"
 "#cs~#ce","AutoIt"
 "/+~+/","D(canbenested)"

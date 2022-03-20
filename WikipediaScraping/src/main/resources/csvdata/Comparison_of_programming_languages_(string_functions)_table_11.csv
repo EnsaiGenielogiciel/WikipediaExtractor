@@ -12,5 +12,5 @@
 "string1.Equals(string2)","C#"
 "string1-eqstring2,or[string]::Equals(string1,string2)","WindowsPowerShell"
 "[string1isEqualToString:string2],or[string1isEqual:string2]","Objective-C(NSString*only)"
-"string1≡string2","APL"
+"string1?string2","APL"
 "string1.eq(string2)","Rust"

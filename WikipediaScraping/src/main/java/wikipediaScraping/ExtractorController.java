@@ -40,7 +40,7 @@ public class ExtractorController {
 		String jsonString =json.toJson(T);
 		System.out.println(jsonString);
 		
-	    return "the table of link : " + link + "  is " +  jsonString;
+	    return "the tables of link : " + link + "  are  : { " +  jsonString + " } " ;
 	    
 	 
 	}

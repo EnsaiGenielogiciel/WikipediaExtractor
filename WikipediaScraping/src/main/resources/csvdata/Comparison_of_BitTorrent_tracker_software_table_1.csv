@@ -5,7 +5,7 @@
 "MonoTorrent","C#","MIT","Yes","","Windows,MacOS,Unix-like","UsesMonoor.NETCoreforcross-platformsupport(.NET)"
 "Opentracker","C","Beerware","Yes","Yes(IPv4andIPv6haveseparatebinariesandprocessesthatdonotshareanyinformationbetweenthem.IfaclientcommunicatestothetrackeroverIPv6,itwillonlyreceiveIPv6addressesintheresponse.)","Unix-like(sourcecodeonly)","Useslibowfat,performswellevenonembeddedhardware.OnlyrequirementisaPOSIXcompliantOS.Supportsonlyacompactpeerlist."
 "PeerTracker","PHP","GPL-3.0-or-later","Yes","","Webapplication","ExtremelylightweightandefficientBitTorrenttracker.SupportsSQLite3,andMySQLforstorage."
-"μTorrent","C++","Freeware","Yes","","Windows,OSX,Linux,Android","Doesnothavealistofhostedtorrents."
+"?Torrent","C++","Freeware","Yes","","Windows,OSX,Linux,Android","Doesnothavealistofhostedtorrents."
 "qBittorrent","C++","GPL-2.0-or-later","Yes","","Windows,OSX,Unix-like,OS/2","Lightweight.SupportsDHT,PEX,announcementsviaUDP.Doesnothaveawebinterfaceorlistofhostedtorrents;itisnotdesignedforsecureorlarge-scaleapplication."
 "TorrentPier","PHP","MIT","Yes","","Webapplication","SupportsApacheandnginxandMySQL,MariaDBandPerconaforstorage."
 "Vuze","Java","Disputed","Yes","","Windows,MacOS,Linux","Vuze(formerlyAzureus)hasabuiltintracker."

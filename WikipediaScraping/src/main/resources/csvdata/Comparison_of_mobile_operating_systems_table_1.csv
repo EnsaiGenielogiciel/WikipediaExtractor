@@ -9,7 +9,7 @@
 "SupportedCPUarchitecture","ARM(32-bitARMv7-Aand64-bitARMv8-Aonly),x86,x86-64","64-bitARMv8-Aonly","ARM,x86,x86-64","ARM,x86-64","ARM,x86-64","ARM,?","Convergenceoperatingsystem","ARM,ARM64,x86,x86-64","ARM"
 "Programmedin","C,C++,Java,Kotlin","C,C++,Objective-C,Swift","C++,Xamarin.Forms(.NETC#,F#,VB)","C++,QML,Python","Apps:HTML5,QML,Go,JavaScript,C++System:C,C++,QML","C++,QML","","Pythoninstalltoolandshellscriptpackages","HTML5,JavaScript"
 "Publicissueslist","Yes","3rdparty","Yes","Yes","Yes","Yes","Yes","Yes","No"
-"DRM-free","NosinceAndroid4.1andAndroid4.3andmorerestrictionsonAndroid4.4","Noâ€“FairPlay","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"DRM-free","NosinceAndroid4.1andAndroid4.3andmorerestrictionsonAndroid4.4","No–FairPlay","Yes","Yes","Yes","Yes","Yes","Yes","?"
 "Deviceindependentsystemupdates","PartialsystemupdatessinceOreo3rdpartysoftwarelikeLineageOS","Yes","No","Yes","Yes","","","Yes.Intendedforuseonoldmobiledevices","Forfeaturephones,notsmartphones"
 "Wirelesssystemupdates","Yes","5+","No","Yes","Yes","","","",""
 "GPUacceleratedGUI","3+","Yes","Yes","Yes","Yes","","","",""

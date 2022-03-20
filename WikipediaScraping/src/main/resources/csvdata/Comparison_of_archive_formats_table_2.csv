@@ -1,5 +1,5 @@
 "Fileextension(s)","MIMEtype","Officialname","Platform","Description"
-".bz2","application/x-bzip2","bzip2","Unix-like","Anopensource,patent-androyalty-freecompressionformat.ThecompressionalgorithmisaBurrowsâ€“Wheelertransformfollowedbyamove-to-fronttransformandfinallyHuffmancoding."
+".bz2","application/x-bzip2","bzip2","Unix-like","Anopensource,patent-androyalty-freecompressionformat.ThecompressionalgorithmisaBurrows–Wheelertransformfollowedbyamove-to-fronttransformandfinallyHuffmancoding."
 ".F,.?XF","","Freeze/melt[1]","QNX4,Unix-likeandDOS","OldcompressorforQNX4OS.ThecompressionalgorithmisamodifiedLZSS,withanadaptiveHuffmancoding."
 ".gz","application/gzip","gzip","Unix-like","GNUZip,theprimarycompressionformatusedbyUnix-likesystems.ThecompressionalgorithmisDeflate,whichcombinesLZSSwithHuffmancoding."
 ".lz","application/x-lzip","lzip","Unix-like","AnalternateLZMAalgorithmimplementation,withsupportforchecksumsandidentbytes."

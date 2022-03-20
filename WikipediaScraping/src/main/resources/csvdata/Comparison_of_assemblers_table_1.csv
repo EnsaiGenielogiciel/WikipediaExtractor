@@ -2,7 +2,7 @@
 "AtariAssemblerEditor","ShepardsonMicrosystems","No","Proprietary","MOSTechnology6502","Atari8-bitfamily"
 "AtariMacroAssembler","ShepardsonMicrosystems","No","Proprietary","MOSTechnology6502","Atari8-bitfamily"
 "EDASM","AppleComputer","No","","MOSTechnology6502","AppleDOS3.x"
-"k2asm","AndreKaesmacher,HaukeBrandes,BÃ¶rjeSieling","Yes","ArtisticLicense","MOSTechnology6502","Linux,Windows,macOS,possiblyotherUnices"
+"k2asm","AndreKaesmacher,HaukeBrandes,BörjeSieling","Yes","ArtisticLicense","MOSTechnology6502","Linux,Windows,macOS,possiblyotherUnices"
 "Lisa","RandallHyde","No","Proprietary","MOSTechnology6502","AppleIIseries"
 "MAC/65","OptimizedSystemsSoftware","No","Proprietary","MOSTechnology6502,WDC65C02","Atari8-bitfamily"
 "Merlin","GlenBredon","Yes","Public-domain","MOSTechnology6502,WDC65C02","AppleIIseries"

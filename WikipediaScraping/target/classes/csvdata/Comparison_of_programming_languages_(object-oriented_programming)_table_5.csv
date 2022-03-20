@@ -22,5 +22,5 @@
 "JavaScript","this.method=function(«parameters»){instructions}name«.prototype.method=function(«parameters»){instructions}","this.method=function(«parameters»){instructions...returnvalue;}name«.prototype.method=function(«parameters»){instructions...returnvalue;}"
 "Javascript(ES6)","foo(«parameters»){instructions}","foo(«parameters»){instructions...returnvalue;}"
 "COBOL","METHOD-ID.foo.«DATADIVISION.LINKAGESECTION.parameterdeclarations»PROCEDUREDIVISION«USINGparameters».instructionsENDMETHODfoo.","METHOD-ID.foo.DATADIVISION.LINKAGESECTION.«parameterdeclarations»result-vardeclarationPROCEDUREDIVISION«USINGparameters»RETURNINGresult-var.instructionsENDMETHODfoo."
-"Cobra","deffoo(parameters)Tab?instructions","deffoo(parameters)astypeTab?instructionsTab?returnvalue",""
+"Cobra","deffoo(parameters)Tab?instructions","deffoo(parameters)astypeTab?instructionsTab?returnvalue"
 "ISLISP","(defgenericmethod(arg1arg2))(defmethodmethod((arg1<class1>arg2<class2>)...)",""

@@ -2,7 +2,7 @@
 "Arachne","GUI","TraditionalNewsreader","Yes","No","No","","","","","","Free","DOS,Unix-like","GPL",""
 "BinTube","GUI","BinaryGrabber","No","Yes","Yes","Yes","Yes(3200Days/Free)","Yes","Yes","Yes","$59.95/Freewithsubscription","MicrosoftWindows","Proprietary","Streamsmediawhiledownloading;FreewithUsenetService"
 "ClawsMail","GUI","TraditionalNewsreader","Yes","No","No","No","No","Yes","","No","Free","Cross-platform","GPL",""
-"Fort√©Agent","GUI","Combination","Yes","Yes","Yes","Yes","","","Yes","","$29","MicrosoftWindows","Proprietary","Includes3monthnewsgroupservicetrial;Shareware"
+"FortÈAgent","GUI","Combination","Yes","Yes","Yes","Yes","","","Yes","","$29","MicrosoftWindows","Proprietary","Includes3monthnewsgroupservicetrial;Shareware"
 "Gnus","Text-based","TraditionalNewsreader","Yes","No","No","No","No","Yes","Yes","No","Free","Cross-platform","GPL","RunsinEmacs;alsodoesEmail"
 "GrabIt","GUI","BinaryGrabber","Yes","Yes","Yes","Yes","Yes(30days/$24.99/yr)","No","Yes","","Free(searchingextra)","MicrosoftWindows","Proprietary","UsenetSearchService"
 "GroupWise","GUI","TraditionalNewsreader","Yes","No","No","","","","","","Varies","MicrosoftWindows,Unix-like","Proprietary",""

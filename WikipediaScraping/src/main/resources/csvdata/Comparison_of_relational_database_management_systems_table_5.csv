@@ -1,7 +1,7 @@
 "","Temporarytable","Materializedview"
 "4thDimension","Yes","No"
 "ADABAS","?","?"
-"AdaptiveServerEnterprise","Yes","Yesâ€“seeprecomputedresultsets"
+"AdaptiveServerEnterprise","Yes","Yes–seeprecomputedresultsets"
 "AdvantageDatabaseServer","Yes","No(onlycommonviews)"
 "Altibase","Yes","No(onlycommonviews)"
 "ApacheDerby","Yes","No"
