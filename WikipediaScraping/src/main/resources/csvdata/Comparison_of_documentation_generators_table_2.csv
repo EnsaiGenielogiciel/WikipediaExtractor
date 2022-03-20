@@ -1,5 +1,6 @@
 "","HTML","CHM","RTF","PDF","LaTeX","PostScript","manpages","DocBook","XML","ePub"
 "COBOLDoc","Yes","No","No","No","No","No","No","No","No"
+"Cxref","Yes","No","Yes","No","Yes","No","No","No","SGML(LinuxDocDTD)","No"
 "Ddoc","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes"
 "Document!X","Yes","Yes","No","No","No","No","No","No","No"
 "Doxygen","Yes","Yes","Yes","Indirectly","Yes","Indirectly","Yes","Yes","Yes","No"

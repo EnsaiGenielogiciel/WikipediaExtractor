@@ -1,4 +1,4 @@
-"Application","HardsurfaceModeling","HardsurfaceModeling","SculptModeling","SculptModeling","SculptModeling","SculptModeling","SculptModeling","SculptModeling","Non-destructiveModeling","Non-destructiveModeling","Non-destructiveModeling","Non-destructiveModeling"
+"Application","HardsurfaceModeling","SculptModeling","Non-destructiveModeling","Non-destructiveModeling","Non-destructiveModeling","SculptModeling","SculptModeling","SculptModeling","SculptModeling","HardsurfaceModeling","SculptModeling","Non-destructiveModeling"
 "Application","PolygonModeling","SubdivisionModeling","Base-meshCreation","SketchModeling","Sculpting","ClothSculpting","HandRetopology","AutomaticRetopology","Boolean","Bevel","Modifier","Procedural"
 "Maya","Yes","Yes","(SOuPBMesh)","No","Yes","No","Yes","2020andlater","Yes","Yes","?","Yes"
 "3dsMax","Yes","Yes","(Form)","No","PaintDeform","No","Yes","2021.3andlater","Yes","Yes","Yes","MaxCreationGraph"

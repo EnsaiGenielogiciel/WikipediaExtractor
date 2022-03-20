@@ -6,7 +6,7 @@
 "Django","Python","Opensource","BSDlicenses","3.2.2(May6,2021)",""
 "Doctrine","PHP","Opensource","MIT","2.4/April8,2014",""
 "EclipseLink","JavaVirtualMachine","Opensource","EclipsePublicLicenseVersion1.0(EPL)andEclipseDistributionLicenseVersion1.0(EDL)","2.4.2/July4,2013","JPA2.0"
-"EntityFrameworkCore",".netcore","OpenSource","ApacheLicense2.0","6.0/November10,2021",""
+"EntityFrameworkCore",".netcore","OpenSource","ApacheLicense2.0","6.0/November10,2021"
 "LLBLGenPro",".net","Sourceavailableforcustomers","ProprietaryLicense","5.7/May25,2020","DesignersupportsLLBLGenEngine,EntityFrameworkCore,EntityFramework"
 "Hibernate","JavaVirtualMachine","Opensource","GNULesserGeneralPublicLicense","5.4.31/April30,2021","JPA2.0"
 "MyBatis/iBATIS","Cross-platform","Opensource","ApacheLicense2.0","",""

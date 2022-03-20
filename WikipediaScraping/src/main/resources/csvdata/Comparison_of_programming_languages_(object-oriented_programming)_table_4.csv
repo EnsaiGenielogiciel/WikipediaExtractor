@@ -5,7 +5,7 @@
 "C#","publictypefield«=value»;","privatetypefield«=value»;","protectedtypefield«=value»;","internaltypefield«=value»;"
 "D","publictypefield«=value»;","privatetypefield«=value»;","","packagetypefield«=value»;"
 "Java","publictypefield«=value»;","privatetypefield«=value»;","protectedtypefield«=value»;","typefield«=value»;"
-"eC","publictypefield;","privatetypefield;","",""
+"eC","publictypefield;","privatetypefield;"
 "Eiffel","featurefield:TYPE","feature{NONE}field:TYPE","feature{current_class}field:TYPE","feature{FRIEND}field:TYPE"
 "Objective-C","@publictypefield;","@privatetypefield;","@protectedtypefield;","@packagetypefield;"
 "Swift","N/A","N/A","N/A","N/A"

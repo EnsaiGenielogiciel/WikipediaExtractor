@@ -1,5 +1,5 @@
 "Country","Highestpayloadcapacity","Highestpayloadcapacity","Highestpayloadcapacity","Highestpayloadcapacity","Highestpayloadcapacity","Highestpayloadcapacity"
-"Country","LEO","LEO","LEO","GTO","GTO","GTO"
+"LEO","GTO","GTO","LEO","Country","LEO","GTO"
 "Country","LaunchVehicle","Payloadcapacity","Activesince","LaunchVehicle","Payloadcapacity","Activesince"
 "China","CZ-5B","25,000kg(55,000lb)","2020","CZ-5","14,500kg(32,000lb)","2016"
 "Japan","H-IIB","16,500kg(36,400lb)","2009","H-IIB","8,000kg(18,000lb)","2009"

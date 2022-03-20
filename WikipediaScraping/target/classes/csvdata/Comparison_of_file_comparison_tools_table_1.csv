@@ -1,5 +1,5 @@
 "Name","Creator","FOSS","Free","Firstpublicreleasedate","Yearoflateststableversion","Windows","Macintosh","Linux","Otherplatforms","Maxsupportedfilesize"
-"BeyondCompare","ScooterSoftware","No;Proprietary","No","1996","2021-12-20(v4.4.1)","Yes","Yes","Yes","",">2GB(64bits)"
+"BeyondCompare","ScooterSoftware","No;Proprietary","No","1996","2022-3-16(v4.4.2)","Yes","Yes","Yes","",">2GB(64bits)"
 "Compare++","CoodeSoftware","No;Proprietary","No","2010","2016-7-17(3.0.1.0b)","Yes","No","No","",""
 "diff,diff3","AT&T","Yes;BSD3-clause,BSD4-clause,CDDL,GPL,Proprietary","Yes","1974","","No","Yes(MacOSX)","Yes","portedtomostplatformsaspartofSCCS",">2GBbutlessthan64bits"
 "Eclipse(compare)","","Yes;EclipsePublicLicense","Yes","2004-07-21","2016-09-28(4.6.1(Neon.1))","Yes","Yes","Yes","AnythingwithJava",""

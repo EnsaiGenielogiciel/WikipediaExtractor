@@ -16,6 +16,8 @@
 "Fedora","Free,andnonfree","66,075","30,681","DNF,yum,PackageKit","RPM","Anaconda","Yes","Yes","?"
 "Gentoo","Free,andnonfree","10,000","19,092","Portage",".ebuild,.tbz2","None(third-partyinstallscriptsonly)","Yes","Yes","PXE"
 "gNewSense","Freeonly","?","?","APT",".deb","Debian-Installer","Yes","Yes","No"
+"GnoppixLinux","Free,andnonfree","92,000","28,923","APT",".deb","Debian-Installer","Yes","Yes","PXE"
+"Devuan","Free,andnonfree","","?","APT",".deb","Debian-Installer","Yes","Yes","PXE"
 "GuixSystem","Freeonly","18,921","18,921","Guix",".scm,.go","guixsysteminit","Yes","Yes","No"
 "HyperbolaGNU/Linux-libre","Freeonly","5,257","?","Pacman",".pkg.tar.lz","None(third-partyinstallscriptsonly)","No","Yes","?"
 "Knoppix","Free,andnonfree","","?","APT",".deb","","No","?","?"

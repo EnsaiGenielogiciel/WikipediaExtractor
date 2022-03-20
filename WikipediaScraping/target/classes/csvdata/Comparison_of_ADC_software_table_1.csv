@@ -3,7 +3,7 @@
 "ADCH++GUI","Yes","GPL","No",""
 "DSHub","Yes","GPL","No","2008-10-09/RC1"
 "FlexHub","Yes","AGPL","No","2013-10-20/0.2svn1469"
-"Luadch","Yes","GPLv2","Yes","2021-09-16/2.22"
+"Luadch","Yes","GPLv3","Yes","2021-09-16/2.22"
 "Nexthub","Yes","MITLicense","No",""
 "uhub","Yes","GPL","No","2019-12-13/0.5.1-git-35d8088","InDebianandOpenWrt"
 "ErlHub","Yes","GPL","?",""

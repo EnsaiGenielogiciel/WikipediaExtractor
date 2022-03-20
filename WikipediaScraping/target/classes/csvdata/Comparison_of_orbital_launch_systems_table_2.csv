@@ -1,4 +1,4 @@
-"Vehicle","Origin","Manufacturer","Massto...(kg)","Massto...(kg)","Massto...(kg)","Launches(+suborbital)","Dateofflight","Dateofflight"
+"Vehicle","Origin","Manufacturer","Massto...(kg)","Massto...(kg)","Dateofflight","Massto...(kg)","Launches(+suborbital)","Dateofflight"
 "Vehicle","Origin","Manufacturer","LEO","Launches(+suborbital)","GTO","Other","First","Last"
 "Antares110–130","UnitedStates","Orbital","5,100","","1,500toSSO","5","2013","2014"
 "Ariane1","Europe","Aérospatiale","","1,830","","11","1979","1986"

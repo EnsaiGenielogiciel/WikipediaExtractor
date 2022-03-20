@@ -10,7 +10,7 @@
 "HyperEdit","JonathanDeutsch/Tumult","1.6/April30,2008","macOS","Proprietary","Yes","No","No","No"
 "KDevelop","KDEKDevelopTeam","5.5.1(May5,2020;22monthsago(2020-05-05))[±]","Cross-platform","GPL","Yes","No","Unknown","CVS,Git,SVN"
 "KomodoIDE/Edit","ActiveState","10.0.1(June2016)","Cross-platform","Proprietary","Yes","Yes","Yes","Bazaar,CVS,Git,Mercurial,Perforce,SVN"
-"NetBeans","SunMicrosystems/Oracle","12.6(29November2021)[±]","Cross-platformonNetbeans","ApacheLicense","Yes","Yes","Yes","CVS,Git,Mercurial,SVN"
+"NetBeans","SunMicrosystems/Oracle","13(4March2022)[±]","Cross-platformonNetbeans","ApacheLicense","Yes","Yes","Yes","CVS,Git,Mercurial,SVN"
 "PHPEclipse(Eclipse)","PHPEclipseprojectteam","1.2.2/September2009","Windows,Linux,macOS,FreeBSD,JVM,Solaris","CPL","Yes","Yes","Unknown","Unknown"
 "PhpEDProfessional","NuSphereCorporation","19.111/May,2019","Windows","Proprietary","Yes","Yes","Unknown","CVS,SVN,anyotherWindows-shellintegrated"
 "PHPEdit","WaterProofSARL","3.6.4(April9,2010;11yearsago(2010-04-09))[±]","Windows","Proprietary","Yes","Yes","No","CVS,SVN"

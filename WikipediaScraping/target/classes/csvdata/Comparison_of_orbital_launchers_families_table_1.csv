@@ -1,4 +1,4 @@
-"Family","Country","Manufac.","Payload(kg)","Payload(kg)","Payload(kg)","Cost(US$,millions)","Launchesreaching...","Launchesreaching...","Launchesreaching...","Launchesreaching...","Status","Dateofflight","Dateofflight","Notes","Refs"
+"Family","Country","Manufac.","Payload(kg)","Payload(kg)","Launchesreaching...","Launchesreaching...","Dateofflight","Launchesreaching...","Payload(kg)","Cost(US$,millions)","Launchesreaching...","Status","Dateofflight","Notes","Refs"
 "Family","Country","Manufac.","LEO","Cost(US$,millions)","GTO","Status","TLI","Notes","Refs","Total","Space","Anyorbit","Targetorbit","First","Last"
 "Agnibaan","IND","AgnikulCosmos","100","--","--","--","","","","","Devel.","2022","","Expectedlaunchin2022",""
 "Alpha","USAUKR","FireflyAerospace","1,000","N/A","N/A","--","1","0","0","0","Active","2021","","",""

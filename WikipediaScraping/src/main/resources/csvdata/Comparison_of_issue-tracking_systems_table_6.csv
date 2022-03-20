@@ -19,7 +19,7 @@
 "OTRS","Yes","Yes","Yes","Unknown","Unknown","Yes","Unknown","Unknown"
 "Phabricator","Yes","No","Yes","No","Yes","Yes","No","No"
 "PivotalTracker","Yes","No","No","Yes,GoogleAccount","No","No","No","No"
-"Redmine","Yes","Yes","No","Yes","No","Yes","Yes,viaApache(usingmod_rails)","No"
+"Redmine","Yes","Yes","Yes","Yes","No","Yes","Yes,viaApache(usingmod_rails)","No"
 "RequestTracker","Yes","Unknown","Unknown","Yes","Unknown","Yes","Unknown","Yes"
 "Roundup","Yes","Unknown","Unknown","Yes","Unknown","Yes","Yes","Yes"
 "StarTeam","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"

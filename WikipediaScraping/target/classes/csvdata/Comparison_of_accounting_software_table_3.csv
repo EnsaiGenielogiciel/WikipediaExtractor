@@ -7,7 +7,7 @@
 "GnuCash","C80%,Scheme/Lisp13%,Perl7%?","1999-11-08-Registered","3.8","2020-03-29","5-Production/Stable","XML(Compressed),SQLite3,MySQL,PostgreSQL","software:33languages;website:8languages"
 "GNUEnterprise","Python100%","2002-06-28","1.4","2008-11-19","5-Production/Stable","PostgreSQL8.1+","2:English,German,"
 "JFire","J2EE,JBoss,EclipseRCP,JDO","?","1.0.1","2010-03-20","?","MSSQL,Derby,...","English,German,Thai,..."
-"LedgerSMB","Perl","2006-09-06","1.9.10","2022-02-22","5-Production/Stable","PostgreSQL9.6+","+40:Englishdevelopment,Multilingual(.pofilesGettext#Translating)"
+"LedgerSMB","Perl","2006-09-06","1.9.11","2022-03-11","5-Production/Stable","PostgreSQL9.6+","+40:Englishdevelopment,Multilingual(.pofilesGettext#Translating)"
 "NewViews","C++,Tcl/Tk","1985","2.35.3","2022-02-14","5-Production/Stable","Proprietary,ObjectOriented","English"
 "Openbravo","J2EE,JBoss","2006","3.0.30460","2017-03-09","5-Production/Stable","Oracle,PostgreSQL","English,German,Spanish(Spain),Spanish(Mexico),French,Italian,Dutch,Polish,Portuguese,Romanian,Russian,Chinese,Hebrew,Bulgarian,etc."
 "Odoo","Python,Javascript","2005","13.0","2019-10-03","5-Production/Stable","PostgreSQL","+40Multilingual"

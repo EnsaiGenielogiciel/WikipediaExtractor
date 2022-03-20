@@ -14,7 +14,7 @@
 "MicrosoftVisualStudio","Proprietary,Freeware(Communityeditiononly)","Yes","Yes","No","MacOS7(v2.x-v4.xonly)","C++andC#","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2019-04","Yes","Yes","Yes(alsoplugin)"
 "MicrosoftVisualStudioCode","MIT","Yes","Yes","Yes","","TypeScriptJavaScriptCSS","Yes","No","Yes","No","No","Yes","No","Yes","Yes","2020-09","External","External","Requireslanguageserversupport"
 "MonoDevelop","LGPL","Yes","Yes","Yes","FreeBSD,OpenBSD,Solaris","C#","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","2016-11","Yes(GCC+custom)","Yes(GCC+custom)","Yes"
-"NetBeansC/C++pack","ApacheLicense","Yes","Yes","Yes","OpenBSD,Solaris","Java","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","12.6(29November2021)[±]","External","External","Yes"
+"NetBeansC/C++pack","ApacheLicense","Yes","Yes","Yes","OpenBSD,Solaris","Java","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","13(4March2022)[±]","External","External","Yes"
 "OpenWatcom","OSIApproved","Yes(32-bitonly)","partial","No","FreeBSD,DOS,OS/2","C/C++","Yes(GUIremote)","Yes","Yes","Yes","No","No","No","Yes","Yes","2010-06","Yes","Yes","No"
 "OracleSolarisStudio(formerlySunStudio)","Proprietary,Freeware","No","Yes","No","Solaris","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2008-11","Yes","Yes","Yes"
 "QtCreator","GPL/LGPL/Proprietary","Yes","Yes","Yes","FreeBSD,Maemo,OpenBSD,Symbian","C++","Yes","Yes","Yes","Yes","No","Yes","Yes(clang)","Yes","Yes","2019-06","External","External","Yes"

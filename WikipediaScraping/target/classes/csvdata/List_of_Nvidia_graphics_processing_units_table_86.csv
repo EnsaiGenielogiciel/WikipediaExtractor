@@ -40,7 +40,7 @@
 "T4GPUaccelerator(PCIecard)","Turing","September12,2018","1×TU104-895-A1","N/A","2560","585","1590","GDDR6","256","16","Unknown","320","No","8100","Unknown","7.5","70","PCIecard"
 "A2GPUaccelerator(PCIecard)","Ampere","November10th,2021","1×GA107","N/A","1280","1440","1770","GDDR6","128","24","Unknown","600","No","4531","140","8.6","40-60","PCIecard(halfheight,single-slot)"
 "A10GPUaccelerator(PCIecard)","Ampere","April12th,2021","1×GA102-890-A1","N/A","9216","885","1695","GDDR6","384","24","Unknown","600","No","31240","976","8.6","150","PCIecard(single-slot)"
-"A16GPUaccelerator(PCIecard)","Ampere","April12th,2021","4×GA107","N/A","10240","885","1695","GDDR6","4x128","4x16","Unknown","4x231.9","No","34712","1084.8","8.6","250","PCIecard(dual-slot)"
+"A16GPUaccelerator(PCIecard)","Ampere","April12th,2021","4×GA107","N/A","4×1280","885","1695","GDDR6","4×128","4×16","Unknown","4×200","No","4×4608","1084.8","8.6","250","PCIecard(dual-slot)"
 "A30GPUaccelerator(PCIecard)","Ampere","April12th,2021","1×GA100","N/A","3584","930","1440","HBM2","3072","24","Unknown","933.1","No","10320","5161","8.0","165","PCIecard(dual-slot)"
 "A40GPUaccelerator(PCIecard)","Ampere","October5th,2020","1×GA102","N/A","10752","1305","1740","GDDR6","384","48","Unknown","695.8","No","37420","1168","8.6","300","PCIecard(dual-slot)"
 "A100GPUaccelerator(PCIecard)","Ampere","May14th,2020","1×GA100-883AA-A1","N/A","6912","765","1410","HBM2","5120","40or80","Unknown","1555","No","19500","9700","8.0","250","PCIecard"

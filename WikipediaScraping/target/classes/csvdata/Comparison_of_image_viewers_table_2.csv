@@ -26,5 +26,5 @@
 "WindowsPhotoViewer","","","BMP","JPEG","PNG","TIFF","GIF","","WMF,EMF,ICO"
 "XnViewandXnViewMP","","PDF","BMP","JPEG(IPTC&Exif)","PNG","TIFF(multipage)","GIF","PSD","readsover500formats,including:FAX,EPS,WMF,DICOM,DPX;writesabout75formats"
 "Xv","","","BMP","JPEG","PNG(withpatch)","TIFF","GIF","","PBM,PGM,PPM,XPM,SunRasterfile,Targa,RGB,PCX,FITS,PM,PostScript"
-"ZonerPhotoStudio","","","BMP","JPEG","PNG","TIFF","GIF/aGIF","","HDP/WDP,PSD,PSB,PSP/PSPIMAGE,DIB/RLE,J2K/JPC/JP2,PAM,PBM,PGM,PNM,PCD,PCX,WBMP/WBM,TGA,ICO,MAC,WPG,BMI,MDM,THN,DCM,stereopictures:JPS,PNS,BMS."
+"ZonerPhotoStudio","","","BMP","JPEG","PNG","TIFF","GIF/aGIF","PSD","HDP/WDP,PSB,PSP/PSPIMAGE,DIB/RLE,J2K/JPC/JP2,PAM,PBM,PGM,PNM,PCD,PCX,WBMP/WBM,TGA,ICO,MAC,WPG,BMI,MDM,THN,DCM,stereopictures:JPS,PNS,BMS."
 "Program","Comicbook","PDF","BMP","JPEG","PNG","TIFF","GIF","PSD","Othergraphicsfileformats"

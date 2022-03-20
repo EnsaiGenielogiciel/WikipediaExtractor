@@ -22,6 +22,7 @@ import wikipediaScraping.WikipediaHTMLExtractor;
 
 
 
+
 @RestController
 public class ExtractorController {
 
@@ -31,16 +32,15 @@ public class ExtractorController {
 	  @PathVariable("link") String link) throws IOException {
 		WikipediaHTMLExtractor scrap = new WikipediaHTMLExtractor("https://en.wikipedia.org/wiki/", link);
 		scrap.htmlParser();
-		ExtractorA ext= new ExtractorA(scrap);
-		int total_table = ext.scraper(true);
-		Dictionary<Integer, List<ArrayList<String>>> T= ext.getTableData();
+		int total_table = scrap.scraper(true);
+		List<ArrayList<String>> T= scrap.getTableData();
 		
 	    
 		Gson json =new Gson();
 		String jsonString =json.toJson(T);
 		System.out.println(jsonString);
 		
-	    return "the tables of link : " + link + "  are  : { " +  jsonString + " } " ;
+	    return "the table of link : " + link + "  is " +  jsonString;
 	    
 	 
 	}

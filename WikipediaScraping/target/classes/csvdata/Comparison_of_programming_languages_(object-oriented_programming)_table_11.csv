@@ -6,7 +6,7 @@
 "Smalltalk","xmethod«:parameter«bar:parameter...»»","N/A","","clsmethod«:parameter«bar:parameter...»»",""
 "Swift","x.method(parameters)","","x.property","cls.member",""
 "APL(Dyalog)","leftargument»x.method«rightargument(s)»","x.field","x.property","cls.member","ns.member"
-"C#","x.method(parameters)","x.field","cls.member","ns.member",""
+"C#","x.method(parameters)","x.field","cls.member","ns.member"
 "Java","x.method(parameters)","N/A","x.field","cls.member","ns.member"
 "D","x.method(parameters)","x.property","x.field","cls.member","ns.member"
 "Python","x.property","x.method(parameters)","x.field","cls.member","ns.member"

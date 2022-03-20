@@ -1,4 +1,4 @@
-"CardSlot","CF","CF","CFast","SM","MMC","MMC","MemoryStick","MemoryStick","MemoryStick","MemoryStick","SDSC","SDSC","SDSC","SDHC","SDHC","SDHC","SDXC","SDXC","xD","xD","xD","XQD"
+"CardSlot","CF","CF","CFast","MMC","MemoryStick","SDSC","SDHC","SDXC","xD","xD","SDHC","SDSC","MemoryStick","MemoryStick","SM","MMC","MemoryStick","SDSC","SDHC","SDXC","xD","XQD"
 "CardSlot","I","II","","","MMC","RS-MMC,MMCmobile","Std","PRO","PRODuo","Micro","SDSC","miniSD","microSD","SDHC","miniSDHC","microSDHC","SDXC","microSDXC","Std","M","H",""
 "ExpressCard","E","E","","","E","","E","E","E","","E","E","E","","","","","","E","E","E","EM"
 "PCIExpressMiniCard","","","","","","","","","","","","","","","","","","","","","","EM"
@@ -25,6 +25,6 @@
 "SerialATA","E","E","EM","","","","","","","","","","","","","","","","","","",""
 "PCIExpress","","","","","","","","","","","","","","","","","","","","","","EM"
 "USB","X","X","","X","X","","X","X","E","E","E","","E","","","","","","X","X","X","X"
-"Floppy","","","","E","E","E+M","E","E","","","","","","","","","","","","","",""
+"Floppy","","","","E","E","E+M","E","E","","","","","","","","","","","","",""
 "NintendoDSSlot-1","","","","","","","","","","","","","E","","","","","","","","",""
 "NintendoDSSlot-2","","","","","","","","","","","E","E","E","","","","","","","","",""

@@ -1,4 +1,4 @@
-"Architecture","Fabrication(nm)","Family","ReleaseDate","Codename","ModelGroup","Cores","SMT","Clockrate(MHz)","BusSpeed&Type","Cache","Cache","Cache","Socket","MemoryController","Features","Features","Features"
+"Architecture","Fabrication(nm)","Family","ReleaseDate","Codename","ModelGroup","Cores","SMT","Clockrate(MHz)","BusSpeed&Type","Cache","Cache","Cache","Features","Features","Socket","MemoryController","Features"
 "Architecture","Fabrication(nm)","Family","ReleaseDate","Codename","ModelGroup","Cores","SMT","Clockrate(MHz)","BusSpeed&Type","L1","Socket","MemoryController","L2","L3","SIMD","Speed/Power","Other"
 "Am386","","Am386","","Sx/SxL/SxLV","","1","No","25-40","","","","","100PQFP","","","",""
 "Am486","500,350","Am486","","25-120","168pinPGA208SQFP","1","No","","","8","","","","","","",""
@@ -193,4 +193,4 @@
 "Zen3","7TSMCN7","Zen","March2021","Milan","yes","EPYC7003series","","32kBdata32kBinst.percore","512kBpercore","8/16/24/28/32/48/56/64","2000-3700(3450-4100boost)","64-256MB(16-32MBperCCD/CCX)","MMX(+),SSE,SSE2,SSE3,SSE3s,SSE4a,SSE4.1,SSE4.2x86-64,AMD-V,AVX,AVX2","","AMD64,AES,CLMUL,FMA3,CVT16/F16C,ABM,BMI1,BMI2,SHA","SocketSP3","DDR4(8channels)"
 "Zen","6TSMCN6","Zen3+","January2022","Rembrandt","yes","Ryzen5(6600U,6600H,6600HS)Ryzen7(6800U,6800H,6800HS)Ryzen9(6900HS,6900HX,6980HS,6980HX)","6/8","2700-3300(4500-5000boost)","","32kBdata32kBinst.percore","512kBpercore","16MB","SocketFP7","Dual-channelDDR5orLPDDR5","","",""
 "Architecture","Fabrication","Family","ReleaseDate","CodeName","ModelGroup","Cores","SMT","Clockrate(MHz)","BusSpeed&Type","L1","L2","L3","Socket","MemoryController","SIMD","Speed/Power","Other"
-"Architecture","Cache","Cache","Fabrication","Features","Features","Family","ReleaseDate","CodeName","ModelGroup","Cores","SMT","Clockrate(MHz)","BusSpeed&Type","Cache","Features","Socket","MemoryController"
+"Cache","Features","Features","Cache","Architecture","Fabrication","Family","ReleaseDate","CodeName","ModelGroup","Cores","SMT","Clockrate(MHz)","BusSpeed&Type","Cache","Features","Socket","MemoryController"
