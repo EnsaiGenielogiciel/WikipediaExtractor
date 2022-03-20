@@ -57,6 +57,7 @@ Each time you can choose the wikilink from the list of links that work and it sh
 We have a simple architecture, the class WikipediaHTMLExtractor enable us to parse the html code and see if we have tables or not. We see if the attribute 'class' of the table contain the word "wikitable".
 Then extracts the tables if the WikipediaHTMLExtractor has tables of strictly positif sizes . It starts by the method scraper which merges multiple other methods in order to create rows, fill the Cell Rowspan, the CellColspan and standardize the number of columns.
 Eventually, the csv is created and the data is in it. 
+![diagramme](https://user-images.githubusercontent.com/50030050/159177550-9288c4fa-f0d7-4806-b86a-5388f6dc0ef9.png)
 
 
 #### 5.  design Pattern
