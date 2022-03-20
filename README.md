@@ -51,8 +51,7 @@ To run the project, just clone it, then import the wikipediaScraping project in 
 A test *mvn test* will allow to run the unit tests, and to apply the extractor on the links listed above.
 A mvn spring-boot:run should enable to run the spring boot app. An url of type :
 http:localhost/Link/wikilink
-Each time you can choose the wikilink from the list of links that work. 
-should display information on all tables of the wikilink.
+Each time you can choose the wikilink from the list of links that work and it should display information on all tables of the wikilink.
 
 #### 4. Architecture 
 We have a simple architecture, the class WikipediaHTMLExtractor enable us to parse the html code and see if we have tables or not. We see if the attribute 'class' of the table contain the word "wikitable".
@@ -76,8 +75,7 @@ Indeed, in some cases, we sometimes have a lot of cells with cellspan and rowspa
 - When the page no longer exists, the application indicates that the page is non-existent and does not perform any task.
 - A page can contain tags of table that are not really tables. We verify that it is a table before performing the scraping, checking that the "class" attribute of the tag contains the string "wikitable";
 
-However, it has some limitations. In fact and by exploring the different pages we realized that in some cases, there were errors in the structure of the basic html code. Indeed, the last cell of a row could contain a "colspan" attribute that spans more cells than there are total columns. To handle this case, we remove blank cells at the end
-of a row so that the total number of cells equals the number of columns. Note that these empty cells exist because new cells have been created using the colspan attributes. In the case of the rowspan attribute, we have managed this case, by creating a cell each time if and only the number of rows in a table is not exceeded.
+However, it has some limitations. In fact and by exploring the different pages we realized that in some cases, there were errors in the structure of the basic html code. Indeed, the last cell of a row could contain a "colspan" attribute that spans more cells than there are total columns. To handle this case, we remove blank cells at the end of each row so that the total number of cells equals the number of columns. Note that these empty cells exist because new cells have been created using the colspan attributes. In the case of the rowspan attribute, we have managed this case, by creating a cell each time if and only the number of rows in a table is not exceeded.
 
 In addition, some <tr> </tr> tags contained fewer cells than the total number of columns (ex: https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)). To handle this case, we complete the corresponding rows with empty cells.
 For some tables (those for which the class attribute contained "jquery sortable"), we found that by retrieving the texts at the column level, if the name of a column contained more than one word, the space between the words disappeared.
