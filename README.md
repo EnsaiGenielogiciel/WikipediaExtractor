@@ -60,7 +60,7 @@ Eventually, the csv is created and the data is in it.
 ![diagramme](https://user-images.githubusercontent.com/50030050/159177550-9288c4fa-f0d7-4806-b86a-5388f6dc0ef9.png)
 
 
-#### 5.  design Pattern
+#### 5.  Design Pattern
 Design Patterns allow to solve problems related to the architecture or to optimize the code.
 Since in here we have only the extraction class, there are no different types of classes from which we might deduct a possible pattern design approach. So, Instead, we thought of the observer pattern design while logging the entire application. 
 The results of methods and the updates are shown at run time. 
